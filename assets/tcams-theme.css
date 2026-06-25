@@ -1,0 +1,86 @@
+/* TCAMS brand tokens + poll UI theme (from tcams-poll.html) */
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Inter:wght@400;450;500;600&family=Space+Mono&display=swap');
+
+:root {
+  --bg: #eef1f6;
+  --surface: #ffffff;
+  --surface-2: #f7f9fc;
+  --border: #e4e8ef;
+  --border-2: #d6dce6;
+  --navy: #1f3a6e;
+  --navy-deep: #13294d;
+  --green: #40a247;
+  --green-deep: #2f7d39;
+  --green-soft: #e9f5ea;
+  --gold: #e8c027;
+  --gold-deep: #c9a414;
+  --gold-soft: #fbf4d8;
+  --sky: #46a4db;
+  --text: #1d2734;
+  --muted: #6c7686;
+  --faint: #99a3b2;
+  --data: #46506a;
+  --shadow: 0 1px 2px rgba(20, 32, 60, 0.04), 0 8px 22px -12px rgba(20, 32, 60, 0.18);
+  --r: 16px;
+
+  /* legacy aliases */
+  --tcams-navy: var(--navy);
+  --tcams-navy-deep: var(--navy-deep);
+  --tcams-green: var(--green);
+  --tcams-green-deep: var(--green-deep);
+  --tcams-yellow: var(--gold);
+  --tcams-sky: var(--sky);
+  --tcams-white: var(--surface);
+  --tcams-font: 'Inter', system-ui, sans-serif;
+  --tcams-display: 'Plus Jakarta Sans', sans-serif;
+  --tcams-mono: 'Space Mono', ui-monospace, monospace;
+  --tcams-flag: linear-gradient(
+    90deg,
+    var(--green) 0 25%,
+    var(--gold) 25% 50%,
+    #0a0a0a 50% 75%,
+    var(--sky) 75% 100%
+  );
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--tcams-font);
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.display {
+  font-family: var(--tcams-display);
+}
+
+.mono {
+  font-family: var(--tcams-mono);
+}
+
+/* logo utilities (unchanged) */
+.tcams-logo {
+  display: inline-flex;
+  align-items: center;
+  line-height: 0;
+  user-select: none;
+}
+
+.tcams-logo__img {
+  height: var(--tcams-logo-h, 56px);
+  width: auto;
+  display: block;
+}

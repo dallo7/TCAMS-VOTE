@@ -1,0 +1,595 @@
+/* TCAMS poll page layout + vote animation */
+
+.tcams-page {
+  min-height: 100vh;
+  background: var(--bg);
+  font-family: var(--tcams-font);
+}
+
+.tcams-page .container {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 30px 24px 60px;
+}
+
+/* header */
+.tcams-page .head {
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.tcams-page .head h1 {
+  font-family: var(--tcams-display);
+  font-weight: 800;
+  font-size: clamp(26px, 3.4vw, 34px);
+  letter-spacing: -0.6px;
+  color: var(--navy);
+  margin: 0;
+}
+
+.tcams-page .head p {
+  font-family: var(--tcams-display);
+  font-weight: 600;
+  font-size: 15px;
+  color: var(--muted);
+  margin: 8px 0 0;
+}
+
+.tcams-page .flag-rule {
+  height: 4px;
+  width: 120px;
+  margin: 14px auto 0;
+  border-radius: 4px;
+  background: var(--tcams-flag);
+}
+
+/* alerts */
+.tcams-alert {
+  border-radius: 12px;
+  padding: 12px 16px;
+  margin: 0 0 18px;
+  font-size: 13px;
+}
+
+.tcams-alert--pending {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--muted);
+}
+
+.tcams-alert--active {
+  display: none;
+}
+
+.tcams-alert--closed {
+  background: #f3f4f6;
+  border: 1px solid var(--border);
+  color: var(--muted);
+}
+
+.tcams-alert--success {
+  background: var(--green-soft);
+  border: 1px solid #cbe6cd;
+  color: var(--green-deep);
+}
+
+.tcams-alert--error {
+  background: #fdecea;
+  border: 1px solid #f5c6c2;
+  color: #b42318;
+}
+
+/* time banner */
+.tcams-page .banner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  background: var(--green-soft);
+  border: 1px solid #cbe6cd;
+  border-radius: 12px;
+  padding: 12px 16px;
+  margin: 18px 0 22px;
+}
+
+.tcams-page .banner svg {
+  width: 16px;
+  height: 16px;
+  color: var(--green-deep);
+  flex: none;
+}
+
+.tcams-page .banner b,
+.tcams-page .banner .timer-value {
+  font-family: var(--tcams-mono);
+  font-size: 13px;
+  color: var(--green-deep);
+  letter-spacing: -0.3px;
+  font-weight: 700;
+}
+
+.tcams-page .banner span {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+/* grid + cards */
+.tcams-page .poll-grid {
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: 22px;
+  align-items: start;
+}
+
+.tcams-page .card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  box-shadow: var(--shadow);
+}
+
+.tcams-page .pad {
+  padding: 22px 24px;
+}
+
+.tcams-page .card-title {
+  font-family: var(--tcams-display);
+  font-weight: 800;
+  font-size: 19px;
+  letter-spacing: -0.3px;
+  color: var(--navy);
+  margin: 0 0 18px;
+}
+
+.tcams-page .card-title.sm {
+  font-size: 16px;
+  margin-bottom: 14px;
+}
+
+.tcams-page .stack {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+/* Mantine form overrides */
+.tcams-page .field-wrap {
+  margin-bottom: 15px;
+}
+
+.tcams-page .mantine-InputWrapper-label,
+.tcams-page .field-wrap label {
+  display: block;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 7px;
+}
+
+.tcams-page .mantine-TextInput-input,
+.tcams-page .mantine-Select-input,
+.tcams-page .mantine-Autocomplete-input,
+.tcams-page .mantine-Textarea-input {
+  width: 100%;
+  border: 1px solid var(--border-2) !important;
+  border-radius: 10px !important;
+  font-family: var(--tcams-font) !important;
+  font-size: 13.5px !important;
+  color: var(--text) !important;
+  background: var(--surface) !important;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.tcams-page .mantine-TextInput-input,
+.tcams-page .mantine-Select-input,
+.tcams-page .mantine-Autocomplete-input {
+  height: 44px !important;
+  min-height: 44px !important;
+  padding-left: 13px !important;
+  padding-right: 13px !important;
+}
+
+.tcams-page .mantine-Textarea-input {
+  padding: 11px 13px !important;
+  min-height: 84px !important;
+  line-height: 1.5 !important;
+}
+
+.tcams-page .mantine-TextInput-input:focus,
+.tcams-page .mantine-Select-input:focus,
+.tcams-page .mantine-Autocomplete-input:focus,
+.tcams-page .mantine-Textarea-input:focus {
+  outline: none !important;
+  border-color: var(--navy) !important;
+  box-shadow: 0 0 0 3px rgba(31, 58, 110, 0.1) !important;
+}
+
+.tcams-page .mantine-InputWrapper-root {
+  margin-bottom: 0 !important;
+}
+
+/* vote buttons */
+.vote-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 6px;
+}
+
+.tcams-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 46px;
+  border-radius: 11px;
+  font-family: var(--tcams-display);
+  font-weight: 700;
+  font-size: 14px;
+  cursor: pointer;
+  border: 1.5px solid transparent;
+  transition: filter 0.15s, transform 0.15s, background 0.15s;
+  width: 100%;
+}
+
+.tcams-btn svg {
+  width: 16px;
+  height: 16px;
+  flex: none;
+}
+
+.tcams-btn:hover {
+  transform: translateY(-1px);
+}
+
+.tcams-btn--green {
+  background: var(--green);
+  color: #fff;
+  box-shadow: 0 8px 18px -10px rgba(64, 162, 71, 0.7);
+}
+
+.tcams-btn--green:hover {
+  filter: brightness(1.06);
+}
+
+.tcams-btn:not(.tcams-btn--green):not(.tcams-btn--ghost) {
+  background: var(--navy);
+  color: #fff;
+  box-shadow: 0 8px 18px -10px rgba(31, 58, 110, 0.7);
+}
+
+.tcams-btn:not(.tcams-btn--green):not(.tcams-btn--ghost):hover {
+  filter: brightness(1.1);
+}
+
+.tcams-btn--ghost {
+  background: #fff;
+  border-color: var(--gold);
+  color: var(--gold-deep);
+  margin-top: 10px;
+}
+
+.tcams-btn--ghost:hover {
+  background: var(--gold-soft);
+}
+
+/* results */
+.results-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.results-head .t {
+  font-family: var(--tcams-display);
+  font-weight: 800;
+  font-size: 17px;
+  color: var(--navy);
+}
+
+.pill {
+  font-family: var(--tcams-mono);
+  font-size: 11.5px;
+  color: #fff;
+  background: var(--sky);
+  border-radius: 999px;
+  padding: 5px 12px;
+  letter-spacing: -0.2px;
+  white-space: nowrap;
+}
+
+.tally-row {
+  margin-bottom: 18px;
+}
+
+.tally-row:last-child {
+  margin-bottom: 0;
+}
+
+.tally-label-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 7px;
+}
+
+.tally-label {
+  font-family: var(--tcams-display);
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 0.02em;
+}
+
+.tally-pct {
+  font-family: var(--tcams-mono);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.tally-bar {
+  height: 11px;
+  border-radius: 6px;
+  background: #eceff4;
+  overflow: hidden;
+}
+
+.tally-fill {
+  height: 100%;
+  border-radius: 6px;
+  transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tally-fill.f-green {
+  background: var(--green);
+}
+
+.tally-fill.f-navy {
+  background: var(--navy);
+}
+
+.tally-fill.f-gold {
+  background: var(--gold);
+}
+
+.tally-count {
+  display: block;
+  font-family: var(--tcams-mono);
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 6px;
+}
+
+.c-green {
+  color: var(--green);
+}
+
+.c-navy {
+  color: var(--navy);
+}
+
+.c-gold {
+  color: var(--gold-deep);
+}
+
+/* analytics summary */
+.summary {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 13px;
+  padding: 16px 18px;
+  margin-bottom: 18px;
+}
+
+.summary .k {
+  font-size: 12.5px;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.summary .big {
+  font-family: var(--tcams-display);
+  font-weight: 800;
+  font-size: 30px;
+  color: var(--green);
+  line-height: 1.1;
+  margin: 2px 0 8px;
+}
+
+.summary .note {
+  font-size: 13px;
+  color: #3c4654;
+  line-height: 1.55;
+}
+
+.summary .note b {
+  color: var(--navy);
+  font-weight: 600;
+}
+
+.duo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.mini {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 13px;
+  padding: 16px;
+}
+
+.mini h4 {
+  font-family: var(--tcams-display);
+  font-weight: 700;
+  font-size: 13.5px;
+  color: var(--navy);
+  margin: 0 0 8px;
+}
+
+.chart-card {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  min-height: 240px;
+  overflow: visible;
+}
+
+.chart-card .js-plotly-plot,
+.chart-card .js-plotly-plot .plotly,
+.chart-card .js-plotly-plot .plot-container {
+  overflow: visible !important;
+}
+
+.chart-card .js-plotly-plot .plotly .modebar {
+  display: none;
+}
+
+/* rank lists */
+.rank {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.rank:last-child {
+  border-bottom: 0;
+}
+
+.rank .n {
+  width: 22px;
+  height: 22px;
+  border-radius: 7px;
+  display: grid;
+  place-items: center;
+  flex: none;
+  font-family: var(--tcams-display);
+  font-weight: 700;
+  font-size: 11px;
+  background: var(--navy);
+  color: #fff;
+}
+
+.rank .nm {
+  font-size: 13px;
+  color: var(--text);
+  font-weight: 500;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rank .ct {
+  font-family: var(--tcams-mono);
+  font-size: 11.5px;
+  color: var(--muted);
+  flex: none;
+}
+
+.rank-empty {
+  font-size: 12.5px;
+  color: var(--faint);
+  padding: 8px 0;
+}
+
+/* animation */
+.animation-layer {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+}
+
+.vote-block {
+  position: fixed;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  z-index: 10000;
+  will-change: transform, opacity;
+}
+
+.vote-block--yes {
+  background: var(--green);
+}
+
+.vote-block--no {
+  background: var(--navy);
+}
+
+.vote-block--not_sure {
+  background: var(--gold);
+}
+
+.tally-bar.pulse {
+  animation: tcamsBarPulse 0.45s ease;
+}
+
+@keyframes tcamsBarPulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.02);
+    box-shadow: 0 0 0 4px rgba(64, 162, 71, 0.25);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(10px);
+  animation: rise 0.55s ease forwards;
+}
+
+.d2 {
+  animation-delay: 0.07s;
+}
+
+@keyframes rise {
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (max-width: 900px) {
+  .tcams-page .poll-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .duo {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
+  }
+
+  .tally-fill {
+    transition: none;
+  }
+
+  .vote-block {
+    display: none;
+  }
+}

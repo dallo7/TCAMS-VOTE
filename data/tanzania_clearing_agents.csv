@@ -1,0 +1,3118 @@
+SN,Name,Gender,Region,Nearest Port / Border Customs Station
+1,Ramadhani Macha,Male,Kilimanjaro,Tarakea Border
+2,Hemedi Haule,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3,Juma Tarimo,Male,Kilimanjaro,Moshi (clearing)
+4,Nestory Mfaume,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+5,Castory Kibwana,Male,Mtwara,Mtambaswala (Unity Bridge)
+6,Richard Minja,Male,Kilimanjaro,Moshi (clearing)
+7,Lucas Athumani,Male,Pwani,Mafia Jetty
+8,Fabian Paul,Male,Songwe,Kasumulu Border (Malawi)
+9,Juma Andrea Range,Male,Ruvuma,Songea (clearing)
+10,Bakari George Mlowe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+11,George Gabriel Kulwa,Male,Mwanza,Mwanza South Port (Lake Victoria)
+12,Tabu Mathayo Bhoke,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+13,Filbert Kihwele,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+14,Abdallah Lyimo,Male,Kilimanjaro,Holili Border (Kenya)
+15,Issa Iddi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+16,John George Kassim,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+17,Erick Daniel,Male,Mbeya,Tunduma Corridor
+18,Peter Mayala,Male,Mwanza,Mwanza South Port (Lake Victoria)
+19,Ally Komba,Male,Dar es Salaam,Kurasini ICD
+20,Eliya Peter Chacha,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+21,Selemani Mwasanguti,Male,Songwe,Kasumulu Border (Malawi)
+22,Deogratias Ngonyani,Male,Arusha,Arusha (clearing)
+23,Emmanuel Range,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+24,Masunga Magige,Male,Mtwara,Mtwara Port
+25,Godfrey Lucas Paul,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+26,Elia Chacha,Male,Songwe,Tunduma Border (Zambia)
+27,Amina John,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+28,Shufaa Bhoke,Female,Mbeya,Mbeya ICD
+29,Latifa Khamis,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+30,Mussa Erick Hemedi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+31,Mathayo Edmund Mhagama,Male,Arusha,Namanga Border (Kenya)
+32,Latifa Magige,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+33,Renatus Goodluck Lazaro,Male,Arusha,Namanga Border (Kenya)
+34,Filbert Mwinyi,Male,Tanga,Tanga Port
+35,Gloria Lameck Mmari,Female,Kilimanjaro,Tarakea Border
+36,Tatu Ndaki,Female,Mara,Musoma Port (Lake Victoria)
+37,Fabian Deogratias Mfaume,Male,Dar es Salaam,Kurasini ICD
+38,Mwanaidi Deogratias Mosha,Female,Kilimanjaro,Tarakea Border
+39,Nestory Rwechungura,Male,Kagera,Bukoba Port
+40,Mfaume Peter Mlowe,Male,Mara,Sirari Border (Kenya)
+41,Rukia Doto Wambura,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+42,Andrea Omari Rweyemamu,Male,Kagera,Mutukula Border (Uganda)
+43,Gervas Chande Lazaro,Male,Mwanza,Mwanza North Port
+44,Tunu Zakaria Daniel,Female,Kigoma,Kabanga Border
+45,Mathayo Paul,Male,Kagera,Rusumo Border (Rwanda)
+46,Tabu Gideon Bhoke,Male,Mara,Sirari Border (Kenya)
+47,Mwanaharusi Mohamed Mohamed,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+48,Mfaume Mtumwa,Male,Tanga,Horohoro Border (Kenya)
+49,Athumani Mgaya,Male,Dar es Salaam,Kurasini ICD
+50,Zuhura Lazaro,Female,Songwe,Tunduma Border (Zambia)
+51,Yusuph Salehe Maduhu,Male,Mwanza,Mwanza North Port
+52,Flora Maulidi,Female,Dar es Salaam,Kurasini ICD
+53,Abdallah Salum,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+54,Marko Januari Bakari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+55,Filbert John Michael,Male,Dar es Salaam,Kurasini ICD
+56,Glory Daniel,Female,Mwanza,Mwanza North Port
+57,Bakari Lyatu,Male,Mbeya,Tunduma Corridor
+58,Mabula Januari Mosha,Male,Kilimanjaro,Moshi (clearing)
+59,Mohamed Mhagama,Male,Kagera,Rusumo Border (Rwanda)
+60,Filbert Method Nassoro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+61,Juma Aloyce Mussa,Male,Dar es Salaam,Kurasini ICD
+62,Flora Hamza Kibwana,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+63,Consolata Lucas Wambura,Female,Ruvuma,Songea (clearing)
+64,Chande Lucas Mlay,Male,Kilimanjaro,Holili Border (Kenya)
+65,Maria Mwita Kihwele,Female,Kigoma,Kabanga Border
+66,Neema Mzee,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+67,Salehe Daniel,Male,Arusha,Namanga Border (Kenya)
+68,Iddi Michael,Male,Rukwa,Sumbawanga (clearing)
+69,Shabani Kassim Shabani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+70,Gabriel Kihwele,Male,Mwanza,Mwanza South Port (Lake Victoria)
+71,Nestory Wambura,Male,Dar es Salaam,Kurasini ICD
+72,Hamza Hemedi Kessy,Male,Arusha,Arusha (clearing)
+73,Kulwa Kelvin Nyoni,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+74,Eliya Rajabu Mhagama,Male,Songwe,Tunduma Border (Zambia)
+75,Selemani Magige,Male,Arusha,Arusha (clearing)
+76,Januari Bhoke,Male,Kagera,Mutukula Border (Uganda)
+77,Castory Mwaisaka,Male,Mbeya,Kyela (Lake Nyasa)
+78,Sikujua Baraka Mussa,Female,Dar es Salaam,Kurasini ICD
+79,Wilfred Mushi,Male,Arusha,Namanga Border (Kenya)
+80,Baraka Bhoke,Male,Mwanza,Mwanza North Port
+81,Iddi Shabani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+82,Kulwa Komba,Male,Dar es Salaam,Kurasini ICD
+83,John Hassan,Male,Tanga,Horohoro Border (Kenya)
+84,Mosi Wambura,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+85,Pendo Mtumwa,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+86,Erick Lyatu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+87,Zakaria Swai,Male,Arusha,Namanga Border (Kenya)
+88,Gloria Mlowe,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+89,Said Haule,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+90,Rashidi Mwakatobe,Male,Mwanza,Mwanza South Port (Lake Victoria)
+91,Editha Frank Michael,Female,Mbeya,Mbeya ICD
+92,Athumani Paul,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+93,Constantine Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+94,Januari Gideon Haule,Male,Kigoma,Kabanga Border
+95,Khadija Rajabu Hassan,Female,Tanga,Tanga Port
+96,Aidan Mtitu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+97,Aidan Tabu Mhagama,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+98,Charles Peter Mwita,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+99,Ramadhani Mmari,Male,Arusha,Namanga Border (Kenya)
+100,Fabian Bakari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+101,Editruda Nyoni,Female,Dar es Salaam,Kurasini ICD
+102,Mathayo Khamis Maulidi,Male,Dar es Salaam,Kurasini ICD
+103,Kelvin Joseph,Male,Dar es Salaam,Kurasini ICD
+104,Kassim Mtui,Male,Arusha,Namanga Border (Kenya)
+105,Boniface Gervas Mgaya,Male,Mwanza,Mwanza South Port (Lake Victoria)
+106,Mabula Mussa Shabani,Male,Dar es Salaam,Kurasini ICD
+107,Asha Mwinyi,Female,Pwani,Bagamoyo
+108,Mwanahawa Komba,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+109,Stella Juma Doto,Female,Mara,Sirari Border (Kenya)
+110,Aidan Komba,Male,Arusha,Arusha (clearing)
+111,Gloria Mabula Haule,Female,Mtwara,Mtwara Port
+112,Athumani Salehe Mwaisaka,Male,Songwe,Tunduma Border (Zambia)
+113,Salum Issa,Male,Dar es Salaam,Kurasini ICD
+114,Erick Ramadhani Lyatu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+115,Salma Macha,Female,Kilimanjaro,Holili Border (Kenya)
+116,Editha Nyoni,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+117,Eliya Kihwele,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+118,Aidan Ndosi,Male,Kilimanjaro,Holili Border (Kenya)
+119,Ramadhani Aloyce Mgaya,Male,Mara,Sirari Border (Kenya)
+120,Felician Modest Haule,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+121,Shabani Wilfred Masunga,Male,Mara,Sirari Border (Kenya)
+122,Chande Mutabazi,Male,Kagera,Bukoba Port
+123,Erick Range,Male,Katavi,Karema Port (Lake Tanganyika)
+124,Ramadhani Mhagama,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+125,Felician John,Male,Arusha,Arusha (clearing)
+126,Stephano Mwita,Male,Kagera,Rusumo Border (Rwanda)
+127,Mussa Nyoni,Male,Dar es Salaam,Kurasini ICD
+128,Clemence Mwaisaka,Male,Songwe,Kasumulu Border (Malawi)
+129,Mwita Ngonyani,Male,Kagera,Mutukula Border (Uganda)
+130,Shabani Mwaikambo,Male,Mbeya,Tunduma Corridor
+131,Anthony Hassan,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+132,Wilfred Filbert Mohamed,Male,Dar es Salaam,Kurasini ICD
+133,Mwinyi Juma,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+134,Andrea Mhagama,Male,Kagera,Bukoba Port
+135,George Munisi,Male,Kilimanjaro,Moshi (clearing)
+136,Omari Goodluck John,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+137,Ally Method Mapunda,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+138,Renatus Mhagama,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+139,Issa Aidan Mhagama,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+140,Constantine Komba,Male,Arusha,Arusha (clearing)
+141,Zakaria Mwinyi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+142,Gabriel Haule,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+143,Erick Innocent Chacha,Male,Arusha,Namanga Border (Kenya)
+144,Hamza Masunga,Male,Mara,Sirari Border (Kenya)
+145,Aloyce Michael,Male,Arusha,Arusha (clearing)
+146,Erick Bhoke,Male,Kagera,Mutukula Border (Uganda)
+147,Theophil Mwinyi,Male,Mtwara,Mtwara Port
+148,Mwita Ramadhani Mwakalinga,Male,Mbeya,Mbeya ICD
+149,Joseph Mtui,Male,Kilimanjaro,Moshi (clearing)
+150,Agnes Omari Mlowe,Female,Dar es Salaam,Kurasini ICD
+151,Salum Kessy,Male,Arusha,Arusha (clearing)
+152,Januari Mushi,Male,Kilimanjaro,Moshi (clearing)
+153,Hamza Renatus Ally,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+154,Elia Issa,Male,Mtwara,Mtambaswala (Unity Bridge)
+155,Husna Moshi,Female,Kilimanjaro,Holili Border (Kenya)
+156,Richard Lyimo,Male,Kilimanjaro,Holili Border (Kenya)
+157,Husna Said Abdallah,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+158,Eliya Said Massawe,Male,Kilimanjaro,Tarakea Border
+159,Zakaria Godfrey Haule,Male,Songwe,Tunduma Border (Zambia)
+160,Elia Paulo Madata,Male,Mwanza,Mwanza South Port (Lake Victoria)
+161,Nestory Hamza Wambura,Male,Arusha,Arusha (clearing)
+162,Paulo Doto Sanga,Male,Mbeya,Tunduma Corridor
+163,Editruda Deogratias Kasambala,Female,Mbeya,Kyela (Lake Nyasa)
+164,Petro Mwaijande,Male,Songwe,Kasumulu Border (Malawi)
+165,Erick Godfrey Doto,Male,Mwanza,Mwanza North Port
+166,Method Mapunda,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+167,Rajabu Mhagama,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+168,Yusuph Felician Kessy,Male,Kilimanjaro,Holili Border (Kenya)
+169,Ally Michael,Male,Dar es Salaam,Kurasini ICD
+170,Kulwa Mfaume Ngonyani,Male,Mwanza,Mwanza North Port
+171,Mwanahamisi Kiango Marwa,Female,Mara,Sirari Border (Kenya)
+172,Abdallah Ng'wanza Mgaya,Male,Dar es Salaam,Kurasini ICD
+173,Constantine Baraka Marwa,Male,Mbeya,Kyela (Lake Nyasa)
+174,Kulwa Mabula,Male,Mwanza,Mwanza South Port (Lake Victoria)
+175,Esther Paul,Female,Dar es Salaam,Kurasini ICD
+176,Furaha Joseph,Female,Rukwa,Sumbawanga (clearing)
+177,Sikujua Abdallah,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+178,Khamis Khamis,Male,Dar es Salaam,Kurasini ICD
+179,Onesmo Kasambala,Male,Songwe,Tunduma Border (Zambia)
+180,Elia Lazaro,Male,Arusha,Namanga Border (Kenya)
+181,Marko Mgaya,Male,Dar es Salaam,Kurasini ICD
+182,Joseph Nassoro Nyoni,Male,Dar es Salaam,Kurasini ICD
+183,Damian Tabu Rajabu,Male,Dar es Salaam,Kurasini ICD
+184,Latifa John,Female,Mbeya,Kyela (Lake Nyasa)
+185,Naomi Ramadhani Komba,Female,Mbeya,Mbeya ICD
+186,Anthony Marwa,Male,Mwanza,Mwanza South Port (Lake Victoria)
+187,Israel Lyatu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+188,Abdallah Bhoke,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+189,Edmund Kweka,Male,Arusha,Arusha (clearing)
+190,Zawadi Salum,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+191,Mohamed Issa Rugaimukamu,Male,Kagera,Bukoba Port
+192,Theophil Mwakatobe,Male,Kigoma,Kabanga Border
+193,Shufaa Kulwa Nyoni,Female,Arusha,Namanga Border (Kenya)
+194,Gervas Gabriel Ally,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+195,Prisca Mzee,Female,Dar es Salaam,Kurasini ICD
+196,Ramadhani Onesmo Mtitu,Male,Dar es Salaam,Kurasini ICD
+197,Mussa Mathayo Mosha,Male,Kilimanjaro,Moshi (clearing)
+198,Juma Michael,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+199,Rukia Mosha,Female,Kilimanjaro,Moshi (clearing)
+200,Lameck Wambura,Male,Mwanza,Mwanza South Port (Lake Victoria)
+201,Charles Ally,Male,Tanga,Horohoro Border (Kenya)
+202,Naomi Hassan,Female,Dar es Salaam,Kurasini ICD
+203,Neema Ally,Female,Mtwara,Mtambaswala (Unity Bridge)
+204,Boniface Ramadhani Issa,Male,Dar es Salaam,Kurasini ICD
+205,Issa Bakari Juma,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+206,Richard Komba,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+207,Selemani Ngonyani,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+208,Mwanahawa Mwita,Female,Dar es Salaam,Kurasini ICD
+209,Esther Kassim,Female,Pwani,Mlandizi ICD
+210,Gervas Maulidi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+211,Felician Clemence John,Male,Arusha,Namanga Border (Kenya)
+212,Lightness Mussa,Female,Tanga,Tanga Port
+213,Halima Said,Female,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+214,Castory Ndyetabura,Male,Kagera,Bukoba Port
+215,Selemani Issa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+216,Scholastica Michael,Female,Mbeya,Kyela (Lake Nyasa)
+217,Kulwa Mabula Bakari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+218,Juma Masunga Joseph,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+219,Gideon Haule,Male,Mbeya,Kyela (Lake Nyasa)
+220,Marko Aidan Maulidi,Male,Tanga,Horohoro Border (Kenya)
+221,Modest Ndosi,Male,Kilimanjaro,Tarakea Border
+222,Innocent Khamis Mtumwa,Male,Pwani,Mlandizi ICD
+223,Tabu Mwinyi,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+224,Kelvin Modest Ngonyani,Male,Mbeya,Kyela (Lake Nyasa)
+225,Grace Frank Bhoke,Female,Mbeya,Kyela (Lake Nyasa)
+226,Doto Selemani Mushi,Male,Kilimanjaro,Tarakea Border
+227,Januari Kweka,Male,Arusha,Namanga Border (Kenya)
+228,Daudi Kweka,Male,Kilimanjaro,Moshi (clearing)
+229,Daudi Juma,Male,Dar es Salaam,Kurasini ICD
+230,Joyce Mtitu,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+231,Castory Kiango Mtumwa,Male,Tanga,Horohoro Border (Kenya)
+232,Witness Shabani,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+233,Hellena Mohamed,Female,Pwani,Bagamoyo
+234,Clemence Maulidi,Male,Tanga,Tanga Port
+235,Joseph Hemedi,Male,Tanga,Horohoro Border (Kenya)
+236,Veronica Khamis,Female,Tanga,Tanga Port
+237,Amina Paul,Female,Kigoma,Manyovu Border (Burundi)
+238,Amina Mlowe,Female,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+239,George Lazaro,Male,Mara,Musoma Port (Lake Victoria)
+240,Zawadi Mapunda,Female,Mara,Sirari Border (Kenya)
+241,Stephano Gervas Mzee,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+242,Hassani Kihwele,Male,Mbeya,Mbeya ICD
+243,Said Kategile,Male,Kagera,Bukoba Port
+244,Catherine Macha,Female,Kilimanjaro,Tarakea Border
+245,Petro Abdallah Magige,Male,Kigoma,Kabanga Border
+246,Salehe Joseph,Male,Arusha,Arusha (clearing)
+247,Augustino Ramadhani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+248,Anna Tabu Mlowe,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+249,Gabriel Hamisi Nassoro,Male,Pwani,Bagamoyo
+250,Hamisi Yusuph Hassan,Male,Pwani,Bagamoyo
+251,Gervas Andrea Mwita,Male,Kigoma,Kabanga Border
+252,Rashidi Ramadhani Mgaya,Male,Ruvuma,Songea (clearing)
+253,Eliya Joseph,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+254,Eliya Shabani Lazaro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+255,Subira Lazaro,Female,Mbeya,Tunduma Corridor
+256,Kelvin Karoli,Male,Kagera,Bukoba Port
+257,Daudi Issa,Male,Tanga,Tanga Port
+258,Masunga Mapunda,Male,Arusha,Namanga Border (Kenya)
+259,Felician Paul,Male,Dar es Salaam,Kurasini ICD
+260,Daudi Bukombe,Male,Mara,Musoma Port (Lake Victoria)
+261,Mohamed Maulidi,Male,Dar es Salaam,Kurasini ICD
+262,Magdalena Nestory Bhoke,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+263,Audax Ally,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+264,Ng'wanza Lucas Wambura,Male,Mbeya,Tunduma Corridor
+265,Mwinyi Magige,Male,Mara,Musoma Port (Lake Victoria)
+266,Charles Hassan Iddi,Male,Dar es Salaam,Kurasini ICD
+267,Erick Mabula,Male,Mara,Sirari Border (Kenya)
+268,Clemence Rwechungura,Male,Kagera,Mutukula Border (Uganda)
+269,Salum Hemedi,Male,Tanga,Tanga Port
+270,Kiango Hemedi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+271,Asha Chacha,Female,Mbeya,Kyela (Lake Nyasa)
+272,Renatus Mzee,Male,Dar es Salaam,Kurasini ICD
+273,Zuhura Damian Mapunda,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+274,Renatus Shirima,Male,Kilimanjaro,Tarakea Border
+275,Glory Mohamed John,Female,Dar es Salaam,Kurasini ICD
+276,Fabian Paul,Male,Mwanza,Mwanza South Port (Lake Victoria)
+277,Selemani Kibwana,Male,Tanga,Horohoro Border (Kenya)
+278,Ng'wanza Said Athumani,Male,Pwani,Mlandizi ICD
+279,Anna Haule,Female,Mbeya,Mbeya ICD
+280,Mabula Mwita,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+281,Hidaya Rashidi Swai,Female,Kilimanjaro,Holili Border (Kenya)
+282,Devotha Komba,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+283,Clemence Mwita,Male,Songwe,Kasumulu Border (Malawi)
+284,Bakari Method Mhagama,Male,Kigoma,Manyovu Border (Burundi)
+285,Edmund Salehe Ndaki,Male,Mwanza,Mwanza South Port (Lake Victoria)
+286,Husna Mgaya,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+287,Hamza Wambura,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+288,Salum Salehe Wambura,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+289,Modest Kiango Nyoni,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+290,Mussa Athumani Mwakatobe,Male,Kigoma,Kabanga Border
+291,Mwajuma Joseph,Female,Ruvuma,Songea (clearing)
+292,Iddi Bhoke,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+293,Clemence Chacha,Male,Mara,Sirari Border (Kenya)
+294,Iddi Method Mtumwa,Male,Tanga,Tanga Port
+295,Hassani Maulidi Mtumwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+296,Lucas Mwinyi Kihwele,Male,Kigoma,Kabanga Border
+297,Joyce Paulo Komba,Female,Mwanza,Mwanza South Port (Lake Victoria)
+298,Theophil Castory Joseph,Male,Songwe,Tunduma Border (Zambia)
+299,Khamis Gideon Mwakatobe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+300,Neema Selemani,Female,Tanga,Tanga Port
+301,Kulwa Maulidi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+302,Audax Ally Lukanga,Male,Mwanza,Mwanza South Port (Lake Victoria)
+303,Mwita Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+304,Mwanaisha Lazaro,Female,Mwanza,Mwanza North Port
+305,Kassim Gervas Lazaro,Male,Mtwara,Mtwara Port
+306,Joseph Charahani,Male,Mwanza,Mwanza North Port
+307,Eliya Nyoni,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+308,Mabula Juma Mgaya,Male,Mwanza,Mwanza South Port (Lake Victoria)
+309,Devotha Stephano Ally,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+310,Doto Chande,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+311,Januari Kassim,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+312,Juma Rashidi Hassan,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+313,Hamza Hemedi,Male,Pwani,Bagamoyo
+314,Clemence Said Mtui,Male,Arusha,Arusha (clearing)
+315,Ng'wanza Lameck Mtui,Male,Kilimanjaro,Holili Border (Kenya)
+316,Erasto Nyoni,Male,Dar es Salaam,Kurasini ICD
+317,Said Athumani,Male,Dar es Salaam,Kurasini ICD
+318,Ally Tarimo,Male,Kilimanjaro,Tarakea Border
+319,Onesmo Joseph Abdallah,Male,Dar es Salaam,Kurasini ICD
+320,Furaha Hassani Kihwele,Female,Mara,Musoma Port (Lake Victoria)
+321,Emmanuel Abdallah Mmari,Male,Arusha,Arusha (clearing)
+322,Anthony Kibwana,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+323,Baraka Mayala,Male,Mara,Musoma Port (Lake Victoria)
+324,Athumani Kulwa Hassan,Male,Pwani,Mlandizi ICD
+325,Joyce Ally,Female,Tanga,Horohoro Border (Kenya)
+326,Richard Ally,Male,Dar es Salaam,Kurasini ICD
+327,Mfaume Tabu Hemedi,Male,Dar es Salaam,Kurasini ICD
+328,Paulo Constantine Kimaro,Male,Arusha,Namanga Border (Kenya)
+329,Boniface Tarimo,Male,Kilimanjaro,Moshi (clearing)
+330,Frank Masunga Mutabazi,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+331,Grace Kihwele,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+332,Tatu Daniel,Female,Katavi,Karema Port (Lake Tanganyika)
+333,Mwinyi Mtitu,Male,Dar es Salaam,Kurasini ICD
+334,Paulo Juma,Male,Dar es Salaam,Kurasini ICD
+335,John Lyatu,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+336,Israel Ngonyani,Male,Katavi,Karema Port (Lake Tanganyika)
+337,Boniface Modest Shija,Male,Mwanza,Mwanza South Port (Lake Victoria)
+338,Januari Mohamed,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+339,Renatus Range,Male,Mtwara,Mtambaswala (Unity Bridge)
+340,Gervas Filbert Michael,Male,Kagera,Mutukula Border (Uganda)
+341,Tabu Marwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+342,Subira Ng'wanza Marealle,Female,Arusha,Namanga Border (Kenya)
+343,Zainabu Ramadhani,Female,Pwani,Bagamoyo
+344,Mwita Kassim,Male,Pwani,Bagamoyo
+345,Aidan Nyoni,Male,Mara,Sirari Border (Kenya)
+346,Edmund Mwaisaka,Male,Mbeya,Kyela (Lake Nyasa)
+347,Mabula Mgaya,Male,Dar es Salaam,Kurasini ICD
+348,Mabula Rajabu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+349,Erasto Felician Mlowe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+350,Kiango Nyoni,Male,Dar es Salaam,Kurasini ICD
+351,Maulidi Lukanga,Male,Mwanza,Mwanza South Port (Lake Victoria)
+352,Anthony Mukama,Male,Kagera,Rusumo Border (Rwanda)
+353,Fabian Fabian Selemani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+354,Doto Mohamed,Male,Dar es Salaam,Kurasini ICD
+355,Ng'wanza Range,Male,Songwe,Tunduma Border (Zambia)
+356,Issa Omari Komba,Male,Mara,Sirari Border (Kenya)
+357,Renatus Wambura,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+358,Veronica Chacha,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+359,Elia Mfaume,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+360,Paulo Deogratias Said,Male,Tanga,Horohoro Border (Kenya)
+361,Audax Mtitu,Male,Arusha,Arusha (clearing)
+362,Modest Mwita,Male,Mbeya,Tunduma Corridor
+363,Beatrice Paul,Female,Mbeya,Kyela (Lake Nyasa)
+364,Tabu Aidan Kashindye,Male,Kagera,Bukoba Port
+365,Hadija Mtumwa,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+366,Hassan Omari Mapunda,Male,Kigoma,Manyovu Border (Burundi)
+367,Clemence Issa,Male,Mtwara,Mtwara Port
+368,Frank Daniel,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+369,Mussa Nestory Mhagama,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+370,Frank Emmanuel Athumani,Male,Tanga,Tanga Port
+371,Glory Joseph,Female,Mbeya,Kyela (Lake Nyasa)
+372,Witness Marwa,Female,Rukwa,Sumbawanga (clearing)
+373,Mathayo Mwakatobe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+374,Godfrey Bakari,Male,Tanga,Tanga Port
+375,Renatus Mlowe,Male,Mara,Sirari Border (Kenya)
+376,Kassim Khamis Mtui,Male,Kilimanjaro,Holili Border (Kenya)
+377,Nassoro Michael,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+378,Ally Michael,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+379,Hamza Said Omari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+380,Erick Mussa,Male,Dar es Salaam,Kurasini ICD
+381,Hemedi Mapunda,Male,Rukwa,Sumbawanga (clearing)
+382,Ramadhani Salum,Male,Mtwara,Mtwara Port
+383,Castory Mukama,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+384,Marko Rajabu Mwinyi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+385,Clemence Mwaijande,Male,Mbeya,Mbeya ICD
+386,Hamza Mwakatobe,Male,Kigoma,Manyovu Border (Burundi)
+387,Januari Magige,Male,Kigoma,Kabanga Border
+388,Sikujua Khamis,Female,Dar es Salaam,Kurasini ICD
+389,Ramadhani Issa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+390,Hidaya Minja,Female,Kilimanjaro,Tarakea Border
+391,Said Mwakipesile,Male,Songwe,Kasumulu Border (Malawi)
+392,Godfrey Said,Male,Mtwara,Mtwara Port
+393,Gervas Mohamed Mfaume,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+394,Gideon Paulo Magige,Male,Songwe,Tunduma Border (Zambia)
+395,Bakari Mbwilo,Male,Songwe,Tunduma Border (Zambia)
+396,Hassani Joseph,Male,Dar es Salaam,Kurasini ICD
+397,Goodluck Ally,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+398,Mosi Ngonyani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+399,Fabian Felician Nyoni,Male,Kagera,Bukoba Port
+400,Damian Deogratias Chande,Male,Dar es Salaam,Kurasini ICD
+401,Godfrey Lyatu,Male,Mwanza,Mwanza North Port
+402,Mwinyi Urio,Male,Kilimanjaro,Holili Border (Kenya)
+403,Nestory Peter Mapunda,Male,Mbeya,Mbeya ICD
+404,Peter Israel Daniel,Male,Rukwa,Sumbawanga (clearing)
+405,Ramadhani Modest Rajabu,Male,Pwani,Mafia Jetty
+406,Erasto Kashindye,Male,Kagera,Bukoba Port
+407,Theophil Wilfred Maulidi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+408,Boniface Bakari,Male,Tanga,Horohoro Border (Kenya)
+409,Kelvin Chacha,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+410,Hemedi Audax Lyatu,Male,Kagera,Mutukula Border (Uganda)
+411,George Filbert Wambura,Male,Mwanza,Mwanza South Port (Lake Victoria)
+412,Lucia Juma,Female,Tanga,Horohoro Border (Kenya)
+413,Yohana Issa,Male,Tanga,Tanga Port
+414,Shabani Daniel,Male,Mtwara,Mtambaswala (Unity Bridge)
+415,Boniface Bakari,Male,Tanga,Horohoro Border (Kenya)
+416,Ng'wanza Paulo Abdallah,Male,Pwani,Mafia Jetty
+417,Iddi Mwinyi,Male,Tanga,Horohoro Border (Kenya)
+418,Renatus Kihwele,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+419,Sikujua Ndaki,Female,Mwanza,Mwanza North Port
+420,Magdalena Bukombe,Female,Mara,Sirari Border (Kenya)
+421,Gabriel Mgaya,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+422,Innocent Fabian Omari,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+423,Masunga Frank Ngonyani,Male,Mwanza,Mwanza North Port
+424,Saada Mabula Ngonyani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+425,Abdallah Sumari,Male,Kilimanjaro,Holili Border (Kenya)
+426,Pendo Bhoke,Female,Mtwara,Mtambaswala (Unity Bridge)
+427,Petro Gideon Mtitu,Male,Kagera,Rusumo Border (Rwanda)
+428,Kassim Andrea Juma,Male,Dar es Salaam,Kurasini ICD
+429,Audax Nassoro Kihwele,Male,Mara,Musoma Port (Lake Victoria)
+430,Mwinyi Issa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+431,Filbert Magige,Male,Songwe,Tunduma Border (Zambia)
+432,Boniface Mgaya,Male,Mtwara,Mtwara Port
+433,Mussa Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+434,Tabu Nestory Mlowe,Male,Mara,Musoma Port (Lake Victoria)
+435,Zakaria George Magige,Male,Kigoma,Kabanga Border
+436,Augustino Mussa Bhoke,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+437,Upendo Chande Mwakatobe,Female,Kagera,Bukoba Port
+438,Selemani John,Male,Mbeya,Tunduma Corridor
+439,Saada Juma,Female,Tanga,Tanga Port
+440,Said Juma Mapunda,Male,Katavi,Ikola Port
+441,Israel Selemani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+442,Said Hamisi Ngonyani,Male,Kigoma,Manyovu Border (Burundi)
+443,Shabani Mfaume Lyatu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+444,Ramadhani Kassim Mfaume,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+445,Paulo Nassoro Mtitu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+446,Lightness Gideon Daniel,Female,Arusha,Namanga Border (Kenya)
+447,Stephano Hassan,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+448,Khamis Richard Nyoni,Male,Arusha,Arusha (clearing)
+449,Agnes Marwa,Female,Kagera,Mutukula Border (Uganda)
+450,Doris Mfaume,Female,Pwani,Mlandizi ICD
+451,Hassani Innocent Komba,Male,Rukwa,Sumbawanga (clearing)
+452,Felician Hassan,Male,Dar es Salaam,Kurasini ICD
+453,Omari Chacha,Male,Dar es Salaam,Kurasini ICD
+454,Constantine Shirima,Male,Kilimanjaro,Holili Border (Kenya)
+455,Fabian Richard Michael,Male,Dar es Salaam,Kurasini ICD
+456,Selemani Lyatu,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+457,Andrea Mgaya,Male,Dar es Salaam,Kurasini ICD
+458,Maulidi Wilfred Mwakatobe,Male,Dar es Salaam,Kurasini ICD
+459,Felician Ally,Male,Dar es Salaam,Kurasini ICD
+460,Hassani Hassani Chande,Male,Dar es Salaam,Kurasini ICD
+461,Hassani Kishosha,Male,Mara,Musoma Port (Lake Victoria)
+462,Juma Kassim John,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+463,Edmund Kasambala,Male,Songwe,Kasumulu Border (Malawi)
+464,Iddi Mtui,Male,Kilimanjaro,Holili Border (Kenya)
+465,Mfaume Lyatu,Male,Dar es Salaam,Kurasini ICD
+466,Hawa Mhagama,Female,Mbeya,Mbeya ICD
+467,Clemence Nassoro,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+468,Israel Mussa,Male,Pwani,Mafia Jetty
+469,Maua Mfaume,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+470,Edmund Komba,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+471,Aidan Audax Athumani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+472,Emmanuel Chacha,Male,Ruvuma,Songea (clearing)
+473,Abdallah Bundala,Male,Mwanza,Mwanza South Port (Lake Victoria)
+474,Hassani Mwakatobe,Male,Rukwa,Sumbawanga (clearing)
+475,Mosi Doto Chacha,Male,Kigoma,Manyovu Border (Burundi)
+476,Mwajuma Theophil Chacha,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+477,Constantine Clemence Mapunda,Male,Rukwa,Sumbawanga (clearing)
+478,Januari Iddi,Male,Dar es Salaam,Kurasini ICD
+479,Salum John,Male,Songwe,Tunduma Border (Zambia)
+480,Damian Aloyce Kassim,Male,Tanga,Tanga Port
+481,Aidan Filbert Mohamed,Male,Dar es Salaam,Kurasini ICD
+482,Mwita Omari,Male,Mtwara,Mtambaswala (Unity Bridge)
+483,Godfrey Mapunda,Male,Mara,Sirari Border (Kenya)
+484,Kelvin John,Male,Mtwara,Mtwara Port
+485,Maulidi Mapunda,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+486,Filbert Omari,Male,Dar es Salaam,Kurasini ICD
+487,Yohana Komba,Male,Dar es Salaam,Kurasini ICD
+488,Catherine Rajabu Mapunda,Female,Mbeya,Mbeya ICD
+489,Said Mussa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+490,Anthony Mabula Mtitu,Male,Dar es Salaam,Kurasini ICD
+491,Aloyce Kishosha,Male,Mara,Musoma Port (Lake Victoria)
+492,Wilfred John Ngonyani,Male,Mwanza,Mwanza North Port
+493,Joseph Selemani Marwa,Male,Arusha,Namanga Border (Kenya)
+494,Iddi Khamis Mwinyi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+495,Marko Juma Mhagama,Male,Mara,Sirari Border (Kenya)
+496,Kelvin Ngonyani,Male,Dar es Salaam,Kurasini ICD
+497,Bakari Lazaro,Male,Mwanza,Mwanza North Port
+498,Aloyce Ndosi,Male,Kilimanjaro,Moshi (clearing)
+499,Abdallah Range,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+500,Veronica Hemedi,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+501,Method Tarimo,Male,Kilimanjaro,Tarakea Border
+502,Lameck Swai,Male,Kilimanjaro,Moshi (clearing)
+503,Marko Athumani Hassan,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+504,Erick Mtumwa,Male,Dar es Salaam,Kurasini ICD
+505,Charles Mzee,Male,Tanga,Tanga Port
+506,Method Stephano Komba,Male,Kagera,Bukoba Port
+507,Felician Hassan Hassan,Male,Dar es Salaam,Kurasini ICD
+508,Januari Juma Range,Male,Mtwara,Mtambaswala (Unity Bridge)
+509,Gabriel Swai,Male,Kilimanjaro,Tarakea Border
+510,Editruda Nyoni,Female,Mwanza,Mwanza North Port
+511,Hemedi Mgaya,Male,Kigoma,Kabanga Border
+512,Stella Hassan,Female,Mtwara,Mtwara Port
+513,Mwanahamisi Michael,Female,Kigoma,Kabanga Border
+514,Kulwa Kamugisha,Male,Kigoma,Kabanga Border
+515,Mabula Lyimo,Male,Kilimanjaro,Tarakea Border
+516,Constantine Augustino Ngonyani,Male,Ruvuma,Songea (clearing)
+517,George Mzee,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+518,Veronica Andrea Kibwana,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+519,Nassoro Iddi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+520,Maua Rashidi Doto,Female,Mwanza,Mwanza South Port (Lake Victoria)
+521,John Mtitu,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+522,Lameck John,Male,Mbeya,Kyela (Lake Nyasa)
+523,Mfaume Rajabu Bakari,Male,Tanga,Tanga Port
+524,Scholastica Joseph,Female,Dar es Salaam,Kurasini ICD
+525,Said Marwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+526,Mohamed George Bakari,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+527,Wilfred Range,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+528,Khadija Marwa,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+529,Omari Bhoke,Male,Songwe,Tunduma Border (Zambia)
+530,Zakaria Ramadhani Magige,Male,Songwe,Tunduma Border (Zambia)
+531,Eliya Mmari,Male,Arusha,Namanga Border (Kenya)
+532,Erasto Joseph,Male,Arusha,Arusha (clearing)
+533,Aziza Ally Mgaya,Female,Songwe,Tunduma Border (Zambia)
+534,Paulo Joseph,Male,Kagera,Mutukula Border (Uganda)
+535,Audax Nyoni,Male,Arusha,Namanga Border (Kenya)
+536,Gabriel Paul,Male,Mwanza,Mwanza South Port (Lake Victoria)
+537,John Nassoro,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+538,Doris Mhagama,Female,Mtwara,Mtwara Port
+539,Bakari Anthony Bhoke,Male,Kagera,Rusumo Border (Rwanda)
+540,Amina Marealle,Female,Kilimanjaro,Tarakea Border
+541,Devotha Mhagama,Female,Kagera,Bukoba Port
+542,Doris Range,Female,Dar es Salaam,Kurasini ICD
+543,Nestory Goodluck Mapunda,Male,Mwanza,Mwanza South Port (Lake Victoria)
+544,Prisca Bakari,Female,Dar es Salaam,Kurasini ICD
+545,George Hassan,Male,Mtwara,Mtwara Port
+546,Nestory Ng'wanza Lazaro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+547,Halima Nassoro,Female,Dar es Salaam,Kurasini ICD
+548,Modest Wambura,Male,Dar es Salaam,Kurasini ICD
+549,Charles Mzee,Male,Dar es Salaam,Kurasini ICD
+550,Nassoro Iddi Mfaume,Male,Pwani,Bagamoyo
+551,Boniface Lyatu,Male,Dar es Salaam,Kurasini ICD
+552,Anthony Minja,Male,Kilimanjaro,Tarakea Border
+553,Athumani Mwaisaka,Male,Songwe,Tunduma Border (Zambia)
+554,Juma Godfrey Mtumwa,Male,Mtwara,Mtwara Port
+555,Erick John Tarimo,Male,Arusha,Arusha (clearing)
+556,Charles Mwakipesile,Male,Mbeya,Kyela (Lake Nyasa)
+557,Wilfred Mwita,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+558,Renatus Ally Wambura,Male,Dar es Salaam,Kurasini ICD
+559,Israel Andrea Bhoke,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+560,Selemani Daniel,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+561,Zawadi Bakari Bhoke,Female,Songwe,Kasumulu Border (Malawi)
+562,Ng'wanza Nyoni,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+563,Constantine Khamis Ally,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+564,Maua Nyoni,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+565,Hamza Bakari,Male,Dar es Salaam,Kurasini ICD
+566,Kelvin Stephano Shirima,Male,Kilimanjaro,Holili Border (Kenya)
+567,Mwanahawa Bhoke,Female,Dar es Salaam,Kurasini ICD
+568,Baraka Petro Michael,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+569,Augustino Komba,Male,Dar es Salaam,Kurasini ICD
+570,Chande Andrea Mwinyi,Male,Tanga,Horohoro Border (Kenya)
+571,Hassani Lazaro,Male,Kigoma,Kabanga Border
+572,Kassim Yohana Mushi,Male,Kilimanjaro,Moshi (clearing)
+573,Doto Mlowe,Male,Arusha,Namanga Border (Kenya)
+574,Gideon Magige,Male,Rukwa,Sumbawanga (clearing)
+575,Hamisi Elia Lazaro,Male,Mara,Sirari Border (Kenya)
+576,Maulidi Hassan,Male,Mtwara,Mtambaswala (Unity Bridge)
+577,Felician Abdallah Mutabazi,Male,Kigoma,Kabanga Border
+578,Mohamed Joseph Said,Male,Pwani,Mafia Jetty
+579,Catherine Chacha,Female,Mwanza,Mwanza North Port
+580,Mwita Wambura,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+581,Daudi Ngonyani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+582,Khadija Joseph,Female,Dar es Salaam,Kurasini ICD
+583,Said Khamis Mtitu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+584,Clemence Mtitu,Male,Mbeya,Kyela (Lake Nyasa)
+585,Ramadhani Salum,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+586,Kassim Said Mussa,Male,Tanga,Horohoro Border (Kenya)
+587,Clemence Kimaro,Male,Kilimanjaro,Holili Border (Kenya)
+588,Andrea Ngonyani,Male,Songwe,Kasumulu Border (Malawi)
+589,Zakaria Chacha,Male,Kigoma,Manyovu Border (Burundi)
+590,Gabriel Wambura,Male,Songwe,Tunduma Border (Zambia)
+591,Filbert Hamza Mukama,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+592,Emmanuel Yohana Karoli,Male,Kagera,Mutukula Border (Uganda)
+593,Mwita Mgaya,Male,Mtwara,Mtwara Port
+594,Rehema Mukama,Female,Kigoma,Manyovu Border (Burundi)
+595,Aidan Richard Kihwele,Male,Arusha,Arusha (clearing)
+596,Hawa Andrea Nyoni,Female,Katavi,Karema Port (Lake Tanganyika)
+597,Grace Wambura,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+598,Kelvin Wambura,Male,Arusha,Arusha (clearing)
+599,Mwanaharusi Hassan Marwa,Female,Mara,Sirari Border (Kenya)
+600,Stella Erasto John,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+601,Andrea John,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+602,Goodluck Nyoni,Male,Songwe,Tunduma Border (Zambia)
+603,Elia Aidan Rwechungura,Male,Kagera,Mutukula Border (Uganda)
+604,Juma Mhagama,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+605,Eliya Said Hemedi,Male,Tanga,Horohoro Border (Kenya)
+606,Doto Peter Joseph,Male,Kagera,Bukoba Port
+607,Subira Mgaya,Female,Mbeya,Kyela (Lake Nyasa)
+608,Andrea Minja,Male,Kilimanjaro,Tarakea Border
+609,Saada Haule,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+610,Tatu Joseph Mtumwa,Female,Dar es Salaam,Kurasini ICD
+611,Ramadhani Said,Male,Mtwara,Mtambaswala (Unity Bridge)
+612,Damian Theophil Mhagama,Male,Arusha,Namanga Border (Kenya)
+613,Shabani Mtitu,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+614,Anthony Sumari,Male,Arusha,Arusha (clearing)
+615,Catherine Castory Hemedi,Female,Tanga,Tanga Port
+616,Witness Mwakatobe,Female,Mtwara,Mtwara Port
+617,Petro Ndosi,Male,Kilimanjaro,Moshi (clearing)
+618,Aziza Range,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+619,Lameck Lazaro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+620,Editruda Komba,Female,Mwanza,Mwanza South Port (Lake Victoria)
+621,Ng'wanza Hemedi,Male,Tanga,Tanga Port
+622,Mwanaharusi Constantine Wambura,Female,Kagera,Rusumo Border (Rwanda)
+623,Selemani Mtumwa,Male,Pwani,Mlandizi ICD
+624,Mussa John,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+625,Zakaria Athumani Mtitu,Male,Mara,Sirari Border (Kenya)
+626,Hassan Mwakalinga,Male,Mbeya,Kyela (Lake Nyasa)
+627,Wilfred Swai,Male,Arusha,Arusha (clearing)
+628,Catherine Mabula,Female,Mwanza,Mwanza North Port
+629,Bakari Abdallah,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+630,Ally Charahani,Male,Mwanza,Mwanza North Port
+631,Selemani Kihwele,Male,Mwanza,Mwanza South Port (Lake Victoria)
+632,Gabriel Mtitu,Male,Dar es Salaam,Kurasini ICD
+633,Doto Hemedi Munisi,Male,Arusha,Arusha (clearing)
+634,Hemedi Rugaimukamu,Male,Kagera,Mutukula Border (Uganda)
+635,Hassani Athumani,Male,Mtwara,Mtambaswala (Unity Bridge)
+636,Juma Khamis Mtumwa,Male,Mtwara,Mtwara Port
+637,Aidan Mwita,Male,Ruvuma,Songea (clearing)
+638,George Mwinyi,Male,Tanga,Horohoro Border (Kenya)
+639,Fabian Paul,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+640,Khadija Mussa Range,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+641,Hamisi Bakari Athumani,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+642,Rajabu Athumani,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+643,Salehe Komba,Male,Mbeya,Tunduma Corridor
+644,Marko Constantine Ally,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+645,Modest Khamis Mtitu,Male,Mwanza,Mwanza South Port (Lake Victoria)
+646,Anthony Paul,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+647,Modest Said,Male,Dar es Salaam,Kurasini ICD
+648,John Goodluck Swai,Male,Kilimanjaro,Tarakea Border
+649,Erasto Charles Mwakyusa,Male,Mbeya,Tunduma Corridor
+650,Boniface John,Male,Rukwa,Sumbawanga (clearing)
+651,Salum John,Male,Ruvuma,Songea (clearing)
+652,Israel Sumari,Male,Kilimanjaro,Tarakea Border
+653,Emmanuel Bundala,Male,Mara,Musoma Port (Lake Victoria)
+654,Pendo Ng'wanza Haule,Female,Dar es Salaam,Kurasini ICD
+655,Modest Abdallah,Male,Mtwara,Mtambaswala (Unity Bridge)
+656,Deogratias Mwakatobe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+657,Happy Khamis,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+658,Deogratias Baraka Kassim,Male,Tanga,Horohoro Border (Kenya)
+659,Mosi Michael,Male,Mtwara,Mtambaswala (Unity Bridge)
+660,Frank Chande,Male,Pwani,Bagamoyo
+661,Hassani Daniel,Male,Dar es Salaam,Kurasini ICD
+662,Nassoro Augustino Mutabazi,Male,Kagera,Rusumo Border (Rwanda)
+663,Bahati Nassoro Ngonyani,Female,Rukwa,Kasanga Port (Lake Tanganyika)
+664,Witness Athumani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+665,George Athumani John,Male,Kigoma,Manyovu Border (Burundi)
+666,Innocent Ngonyani,Male,Mbeya,Tunduma Corridor
+667,Ally Bhoke,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+668,Iddi Moshi,Male,Arusha,Namanga Border (Kenya)
+669,Emmanuel Shirima,Male,Kilimanjaro,Tarakea Border
+670,Yohana Komba,Male,Mwanza,Mwanza North Port
+671,Theresia Issa,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+672,Amina Mlowe,Female,Arusha,Namanga Border (Kenya)
+673,Yusuph Magige,Male,Mwanza,Mwanza South Port (Lake Victoria)
+674,Filbert Mgaya,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+675,Mabula Ndyetabura,Male,Kagera,Mutukula Border (Uganda)
+676,Happy Nestory Marwa,Female,Dar es Salaam,Kurasini ICD
+677,Peter Fabian Kishosha,Male,Mwanza,Mwanza North Port
+678,Issa Abdallah,Male,Dar es Salaam,Kurasini ICD
+679,Boniface Bhoke,Male,Ruvuma,Songea (clearing)
+680,Modest Khamis Mtitu,Male,Songwe,Tunduma Border (Zambia)
+681,Petro Mwakatobe,Male,Arusha,Namanga Border (Kenya)
+682,Doris Salum,Female,Pwani,Mlandizi ICD
+683,Mwanaharusi Kibwana,Female,Mtwara,Mtwara Port
+684,Felician Kibwana,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+685,Zakaria Mwita,Male,Dar es Salaam,Kurasini ICD
+686,Nestory Issa,Male,Mtwara,Mtwara Port
+687,Selemani Khamis Mtitu,Male,Songwe,Tunduma Border (Zambia)
+688,Mariamu Mtumwa,Female,Dar es Salaam,Kurasini ICD
+689,Ng'wanza Issa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+690,Husna Ngonyani,Female,Kagera,Mutukula Border (Uganda)
+691,Kiango Magige,Male,Kagera,Bukoba Port
+692,Augustino Minja,Male,Kilimanjaro,Tarakea Border
+693,Paulo Lyatu,Male,Arusha,Namanga Border (Kenya)
+694,Maua Kassim,Female,Pwani,Bagamoyo
+695,Hidaya Kihwele,Female,Kagera,Bukoba Port
+696,Mfaume Marko Haule,Male,Songwe,Kasumulu Border (Malawi)
+697,Sophia Lutema,Female,Mara,Musoma Port (Lake Victoria)
+698,Editha Mathayo Mgaya,Female,Mbeya,Kyela (Lake Nyasa)
+699,Zakaria Omari,Male,Tanga,Horohoro Border (Kenya)
+700,Zainabu Mwakatobe,Female,Katavi,Karema Port (Lake Tanganyika)
+701,Magdalena Mgaya,Female,Kagera,Bukoba Port
+702,Richard Hassan,Male,Pwani,Mlandizi ICD
+703,Peter Mwasanguti,Male,Songwe,Tunduma Border (Zambia)
+704,Mabula Mtitu,Male,Arusha,Arusha (clearing)
+705,Theophil Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+706,George Marwa,Male,Mara,Musoma Port (Lake Victoria)
+707,Method Doto,Male,Mara,Musoma Port (Lake Victoria)
+708,Deogratias Charles Issa,Male,Tanga,Tanga Port
+709,Hassani Kweka,Male,Kilimanjaro,Tarakea Border
+710,Anthony Zakaria Ramadhani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+711,Rashidi Bhoke,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+712,Mwajuma Mosha,Female,Arusha,Arusha (clearing)
+713,Selemani Mussa Rugaimukamu,Male,Kagera,Rusumo Border (Rwanda)
+714,Mwinyi Hassani Mwakatobe,Male,Mtwara,Mtambaswala (Unity Bridge)
+715,Maua Mtitu,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+716,Yohana Khamis,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+717,Nestory Wambura,Male,Songwe,Kasumulu Border (Malawi)
+718,Nassoro Issa,Male,Dar es Salaam,Kurasini ICD
+719,Charles Mwita Mgaya,Male,Dar es Salaam,Kurasini ICD
+720,Stephano Abdallah,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+721,Sikujua Mohamed,Female,Dar es Salaam,Kurasini ICD
+722,Castory Sanga,Male,Mbeya,Kyela (Lake Nyasa)
+723,Omari Sanga,Male,Songwe,Kasumulu Border (Malawi)
+724,Said Castory Mlowe,Male,Dar es Salaam,Kurasini ICD
+725,Castory Rajabu Mlowe,Male,Kagera,Rusumo Border (Rwanda)
+726,Kassim Ndosi,Male,Kilimanjaro,Holili Border (Kenya)
+727,Editha Anthony Mgaya,Female,Mbeya,Mbeya ICD
+728,Juma Ndaki,Male,Mwanza,Mwanza North Port
+729,Rehema Kibwana,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+730,Kelvin Mwakatobe,Male,Dar es Salaam,Kurasini ICD
+731,Modest Marwa,Male,Dar es Salaam,Kurasini ICD
+732,Issa Chacha,Male,Mbeya,Tunduma Corridor
+733,Ramadhani Peter Joseph,Male,Kagera,Rusumo Border (Rwanda)
+734,Ramadhani Range,Male,Dar es Salaam,Kurasini ICD
+735,Wilfred Goodluck Maulidi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+736,Naomi Shija,Female,Mwanza,Mwanza North Port
+737,Anthony Masunga,Male,Mara,Musoma Port (Lake Victoria)
+738,Mwita Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+739,Godfrey Haule,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+740,Hadija Ally,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+741,Erick Kelvin Maulidi,Male,Pwani,Mafia Jetty
+742,Sikujua Iddi,Female,Tanga,Tanga Port
+743,Tunu Tarimo,Female,Kilimanjaro,Holili Border (Kenya)
+744,Chande Ramadhani,Male,Dar es Salaam,Kurasini ICD
+745,Hidaya Bakari,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+746,Edmund Mwakalinga,Male,Songwe,Kasumulu Border (Malawi)
+747,Method Rajabu Mzee,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+748,Gabriel Omari Maulidi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+749,Lucas Hemedi Bukombe,Male,Mara,Sirari Border (Kenya)
+750,Tatu Wilfred Issa,Female,Dar es Salaam,Kurasini ICD
+751,Mohamed Charles Kihwele,Male,Songwe,Tunduma Border (Zambia)
+752,George Kassim Maulidi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+753,Elia Iddi,Male,Dar es Salaam,Kurasini ICD
+754,Athumani Eliya Ally,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+755,Joseph Temba,Male,Kilimanjaro,Tarakea Border
+756,Omari Constantine Maro,Male,Arusha,Arusha (clearing)
+757,Wilfred Kashindye,Male,Kagera,Bukoba Port
+758,Masunga Kassim,Male,Dar es Salaam,Kurasini ICD
+759,Petro Haule,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+760,Gloria Lazaro,Female,Arusha,Namanga Border (Kenya)
+761,George Kihwele,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+762,Masunga Kassim Ngonyani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+763,Lucas Tarimo,Male,Kilimanjaro,Moshi (clearing)
+764,Felician Haule,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+765,Constantine Khamis Nyoni,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+766,Mohamed Daudi Lazaro,Male,Mara,Sirari Border (Kenya)
+767,Deogratias Mgaya,Male,Songwe,Kasumulu Border (Malawi)
+768,Said Mlowe,Male,Rukwa,Sumbawanga (clearing)
+769,Iddi Kiango Mwinyi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+770,Issa Michael,Male,Mwanza,Mwanza South Port (Lake Victoria)
+771,Chande Sumari,Male,Kilimanjaro,Moshi (clearing)
+772,Maulidi Minja,Male,Kilimanjaro,Moshi (clearing)
+773,Gervas Elia Mlowe,Male,Mbeya,Kyela (Lake Nyasa)
+774,Chande Michael,Male,Songwe,Kasumulu Border (Malawi)
+775,Zainabu Juma Magige,Female,Arusha,Arusha (clearing)
+776,Juma Masanja,Male,Mwanza,Mwanza North Port
+777,Filbert Paul,Male,Dar es Salaam,Kurasini ICD
+778,Tunu Bakari,Female,Dar es Salaam,Kurasini ICD
+779,Salehe Mwamengo,Male,Mbeya,Kyela (Lake Nyasa)
+780,Nestory Aloyce Moshi,Male,Kilimanjaro,Tarakea Border
+781,Innocent Kiango Maulidi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+782,Hawa Mgaya,Female,Mtwara,Mtwara Port
+783,Nestory Bakari Juma,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+784,Maulidi Michael,Male,Mtwara,Mtambaswala (Unity Bridge)
+785,Kulwa Charles Salum,Male,Tanga,Tanga Port
+786,Emmanuel Komba,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+787,Paulo Daniel,Male,Mwanza,Mwanza South Port (Lake Victoria)
+788,Juma Mapunda,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+789,Goodluck Selemani,Male,Pwani,Mafia Jetty
+790,Lightness Rashidi Komba,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+791,Zuhura Iddi Joseph,Female,Arusha,Namanga Border (Kenya)
+792,Magdalena Marwa,Female,Mwanza,Mwanza South Port (Lake Victoria)
+793,Rashidi Tabu John,Male,Mtwara,Mtambaswala (Unity Bridge)
+794,Maulidi Lazaro,Male,Arusha,Arusha (clearing)
+795,Felician Range,Male,Mwanza,Mwanza South Port (Lake Victoria)
+796,Athumani Kihwele,Male,Mbeya,Kyela (Lake Nyasa)
+797,Scholastica Abdallah,Female,Dar es Salaam,Kurasini ICD
+798,Clemence Shabani,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+799,Richard Boniface Haule,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+800,Gabriel Juma,Male,Mtwara,Mtambaswala (Unity Bridge)
+801,Selemani Bhoke,Male,Mbeya,Mbeya ICD
+802,Tabu John,Male,Songwe,Tunduma Border (Zambia)
+803,Mfaume Iddi Bukombe,Male,Mwanza,Mwanza South Port (Lake Victoria)
+804,Rajabu Mhagama,Male,Mtwara,Mtwara Port
+805,Israel Range,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+806,Daudi Joseph Ramadhani,Male,Mtwara,Mtambaswala (Unity Bridge)
+807,Athumani Joseph Bhoke,Male,Dar es Salaam,Kurasini ICD
+808,Eliya Mwinyi,Male,Tanga,Tanga Port
+809,Mabula Paul,Male,Songwe,Tunduma Border (Zambia)
+810,Mohamed Shija,Male,Mwanza,Mwanza South Port (Lake Victoria)
+811,Zuhura Nestory Mwita,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+812,Prisca Nyoni,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+813,Salma Mwasanguti,Female,Songwe,Tunduma Border (Zambia)
+814,Zawadi Theophil Mtumwa,Female,Dar es Salaam,Kurasini ICD
+815,Emmanuel Mwakyusa,Male,Mbeya,Mbeya ICD
+816,Felician Nyoni,Male,Dar es Salaam,Kurasini ICD
+817,Salehe John,Male,Mtwara,Mtambaswala (Unity Bridge)
+818,Zakaria Minja,Male,Kilimanjaro,Moshi (clearing)
+819,Yusuph Mwakyusa,Male,Mbeya,Tunduma Corridor
+820,Israel Mwita,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+821,Masunga Boniface Joseph,Male,Mara,Sirari Border (Kenya)
+822,Richard Magige,Male,Mwanza,Mwanza North Port
+823,Neema Mussa Range,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+824,Gideon Daniel,Male,Kagera,Rusumo Border (Rwanda)
+825,Catherine Mwinyi,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+826,Kassim Method Lazaro,Male,Mara,Sirari Border (Kenya)
+827,Castory Mwakyusa,Male,Mbeya,Mbeya ICD
+828,Mohamed Abdallah,Male,Tanga,Tanga Port
+829,Athumani Mfaume Kamugisha,Male,Kigoma,Kabanga Border
+830,Mfaume Ramadhani Mwamengo,Male,Mbeya,Kyela (Lake Nyasa)
+831,Tabu Mwita,Male,Ruvuma,Songea (clearing)
+832,Tabu Mtitu,Male,Mbeya,Kyela (Lake Nyasa)
+833,Erasto Mlowe,Male,Kagera,Bukoba Port
+834,Yusuph Nyoni,Male,Mara,Sirari Border (Kenya)
+835,Clemence Kassim,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+836,Tabu Abdallah,Male,Tanga,Tanga Port
+837,Joseph Rugaimukamu,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+838,Anthony Hemedi Maulidi,Male,Dar es Salaam,Kurasini ICD
+839,Fabian Rajabu Mwakyusa,Male,Mbeya,Tunduma Corridor
+840,Kassim Issa,Male,Tanga,Tanga Port
+841,Gideon Chacha,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+842,Mfaume Baraka Ally,Male,Mtwara,Mtwara Port
+843,Richard Mathayo Nyoni,Male,Kigoma,Manyovu Border (Burundi)
+844,Joyce Yohana Ally,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+845,Bakari Salehe John,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+846,Method Joseph Hassan,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+847,Nuru Stephano Joseph,Female,Dar es Salaam,Kurasini ICD
+848,Zuhura Mussa Selemani,Female,Tanga,Horohoro Border (Kenya)
+849,Rashidi Chacha,Male,Kagera,Mutukula Border (Uganda)
+850,Pendo John,Female,Songwe,Kasumulu Border (Malawi)
+851,Said Chacha,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+852,Marko Mtitu,Male,Katavi,Karema Port (Lake Tanganyika)
+853,Gloria Selemani,Female,Dar es Salaam,Kurasini ICD
+854,Mussa Ngonyani,Male,Dar es Salaam,Kurasini ICD
+855,Chande Massawe,Male,Kilimanjaro,Moshi (clearing)
+856,Zuhura Mwakajinga,Female,Mbeya,Kyela (Lake Nyasa)
+857,Clemence Mlowe,Male,Mtwara,Mtambaswala (Unity Bridge)
+858,Charles Chande,Male,Dar es Salaam,Kurasini ICD
+859,Charles Kategile,Male,Kigoma,Manyovu Border (Burundi)
+860,Masunga Joseph,Male,Arusha,Arusha (clearing)
+861,Baraka Mwakatobe,Male,Songwe,Tunduma Border (Zambia)
+862,Goodluck Aloyce Mutabazi,Male,Kagera,Mutukula Border (Uganda)
+863,Castory Munisi,Male,Arusha,Namanga Border (Kenya)
+864,Theophil Zakaria Massawe,Male,Kilimanjaro,Holili Border (Kenya)
+865,Flora Onesmo Mtitu,Female,Dar es Salaam,Kurasini ICD
+866,Hellena Daniel,Female,Kagera,Bukoba Port
+867,Wilfred Nyoni,Male,Songwe,Kasumulu Border (Malawi)
+868,Petro Nestory Lyatu,Male,Kagera,Rusumo Border (Rwanda)
+869,Yohana Selemani Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+870,Januari Iddi,Male,Pwani,Mlandizi ICD
+871,Scholastica Hassan Mhagama,Female,Songwe,Tunduma Border (Zambia)
+872,Halima Mfaume Nyoni,Female,Arusha,Arusha (clearing)
+873,Rose Mgaya,Female,Mara,Musoma Port (Lake Victoria)
+874,Rashidi Mwita,Male,Rukwa,Sumbawanga (clearing)
+875,Theophil Michael,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+876,Hamisi Deogratias Magige,Male,Dar es Salaam,Kurasini ICD
+877,Edmund Mwakyusa,Male,Mbeya,Mbeya ICD
+878,Hamza Richard Mtumwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+879,Veronica Israel Temba,Female,Kilimanjaro,Tarakea Border
+880,Theophil Mgaya,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+881,Method Rashidi Mwita,Male,Dar es Salaam,Kurasini ICD
+882,Kiango Gervas Kibwana,Male,Dar es Salaam,Kurasini ICD
+883,Rajabu Mussa Range,Male,Kigoma,Kabanga Border
+884,Anthony Juma,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+885,Innocent Felician Hemedi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+886,Maua Chacha,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+887,Elia Salum Marwa,Male,Katavi,Ikola Port
+888,Hamza Minja,Male,Kilimanjaro,Holili Border (Kenya)
+889,Zawadi Athumani,Female,Tanga,Horohoro Border (Kenya)
+890,Marko Yusuph Maulidi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+891,Shufaa Lazaro,Female,Dar es Salaam,Kurasini ICD
+892,Khamis Komba,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+893,Salum Bhoke,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+894,Mwanaidi Damian Mlowe,Female,Rukwa,Sumbawanga (clearing)
+895,Chande Stephano Mhagama,Male,Mbeya,Mbeya ICD
+896,Mwanahawa Mwasanguti,Female,Songwe,Tunduma Border (Zambia)
+897,Khamis Salum,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+898,Goodluck Bukombe,Male,Mwanza,Mwanza North Port
+899,Marko Hassan,Male,Tanga,Tanga Port
+900,Damian Chande Mgaya,Male,Songwe,Tunduma Border (Zambia)
+901,Lameck Erick Rugaimukamu,Male,Kigoma,Manyovu Border (Burundi)
+902,Israel Mwakatobe,Male,Songwe,Kasumulu Border (Malawi)
+903,Scholastica Kassim Mwakatobe,Female,Songwe,Kasumulu Border (Malawi)
+904,Iddi Bhoke,Male,Dar es Salaam,Kurasini ICD
+905,Stephano Hemedi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+906,Aidan Nyoni,Male,Mwanza,Mwanza North Port
+907,Ramadhani Khamis,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+908,Deogratias Paul,Male,Dar es Salaam,Kurasini ICD
+909,Goodluck Nyoni,Male,Dar es Salaam,Kurasini ICD
+910,Boniface Doto Komba,Male,Songwe,Tunduma Border (Zambia)
+911,Lameck Mgaya,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+912,Hemedi Paul,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+913,Kiango Nassoro Mohamed,Male,Dar es Salaam,Kurasini ICD
+914,Mabula Iddi Mapunda,Male,Dar es Salaam,Kurasini ICD
+915,Agnes Komba,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+916,Castory Mayala,Male,Mwanza,Mwanza South Port (Lake Victoria)
+917,Wilfred Chande Kassim,Male,Tanga,Horohoro Border (Kenya)
+918,Constantine Tabu Lyimo,Male,Arusha,Namanga Border (Kenya)
+919,Augustino Mgaya,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+920,Edmund Baitani,Male,Kagera,Bukoba Port
+921,Daudi Mmari,Male,Arusha,Namanga Border (Kenya)
+922,Elia Joseph,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+923,Mwanahamisi Juma Mwamengo,Female,Songwe,Kasumulu Border (Malawi)
+924,Charles Paulo Joseph,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+925,Khamis Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+926,Frank Komba,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+927,Khamis Mwamengo,Male,Songwe,Kasumulu Border (Malawi)
+928,Hassani Innocent Nassoro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+929,Agnes Hassani Mfaume,Female,Pwani,Bagamoyo
+930,Nestory Masunga Paul,Male,Mtwara,Mtwara Port
+931,Ng'wanza Joseph,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+932,Damian Athumani Mwita,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+933,Athumani Bhoke,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+934,John Mwakatobe,Male,Arusha,Namanga Border (Kenya)
+935,Ramadhani Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+936,Method Ramadhani Bhoke,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+937,Lucia Athumani,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+938,Khamis Onesmo Rutaihwa,Male,Kagera,Bukoba Port
+939,Elia Omari,Male,Pwani,Bagamoyo
+940,Doto Mapunda,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+941,Felician Yusuph Abdallah,Male,Dar es Salaam,Kurasini ICD
+942,Elia Salehe Mwaisaka,Male,Songwe,Kasumulu Border (Malawi)
+943,Hamisi Baraka Lazaro,Male,Songwe,Kasumulu Border (Malawi)
+944,Juma Mlowe,Male,Mbeya,Tunduma Corridor
+945,Rehema Rajabu,Female,Dar es Salaam,Kurasini ICD
+946,George Magige,Male,Dar es Salaam,Kurasini ICD
+947,Charles Paul,Male,Mwanza,Mwanza South Port (Lake Victoria)
+948,Khamis Iddi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+949,Elia Lazaro,Male,Mbeya,Kyela (Lake Nyasa)
+950,Erasto Charahani,Male,Mara,Sirari Border (Kenya)
+951,Ramadhani Bakari John,Male,Rukwa,Sumbawanga (clearing)
+952,Gideon Urio,Male,Kilimanjaro,Tarakea Border
+953,Flora Ngonyani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+954,Emmanuel Mgaya,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+955,Godfrey Temba,Male,Arusha,Namanga Border (Kenya)
+956,Doto Castory Bakari,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+957,Frank Chande Ally,Male,Dar es Salaam,Kurasini ICD
+958,Salum Ramadhani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+959,Anthony Gabriel Lyatu,Male,Ruvuma,Songea (clearing)
+960,Said Mlowe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+961,Ng'wanza Rajabu Bhoke,Male,Dar es Salaam,Kurasini ICD
+962,Peter Chande Komba,Male,Mara,Sirari Border (Kenya)
+963,Athumani Mgaya,Male,Kagera,Bukoba Port
+964,Mosi Mgaya,Male,Arusha,Namanga Border (Kenya)
+965,Hidaya Audax Mwakyusa,Female,Songwe,Tunduma Border (Zambia)
+966,Rashidi Selemani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+967,Chande Israel Mussa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+968,Chande Ramadhani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+969,Richard Richard Mapunda,Male,Arusha,Arusha (clearing)
+970,John John Ngonyani,Male,Arusha,Namanga Border (Kenya)
+971,Editha Kihwele,Female,Mtwara,Mtambaswala (Unity Bridge)
+972,Mfaume Nassoro,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+973,Selemani Chande,Male,Dar es Salaam,Kurasini ICD
+974,Modest Lyatu,Male,Mara,Sirari Border (Kenya)
+975,Anthony Mzee,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+976,Bakari Lyatu,Male,Kagera,Rusumo Border (Rwanda)
+977,George Lyatu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+978,Peter Constantine Shabani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+979,Aidan Khamis,Male,Mtwara,Mtambaswala (Unity Bridge)
+980,Hassan Modest Hemedi,Male,Mtwara,Mtambaswala (Unity Bridge)
+981,Hamza Januari Madata,Male,Mwanza,Mwanza South Port (Lake Victoria)
+982,Richard Mtitu,Male,Kagera,Bukoba Port
+983,Goodluck Mtitu,Male,Kagera,Rusumo Border (Rwanda)
+984,Saada Macha,Female,Kilimanjaro,Moshi (clearing)
+985,Damian Lameck Kihwele,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+986,Theophil Kihwele,Male,Kagera,Rusumo Border (Rwanda)
+987,Masunga Mlowe,Male,Mwanza,Mwanza North Port
+988,Felician Renatus Wambura,Male,Mtwara,Mtambaswala (Unity Bridge)
+989,Fabian Lazaro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+990,Kiango Aidan Mtitu,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+991,Kassim Gideon Iddi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+992,Happy Ramadhani Juma,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+993,Sophia Rweyemamu,Female,Kigoma,Kabanga Border
+994,Husna Mwakatobe,Female,Mbeya,Tunduma Corridor
+995,Felician Iddi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+996,Israel Mgaya,Male,Mwanza,Mwanza North Port
+997,Yusuph Mwita,Male,Mwanza,Mwanza South Port (Lake Victoria)
+998,Kassim Kihwele,Male,Ruvuma,Songea (clearing)
+999,Goodluck Khamis Paul,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1000,Asha Kiango Athumani,Female,Dar es Salaam,Kurasini ICD
+1001,Stephano Daniel,Male,Katavi,Ikola Port
+1002,Khamis Mtui,Male,Arusha,Arusha (clearing)
+1003,Maria Omari John,Female,Rukwa,Kasanga Port (Lake Tanganyika)
+1004,Kelvin Mfaume Bhoke,Male,Dar es Salaam,Kurasini ICD
+1005,Augustino Shabani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1006,Yohana Kibwana,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1007,Grace Aloyce Lukanga,Female,Mwanza,Mwanza South Port (Lake Victoria)
+1008,Paulo Gideon Rajabu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1009,Bahati Komba,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1010,Fatuma Juma Selemani,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1011,Rehema Juma Athumani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1012,Mosi Lyatu,Male,Arusha,Arusha (clearing)
+1013,Witness Marwa,Female,Mbeya,Mbeya ICD
+1014,Aziza Magige,Female,Kigoma,Kabanga Border
+1015,Gabriel Fabian Bhoke,Male,Dar es Salaam,Kurasini ICD
+1016,Aloyce Mwasanguti,Male,Songwe,Kasumulu Border (Malawi)
+1017,Abdallah Juma,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+1018,Richard Shabani Mwakipesile,Male,Songwe,Kasumulu Border (Malawi)
+1019,Paulo Komba,Male,Mbeya,Kyela (Lake Nyasa)
+1020,Maulidi Joseph,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1021,Wilfred Masunga Joseph,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1022,Bakari Lazaro,Male,Dar es Salaam,Kurasini ICD
+1023,Anthony Omari,Male,Pwani,Bagamoyo
+1024,Mosi Wambura,Male,Songwe,Tunduma Border (Zambia)
+1025,Selemani Lyatu,Male,Mbeya,Kyela (Lake Nyasa)
+1026,Juma Magige,Male,Arusha,Arusha (clearing)
+1027,Damian Khamis,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1028,Kassim Mlowe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1029,Januari Ramadhani Mohamed,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1030,Ester Gervas Mapunda,Female,Arusha,Arusha (clearing)
+1031,Bahati Joseph,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1032,Mwinyi Bukombe,Male,Mara,Sirari Border (Kenya)
+1033,Yusuph Ngonyani,Male,Arusha,Namanga Border (Kenya)
+1034,Nassoro Salum,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1035,Lucia Modest Range,Female,Arusha,Arusha (clearing)
+1036,Shabani Mwakipesile,Male,Mbeya,Kyela (Lake Nyasa)
+1037,Witness Mohamed,Female,Pwani,Mafia Jetty
+1038,Baraka Khamis,Male,Tanga,Horohoro Border (Kenya)
+1039,Iddi Charles Daniel,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1040,Salehe Range,Male,Mwanza,Mwanza North Port
+1041,Emmanuel Frank Haule,Male,Katavi,Ikola Port
+1042,Omari Israel Bakari,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1043,Augustino Abdallah,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1044,Pendo Maulidi,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1045,Godfrey Komba,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1046,Damian Fabian Mzee,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1047,Subira Mlowe,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1048,Baraka Mapunda,Male,Kigoma,Kabanga Border
+1049,Gabriel Mosha,Male,Arusha,Arusha (clearing)
+1050,Lucia Kihwele,Female,Arusha,Arusha (clearing)
+1051,Eliya Ramadhani Mwakatobe,Male,Mara,Sirari Border (Kenya)
+1052,Salum Tabu Kihwele,Male,Mbeya,Kyela (Lake Nyasa)
+1053,Scholastica Michael,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1054,Clemence Mwakatobe,Male,Mara,Sirari Border (Kenya)
+1055,Mohamed Charles Range,Male,Mtwara,Mtambaswala (Unity Bridge)
+1056,Peter Anthony Range,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1057,Ally Komba,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1058,Juma Minja,Male,Arusha,Arusha (clearing)
+1059,Goodluck Hemedi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1060,Deogratias Daniel,Male,Mbeya,Mbeya ICD
+1061,Peter Rashidi Issa,Male,Pwani,Mafia Jetty
+1062,Ester Elia Mtumwa,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1063,Athumani Salehe Michael,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1064,Erick Kihwele,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1065,Frank Augustino Mwaijande,Male,Songwe,Kasumulu Border (Malawi)
+1066,Anthony Richard Salum,Male,Pwani,Bagamoyo
+1067,Upendo Lazaro,Female,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+1068,Hassani Mlowe,Male,Katavi,Ikola Port
+1069,Innocent Athumani Temba,Male,Kilimanjaro,Holili Border (Kenya)
+1070,Editruda Haule,Female,Kagera,Mutukula Border (Uganda)
+1071,Mabula Range,Male,Katavi,Karema Port (Lake Tanganyika)
+1072,Shabani Doto,Male,Mara,Sirari Border (Kenya)
+1073,Tabu Sumari,Male,Kilimanjaro,Moshi (clearing)
+1074,Tabu Wambura,Male,Arusha,Arusha (clearing)
+1075,Salehe Salehe Maulidi,Male,Dar es Salaam,Kurasini ICD
+1076,Castory Selemani Masanja,Male,Mara,Musoma Port (Lake Victoria)
+1077,Audax Israel Chacha,Male,Mbeya,Tunduma Corridor
+1078,Paulo Kasambala,Male,Songwe,Kasumulu Border (Malawi)
+1079,Damian Mhagama,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1080,Latifa Mwinyi,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1081,Elia Ngonyani,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1082,Esther Nyoni,Female,Kagera,Bukoba Port
+1083,Goodluck Haule,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1084,Audax Massawe,Male,Kilimanjaro,Tarakea Border
+1085,Veronica Bhoke,Female,Mwanza,Mwanza South Port (Lake Victoria)
+1086,Eliya Gervas Charahani,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1087,Shabani Chande Mohamed,Male,Dar es Salaam,Kurasini ICD
+1088,Nassoro Bakari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1089,Selemani Selemani,Male,Tanga,Tanga Port
+1090,Lucas Mwakajinga,Male,Mbeya,Mbeya ICD
+1091,Juma Zakaria Ramadhani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1092,Juma Mapunda,Male,Dar es Salaam,Kurasini ICD
+1093,Witness Mapunda,Female,Kagera,Bukoba Port
+1094,Mosi Mapunda,Male,Dar es Salaam,Kurasini ICD
+1095,Abdallah Joseph,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1096,Salum Mwinyi Baitani,Male,Kagera,Mutukula Border (Uganda)
+1097,Mosi Innocent Lazaro,Male,Arusha,Namanga Border (Kenya)
+1098,Subira Marwa,Female,Dar es Salaam,Kurasini ICD
+1099,Ester Salehe Munisi,Female,Arusha,Namanga Border (Kenya)
+1100,Edmund Daudi Urio,Male,Kilimanjaro,Holili Border (Kenya)
+1101,Felician Chande Paul,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1102,Mabula Kimaro,Male,Kilimanjaro,Holili Border (Kenya)
+1103,Ng'wanza Mwakatobe,Male,Mbeya,Kyela (Lake Nyasa)
+1104,Juma Daniel,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1105,Nassoro Kibwana,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1106,Lameck Mosi Bhoke,Male,Kigoma,Manyovu Border (Burundi)
+1107,Hassan Omari Nassoro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1108,Zuhura Komba,Female,Mara,Musoma Port (Lake Victoria)
+1109,Erasto Baraka Kimaro,Male,Kilimanjaro,Moshi (clearing)
+1110,Hamisi Mapunda,Male,Kigoma,Manyovu Border (Burundi)
+1111,Zawadi Swai,Female,Arusha,Namanga Border (Kenya)
+1112,Ally Mlowe,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1113,Israel Bhoke,Male,Dar es Salaam,Kurasini ICD
+1114,Stephano Marealle,Male,Arusha,Namanga Border (Kenya)
+1115,Mathayo Kimaro,Male,Kilimanjaro,Moshi (clearing)
+1116,Grace Minja,Female,Kilimanjaro,Holili Border (Kenya)
+1117,Hemedi Mfaume,Male,Dar es Salaam,Kurasini ICD
+1118,Marko Haule,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1119,Renatus Hamisi Mtitu,Male,Mtwara,Mtambaswala (Unity Bridge)
+1120,Editruda Mussa Michael,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1121,Aloyce Ndosi,Male,Kilimanjaro,Holili Border (Kenya)
+1122,Richard Mlay,Male,Kilimanjaro,Holili Border (Kenya)
+1123,Hassani Mwinyi,Male,Tanga,Tanga Port
+1124,Hemedi Mwakatobe,Male,Mtwara,Mtambaswala (Unity Bridge)
+1125,Januari Felician Mwakatobe,Male,Mwanza,Mwanza North Port
+1126,Charles Ramadhani Mmari,Male,Kilimanjaro,Tarakea Border
+1127,Wilfred Mlay,Male,Arusha,Arusha (clearing)
+1128,Selemani Rajabu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1129,Khamis Augustino Ndosi,Male,Kilimanjaro,Holili Border (Kenya)
+1130,Ester Ramadhani,Female,Pwani,Mlandizi ICD
+1131,Felician John,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1132,Bahati Daniel,Female,Mwanza,Mwanza South Port (Lake Victoria)
+1133,Marko Ndyetabura,Male,Kagera,Bukoba Port
+1134,Rashidi Mushi,Male,Kilimanjaro,Tarakea Border
+1135,Gloria Bhoke,Female,Arusha,Arusha (clearing)
+1136,Shufaa Mlowe,Female,Rukwa,Kasanga Port (Lake Tanganyika)
+1137,Baraka Issa Shabani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1138,Innocent Selemani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1139,Khamis Shabani,Male,Tanga,Horohoro Border (Kenya)
+1140,Gloria Rwechungura,Female,Kigoma,Manyovu Border (Burundi)
+1141,Beatrice Mtitu,Female,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+1142,Mwinyi Masanja,Male,Mwanza,Mwanza North Port
+1143,Goodluck Mgaya,Male,Mbeya,Kyela (Lake Nyasa)
+1144,Onesmo Mhagama,Male,Kigoma,Kabanga Border
+1145,Mariamu Aidan Ngonyani,Female,Mara,Musoma Port (Lake Victoria)
+1146,Prisca Deogratias Mfaume,Female,Dar es Salaam,Kurasini ICD
+1147,Esther Rweyemamu,Female,Kigoma,Kabanga Border
+1148,Lameck Stephano Komba,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1149,Hamza Audax Kibwana,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1150,Hamza Bhoke,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+1151,Sikujua Mtumwa,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1152,Felician Bakari,Male,Tanga,Horohoro Border (Kenya)
+1153,Yusuph Paul,Male,Mbeya,Mbeya ICD
+1154,Nassoro Ngonyani,Male,Rukwa,Sumbawanga (clearing)
+1155,Asha Shabani,Female,Tanga,Horohoro Border (Kenya)
+1156,Maria Said Selemani,Female,Pwani,Mafia Jetty
+1157,Goodluck Kibwana,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1158,Nassoro Mwakatobe,Male,Songwe,Tunduma Border (Zambia)
+1159,Petro Sanga,Male,Mbeya,Kyela (Lake Nyasa)
+1160,Clemence Range,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1161,Elia Daniel,Male,Mbeya,Tunduma Corridor
+1162,Damian Yusuph Mussa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1163,Mussa Hamisi Issa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1164,Devotha Selemani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1165,Felician Bhoke,Male,Kagera,Rusumo Border (Rwanda)
+1166,Renatus Selemani Ngonyani,Male,Kagera,Rusumo Border (Rwanda)
+1167,John Onesmo Sumari,Male,Kilimanjaro,Moshi (clearing)
+1168,Gloria Kihwele,Female,Katavi,Karema Port (Lake Tanganyika)
+1169,Gloria Hemedi,Female,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+1170,Modest Mapunda,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1171,Kulwa Israel Shabani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1172,Masunga Mussa Issa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1173,Salum Nassoro,Male,Dar es Salaam,Kurasini ICD
+1174,Felician Lyimo,Male,Arusha,Namanga Border (Kenya)
+1175,Athumani Bhoke,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1176,Kiango Lazaro,Male,Dar es Salaam,Kurasini ICD
+1177,Method Daniel,Male,Kagera,Mutukula Border (Uganda)
+1178,Felician Omari Daniel,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1179,Doris Mussa,Female,Pwani,Mlandizi ICD
+1180,John Mlay,Male,Arusha,Arusha (clearing)
+1181,Said Augustino Juma,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1182,Mwinyi Mwakatobe,Male,Mwanza,Mwanza North Port
+1183,Abdallah Audax Mzee,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1184,Erasto Ramadhani Mwinyi,Male,Dar es Salaam,Kurasini ICD
+1185,Maulidi Rutaihwa,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1186,Erasto Chande,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1187,Augustino Maulidi,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+1188,Castory Ramadhani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1189,Gideon Yusuph Mgaya,Male,Arusha,Namanga Border (Kenya)
+1190,Mabula Wambura,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1191,Israel Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1192,Mwita Mwakatobe,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1193,Naomi Richard Sumari,Female,Kilimanjaro,Holili Border (Kenya)
+1194,Mfaume Mapunda,Male,Dar es Salaam,Kurasini ICD
+1195,Mussa Ally,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1196,Rose Rutaihwa,Female,Kigoma,Kabanga Border
+1197,Shufaa Ndyetabura,Female,Kagera,Rusumo Border (Rwanda)
+1198,Bahati Kibwana,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1199,Bakari Omari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1200,Mussa Kelvin Khamis,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1201,Tabu Madata,Male,Mara,Sirari Border (Kenya)
+1202,Clemence Chacha,Male,Arusha,Arusha (clearing)
+1203,Hassan Bakari,Male,Pwani,Mafia Jetty
+1204,Sophia Haule,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1205,Theresia Nassoro Mapunda,Female,Ruvuma,Songea (clearing)
+1206,Agnes Mtitu,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1207,Aidan Ngonyani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1208,George Petro Haule,Male,Ruvuma,Songea (clearing)
+1209,Shabani Marko Omari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1210,Frank Massawe,Male,Arusha,Namanga Border (Kenya)
+1211,Issa Mlowe,Male,Songwe,Kasumulu Border (Malawi)
+1212,Gloria Mutabazi,Female,Kagera,Mutukula Border (Uganda)
+1213,Salehe Ngonyani,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1214,Elia Mbwilo,Male,Songwe,Kasumulu Border (Malawi)
+1215,Neema Hassan,Female,Tanga,Horohoro Border (Kenya)
+1216,Elia Mwasanguti,Male,Songwe,Kasumulu Border (Malawi)
+1217,Innocent Mmari,Male,Kilimanjaro,Holili Border (Kenya)
+1218,Ally Iddi,Male,Mtwara,Mtambaswala (Unity Bridge)
+1219,Juma Augustino Ndosi,Male,Kilimanjaro,Tarakea Border
+1220,Salehe Mabula,Male,Mara,Musoma Port (Lake Victoria)
+1221,Hidaya Chande Abdallah,Female,Tanga,Tanga Port
+1222,Hamza Richard Lyatu,Male,Mwanza,Mwanza North Port
+1223,Castory Mayige,Male,Mwanza,Mwanza North Port
+1224,Clemence Nyoni,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1225,Rashidi Kihwele,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1226,Ng'wanza Nassoro Mapunda,Male,Songwe,Tunduma Border (Zambia)
+1227,Goodluck John,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1228,Kassim Kweka,Male,Arusha,Namanga Border (Kenya)
+1229,Maua Shirima,Female,Kilimanjaro,Moshi (clearing)
+1230,Peter Chacha,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1231,Abdallah Lazaro,Male,Mbeya,Kyela (Lake Nyasa)
+1232,Hamisi Selemani Mhagama,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1233,Upendo Salum,Female,Tanga,Horohoro Border (Kenya)
+1234,Salma Chacha,Female,Kagera,Mutukula Border (Uganda)
+1235,Mwita Renatus Mbwilo,Male,Songwe,Kasumulu Border (Malawi)
+1236,Hidaya Renatus Tarimo,Female,Kilimanjaro,Tarakea Border
+1237,Gloria Selemani,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1238,Mabula Said Mapunda,Male,Dar es Salaam,Kurasini ICD
+1239,Lucas Boniface Khamis,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1240,Juma Felician Joseph,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1241,Upendo Mfaume,Female,Dar es Salaam,Kurasini ICD
+1242,Maulidi Maulidi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1243,Omari Omari Wambura,Male,Mbeya,Kyela (Lake Nyasa)
+1244,Yusuph Khamis,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1245,Glory Shirima,Female,Kilimanjaro,Tarakea Border
+1246,Said Felician Lyatu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1247,Erasto Felician Lyatu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1248,Prisca Wambura,Female,Rukwa,Kasanga Port (Lake Tanganyika)
+1249,Yusuph Mussa,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+1250,Castory Iddi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1251,Juma Issa,Male,Mtwara,Mtwara Port
+1252,Pendo Mwaijande,Female,Songwe,Tunduma Border (Zambia)
+1253,Renatus Felician Mwamengo,Male,Mbeya,Kyela (Lake Nyasa)
+1254,Kassim Mussa Mbwilo,Male,Songwe,Kasumulu Border (Malawi)
+1255,Damian Felician Mwita,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1256,Tabu Macha,Male,Kilimanjaro,Moshi (clearing)
+1257,Issa Range,Male,Mtwara,Mtambaswala (Unity Bridge)
+1258,Damian Kibwana,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1259,Marko Temba,Male,Kilimanjaro,Tarakea Border
+1260,Damian Lukanga,Male,Mara,Sirari Border (Kenya)
+1261,Stephano Marwa,Male,Mara,Musoma Port (Lake Victoria)
+1262,Baraka Juma Rugaimukamu,Male,Kagera,Bukoba Port
+1263,Zainabu Chande,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1264,Omari Bundala,Male,Mara,Sirari Border (Kenya)
+1265,Issa Issa,Male,Pwani,Mlandizi ICD
+1266,John Athumani,Male,Tanga,Horohoro Border (Kenya)
+1267,Augustino Kiango Kihwele,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1268,Kassim Maulidi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1269,Felician Yusuph Chande,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1270,Gideon Rajabu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1271,Rajabu Rajabu,Male,Tanga,Tanga Port
+1272,John Boniface Kashindye,Male,Kagera,Mutukula Border (Uganda)
+1273,Hemedi Mhagama,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1274,Modest Hassan,Male,Tanga,Horohoro Border (Kenya)
+1275,Ng'wanza Hamza Mwakyusa,Male,Mbeya,Mbeya ICD
+1276,Halima Wambura,Female,Rukwa,Kasanga Port (Lake Tanganyika)
+1277,Nassoro Juma,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1278,Maulidi Kashindye,Male,Kigoma,Manyovu Border (Burundi)
+1279,Lightness Wambura,Female,Kigoma,Manyovu Border (Burundi)
+1280,Nassoro Michael,Male,Kigoma,Manyovu Border (Burundi)
+1281,Mussa Doto Chande,Male,Tanga,Horohoro Border (Kenya)
+1282,Baraka Augustino Daniel,Male,Songwe,Tunduma Border (Zambia)
+1283,Mosi Rajabu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1284,Renatus Mlay,Male,Arusha,Arusha (clearing)
+1285,Aloyce Castory Omari,Male,Dar es Salaam,Kurasini ICD
+1286,Rashidi Hassan Mussa,Male,Tanga,Horohoro Border (Kenya)
+1287,Mosi Magige,Male,Dar es Salaam,Kurasini ICD
+1288,Devotha Yusuph Khamis,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1289,Agnes Godfrey Lyatu,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1290,Mathayo Ally,Male,Mtwara,Mtwara Port
+1291,Joseph Kelvin Nassoro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1292,Said Ndosi,Male,Kilimanjaro,Tarakea Border
+1293,Said Godfrey Selemani,Male,Dar es Salaam,Kurasini ICD
+1294,Catherine Ngonyani,Female,Kagera,Mutukula Border (Uganda)
+1295,Gabriel Daniel,Male,Songwe,Tunduma Border (Zambia)
+1296,Kiango Wilfred Hemedi,Male,Tanga,Tanga Port
+1297,Januari Athumani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1298,Rajabu Mtitu,Male,Mtwara,Mtwara Port
+1299,Halima Maulidi Mapunda,Female,Songwe,Kasumulu Border (Malawi)
+1300,Selemani Charles Lazaro,Male,Dar es Salaam,Kurasini ICD
+1301,Mwinyi Moshi,Male,Kilimanjaro,Holili Border (Kenya)
+1302,Nassoro Ngonyani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1303,Shufaa Fabian Kimaro,Female,Arusha,Arusha (clearing)
+1304,Lameck Mwakalinga,Male,Mbeya,Kyela (Lake Nyasa)
+1305,Joseph Mapunda,Male,Rukwa,Sumbawanga (clearing)
+1306,Hamza Daniel,Male,Arusha,Namanga Border (Kenya)
+1307,Abdallah Godfrey Masanja,Male,Mara,Musoma Port (Lake Victoria)
+1308,Ramadhani Gabriel Wambura,Male,Mbeya,Kyela (Lake Nyasa)
+1309,Frank Erick Bakari,Male,Pwani,Bagamoyo
+1310,Catherine Mwita Bakari,Female,Mtwara,Mtambaswala (Unity Bridge)
+1311,Yohana Lazaro,Male,Mara,Musoma Port (Lake Victoria)
+1312,Salehe Kweka,Male,Kilimanjaro,Moshi (clearing)
+1313,Audax Mohamed,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1314,Maua Daniel,Female,Katavi,Ikola Port
+1315,Mussa Mwakatobe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1316,Castory Lukanga,Male,Mara,Musoma Port (Lake Victoria)
+1317,Gervas Kimaro,Male,Kilimanjaro,Tarakea Border
+1318,Rehema Sumari,Female,Kilimanjaro,Tarakea Border
+1319,Anthony Doto,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1320,Hamisi Issa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1321,Aloyce Mlowe,Male,Katavi,Ikola Port
+1322,Baraka Maulidi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1323,Ramadhani Shabani,Male,Pwani,Mafia Jetty
+1324,Yusuph Yusuph Mbwilo,Male,Songwe,Kasumulu Border (Malawi)
+1325,Lameck Ally,Male,Dar es Salaam,Kurasini ICD
+1326,Gabriel Lyatu,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+1327,Mwinyi Paul,Male,Dar es Salaam,Kurasini ICD
+1328,Scholastica Hamza Michael,Female,Mbeya,Tunduma Corridor
+1329,Kassim Kelvin Mwita,Male,Mwanza,Mwanza North Port
+1330,Eliya Magige,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1331,Latifa Mwinyi Temba,Female,Kilimanjaro,Moshi (clearing)
+1332,Maulidi Masunga Daniel,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+1333,Selemani Edmund Kweka,Male,Kilimanjaro,Holili Border (Kenya)
+1334,Prisca Mwita,Female,Arusha,Namanga Border (Kenya)
+1335,Mwanaharusi Swai,Female,Kilimanjaro,Moshi (clearing)
+1336,Hemedi Felician Selemani,Male,Dar es Salaam,Kurasini ICD
+1337,Prisca Boniface Bukombe,Female,Mwanza,Mwanza North Port
+1338,Modest Mapunda,Male,Dar es Salaam,Kurasini ICD
+1339,Kiango Mzee,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1340,Hamisi Lazaro,Male,Arusha,Arusha (clearing)
+1341,Mfaume Rajabu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1342,Upendo Minja,Female,Kilimanjaro,Tarakea Border
+1343,Hamisi Rajabu,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+1344,Clemence Hassani Mlay,Male,Arusha,Namanga Border (Kenya)
+1345,Yohana Munisi,Male,Kilimanjaro,Moshi (clearing)
+1346,Subira Lazaro,Female,Dar es Salaam,Kurasini ICD
+1347,Abdallah Rashidi Mohamed,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1348,Naomi Lyatu,Female,Kigoma,Manyovu Border (Burundi)
+1349,Deogratias Mutabazi,Male,Kagera,Mutukula Border (Uganda)
+1350,Erick Juma,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1351,Zainabu Mgaya,Female,Mwanza,Mwanza North Port
+1352,Stella Salum,Female,Tanga,Tanga Port
+1353,Wilfred Mfaume,Male,Dar es Salaam,Kurasini ICD
+1354,Zakaria Ally Moshi,Male,Arusha,Arusha (clearing)
+1355,Aziza Eliya Shabani,Female,Tanga,Horohoro Border (Kenya)
+1356,Lucas Daniel,Male,Kagera,Mutukula Border (Uganda)
+1357,Masunga Ndosi,Male,Arusha,Arusha (clearing)
+1358,Tatu Range,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1359,Salehe Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1360,Yusuph Komba,Male,Dar es Salaam,Kurasini ICD
+1361,Lucas Athumani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1362,Ramadhani Mwakatobe,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1363,Baraka Magige,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1364,Rukia Ally,Female,Dar es Salaam,Kurasini ICD
+1365,Deogratias Mtumwa,Male,Tanga,Tanga Port
+1366,Khadija Juma,Female,Dar es Salaam,Kurasini ICD
+1367,Januari Juma Mosha,Male,Kilimanjaro,Holili Border (Kenya)
+1368,Godfrey Daniel,Male,Rukwa,Sumbawanga (clearing)
+1369,Boniface Hamza Mohamed,Male,Mtwara,Mtwara Port
+1370,Zakaria Bhoke,Male,Dar es Salaam,Kurasini ICD
+1371,Glory Mwakajinga,Female,Mbeya,Mbeya ICD
+1372,Joseph Haule,Male,Dar es Salaam,Kurasini ICD
+1373,Kulwa Daniel,Male,Mbeya,Tunduma Corridor
+1374,Felician Rajabu,Male,Pwani,Mafia Jetty
+1375,Joyce Mtumwa,Female,Dar es Salaam,Kurasini ICD
+1376,Nassoro Mwita Mzee,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1377,Januari Sanga,Male,Songwe,Tunduma Border (Zambia)
+1378,Mabula Iddi,Male,Dar es Salaam,Kurasini ICD
+1379,Elia Rajabu Hassan,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1380,Hamisi Doto Baitani,Male,Kigoma,Manyovu Border (Burundi)
+1381,Lucas Bakari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1382,Augustino Aidan Chande,Male,Pwani,Bagamoyo
+1383,Hemedi Doto,Male,Mwanza,Mwanza North Port
+1384,George Athumani,Male,Tanga,Tanga Port
+1385,Richard Magige,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1386,Yohana Selemani Wambura,Male,Arusha,Arusha (clearing)
+1387,Mabula Said,Male,Mtwara,Mtwara Port
+1388,Yusuph Abdallah,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1389,Yusuph Hemedi Rajabu,Male,Tanga,Tanga Port
+1390,Hassan Daniel,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1391,Goodluck Swai,Male,Arusha,Namanga Border (Kenya)
+1392,Riziki Rajabu,Female,Mtwara,Mtwara Port
+1393,Hassan Athumani,Male,Pwani,Mafia Jetty
+1394,Pendo Lazaro,Female,Dar es Salaam,Kurasini ICD
+1395,Esther Ally Sumari,Female,Arusha,Namanga Border (Kenya)
+1396,Kelvin Bhoke,Male,Kagera,Bukoba Port
+1397,Method Nyoni,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+1398,Nassoro John,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1399,Rashidi Bakari Lyatu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1400,Editruda Fabian Chacha,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1401,Mwinyi Baraka Maduhu,Male,Mara,Sirari Border (Kenya)
+1402,Peter Paul,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1403,Paulo Ramadhani Mhagama,Male,Dar es Salaam,Kurasini ICD
+1404,Ester Augustino Range,Female,Mwanza,Mwanza North Port
+1405,Lameck Ngonyani,Male,Dar es Salaam,Kurasini ICD
+1406,Rose Charles Tarimo,Female,Kilimanjaro,Holili Border (Kenya)
+1407,Goodluck Kasambala,Male,Songwe,Kasumulu Border (Malawi)
+1408,Khamis Ng'wandu,Male,Mwanza,Mwanza North Port
+1409,Lameck Urio,Male,Kilimanjaro,Moshi (clearing)
+1410,Petro Yusuph Bhoke,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1411,Felician Ally,Male,Mtwara,Mtambaswala (Unity Bridge)
+1412,Mabula Mwamengo,Male,Mbeya,Mbeya ICD
+1413,Onesmo Iddi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1414,Mosi Marwa,Male,Arusha,Arusha (clearing)
+1415,Innocent Hemedi Kessy,Male,Kilimanjaro,Tarakea Border
+1416,Aziza Mlowe,Female,Rukwa,Sumbawanga (clearing)
+1417,Mwinyi Joseph,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1418,Gabriel Tabu Abdallah,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1419,Charles Kelvin Hemedi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1420,Emmanuel Andrea Michael,Male,Ruvuma,Songea (clearing)
+1421,Mwinyi Filbert Bishanga,Male,Kigoma,Kabanga Border
+1422,Charles Mutabazi,Male,Kigoma,Manyovu Border (Burundi)
+1423,Erick Marwa,Male,Arusha,Namanga Border (Kenya)
+1424,Gabriel Athumani Kihwele,Male,Mbeya,Mbeya ICD
+1425,Clemence Lyimo,Male,Kilimanjaro,Moshi (clearing)
+1426,Shabani Ndaki,Male,Mwanza,Mwanza North Port
+1427,Elia Bakari Lazaro,Male,Mbeya,Kyela (Lake Nyasa)
+1428,Bakari Daniel,Male,Dar es Salaam,Kurasini ICD
+1429,Constantine Edmund Issa,Male,Tanga,Tanga Port
+1430,Marko Ng'wanza Bishanga,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1431,Iddi Boniface Paul,Male,Kagera,Mutukula Border (Uganda)
+1432,Prisca Deogratias Nassoro,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1433,Selemani Range,Male,Songwe,Kasumulu Border (Malawi)
+1434,Kulwa Selemani,Male,Dar es Salaam,Kurasini ICD
+1435,Clemence Mzee,Male,Tanga,Horohoro Border (Kenya)
+1436,Castory Baraka Paul,Male,Arusha,Namanga Border (Kenya)
+1437,Hamisi Elia Mussa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1438,Baraka Richard Minja,Male,Arusha,Arusha (clearing)
+1439,Tunu Juma,Female,Dar es Salaam,Kurasini ICD
+1440,Yohana Athumani Mwita,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1441,Hassan Kulwa Iddi,Male,Dar es Salaam,Kurasini ICD
+1442,Petro Issa Paul,Male,Dar es Salaam,Kurasini ICD
+1443,Shabani Kassim Rajabu,Male,Tanga,Horohoro Border (Kenya)
+1444,Masunga Lyatu,Male,Mwanza,Mwanza North Port
+1445,Erick Lazaro,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1446,Elia Range,Male,Arusha,Arusha (clearing)
+1447,Yohana Selemani Magige,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1448,Filbert Ramadhani,Male,Dar es Salaam,Kurasini ICD
+1449,Veronica Clemence Mfaume,Female,Pwani,Mafia Jetty
+1450,Agnes Juma,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1451,Damian Lazaro,Male,Kigoma,Manyovu Border (Burundi)
+1452,Chande Marwa,Male,Ruvuma,Songea (clearing)
+1453,Pendo Mosha,Female,Kilimanjaro,Tarakea Border
+1454,Hamza Mussa Ngonyani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1455,Fabian Bhoke,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1456,Onesmo Ally,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1457,Zuhura Nassoro,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1458,Salma Mayige,Female,Mara,Musoma Port (Lake Victoria)
+1459,Augustino Aidan Haule,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1460,Petro Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1461,Gervas Mathayo Lyatu,Male,Mbeya,Kyela (Lake Nyasa)
+1462,Innocent Goodluck John,Male,Songwe,Tunduma Border (Zambia)
+1463,Lameck Nestory Ngonyani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1464,Castory Aloyce Athumani,Male,Mtwara,Mtambaswala (Unity Bridge)
+1465,Rashidi Ally Ndosi,Male,Arusha,Arusha (clearing)
+1466,Paulo Wambura,Male,Kagera,Bukoba Port
+1467,Yusuph Bundala,Male,Mara,Musoma Port (Lake Victoria)
+1468,Baraka Salum Abdallah,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1469,Petro Abdallah Ramadhani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1470,Baraka Rweyemamu,Male,Kigoma,Manyovu Border (Burundi)
+1471,Baraka Masunga,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1472,Chande Marealle,Male,Arusha,Namanga Border (Kenya)
+1473,Eliya Issa,Male,Pwani,Mafia Jetty
+1474,Hemedi Munisi,Male,Kilimanjaro,Holili Border (Kenya)
+1475,Renatus Tabu Wambura,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1476,Khamis Kihwele,Male,Mbeya,Tunduma Corridor
+1477,Hemedi Hemedi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1478,Fatuma Joseph,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1479,Bakari Tarimo,Male,Kilimanjaro,Moshi (clearing)
+1480,Khamis Rweyemamu,Male,Kagera,Mutukula Border (Uganda)
+1481,Gideon Juma,Male,Dar es Salaam,Kurasini ICD
+1482,Modest Bakari Mmari,Male,Arusha,Namanga Border (Kenya)
+1483,Maulidi Ngonyani,Male,Kagera,Bukoba Port
+1484,Januari Omari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1485,Abdallah Mwinyi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1486,Gervas Komba,Male,Dar es Salaam,Kurasini ICD
+1487,Juma Aidan Wambura,Male,Songwe,Kasumulu Border (Malawi)
+1488,Catherine Issa,Female,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+1489,Bahati Zakaria Abdallah,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1490,Kassim Joseph,Male,Songwe,Tunduma Border (Zambia)
+1491,Innocent Erick John,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+1492,Kiango Mzee,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1493,Rashidi Lazaro,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+1494,Mabula Mwita,Male,Mbeya,Mbeya ICD
+1495,Stephano Hassani Mwaisaka,Male,Songwe,Kasumulu Border (Malawi)
+1496,Erasto Rweyemamu,Male,Kigoma,Manyovu Border (Burundi)
+1497,Godfrey Zakaria Kessy,Male,Arusha,Arusha (clearing)
+1498,Method Aidan Nyoni,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1499,Jane Hamisi Khamis,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1500,Upendo Michael,Female,Mbeya,Mbeya ICD
+1501,Beatrice Magige,Female,Kagera,Bukoba Port
+1502,Audax Frank Khamis,Male,Dar es Salaam,Kurasini ICD
+1503,Aidan Israel Mhagama,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1504,Athumani Lameck Komba,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1505,Juma Issa Mwakatobe,Male,Ruvuma,Songea (clearing)
+1506,Andrea Joseph,Male,Mwanza,Mwanza North Port
+1507,Hamza Mohamed,Male,Pwani,Mafia Jetty
+1508,Peter Mapunda,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+1509,Frank Innocent Kassim,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1510,Sophia John,Female,Mbeya,Tunduma Corridor
+1511,Yohana Haule,Male,Songwe,Tunduma Border (Zambia)
+1512,Kelvin Mzee,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1513,Gideon Bishanga,Male,Kagera,Rusumo Border (Rwanda)
+1514,Daudi Lutema,Male,Mara,Sirari Border (Kenya)
+1515,George Kelvin Mgaya,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1516,Lucas Mlowe,Male,Katavi,Ikola Port
+1517,Abdallah Mussa,Male,Dar es Salaam,Kurasini ICD
+1518,Pendo Ngonyani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1519,Constantine Marealle,Male,Arusha,Arusha (clearing)
+1520,Riziki Filbert Mgaya,Female,Dar es Salaam,Kurasini ICD
+1521,Boniface Bakari,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1522,Prisca Onesmo Mwita,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1523,Mussa Nyoni,Male,Dar es Salaam,Kurasini ICD
+1524,Frank Komba,Male,Kigoma,Kabanga Border
+1525,Mussa Mtumwa,Male,Dar es Salaam,Kurasini ICD
+1526,Zakaria John,Male,Kagera,Rusumo Border (Rwanda)
+1527,Mohamed Maro,Male,Arusha,Namanga Border (Kenya)
+1528,Yusuph Omari,Male,Pwani,Mafia Jetty
+1529,Bahati Mtitu,Female,Mbeya,Mbeya ICD
+1530,Anthony Mtitu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1531,Charles Selemani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1532,Filbert Hassani Daniel,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1533,Hamza Mwinyi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1534,Juma Range,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1535,Mfaume Hamza Ndyetabura,Male,Kagera,Bukoba Port
+1536,Shabani Chande Mlowe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1537,Modest Said,Male,Mtwara,Mtwara Port
+1538,Khadija Selemani,Female,Dar es Salaam,Kurasini ICD
+1539,Edmund Mhagama,Male,Dar es Salaam,Kurasini ICD
+1540,Lucas Iddi,Male,Mtwara,Mtwara Port
+1541,Nestory Ndyetabura,Male,Kagera,Bukoba Port
+1542,Hemedi Mwaijande,Male,Songwe,Tunduma Border (Zambia)
+1543,Khamis Ngonyani,Male,Mtwara,Mtwara Port
+1544,Mfaume Paul,Male,Kagera,Bukoba Port
+1545,Ramadhani Athumani,Male,Dar es Salaam,Kurasini ICD
+1546,Castory Damian Joseph,Male,Dar es Salaam,Kurasini ICD
+1547,Constantine Komba,Male,Arusha,Namanga Border (Kenya)
+1548,Rajabu Marwa,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1549,Fatuma Ng'wanza Joseph,Female,Arusha,Arusha (clearing)
+1550,Said Lyatu,Male,Songwe,Kasumulu Border (Malawi)
+1551,Richard Nassoro Urio,Male,Kilimanjaro,Moshi (clearing)
+1552,Januari Mwita Ngonyani,Male,Dar es Salaam,Kurasini ICD
+1553,Sophia Salehe Ndyetabura,Female,Kigoma,Kabanga Border
+1554,Innocent Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1555,Mwanahawa Mwita,Female,Arusha,Arusha (clearing)
+1556,Paulo Mwita,Male,Mtwara,Mtwara Port
+1557,Goodluck Rajabu,Male,Dar es Salaam,Kurasini ICD
+1558,Renatus Kessy,Male,Kilimanjaro,Tarakea Border
+1559,Juma Shabani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1560,Mwanaharusi Elia Iddi,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1561,Gideon Shabani,Male,Pwani,Mafia Jetty
+1562,Iddi Peter Mohamed,Male,Dar es Salaam,Kurasini ICD
+1563,Emmanuel Kasambala,Male,Songwe,Tunduma Border (Zambia)
+1564,Sikujua Salum,Female,Dar es Salaam,Kurasini ICD
+1565,Devotha Athumani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1566,Peter Mapunda,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1567,Zuhura Bundala,Female,Mwanza,Mwanza North Port
+1568,Salum Mwamengo,Male,Mbeya,Tunduma Corridor
+1569,Mwanaidi Kiango Bakari,Female,Tanga,Horohoro Border (Kenya)
+1570,Aloyce Mwakipesile,Male,Songwe,Kasumulu Border (Malawi)
+1571,Maria Iddi,Female,Mtwara,Mtwara Port
+1572,Editha Nassoro Mwakatobe,Female,Kagera,Bukoba Port
+1573,Stephano Mtumwa,Male,Pwani,Mlandizi ICD
+1574,Mwanaidi Lazaro,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1575,Chande Mohamed,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1576,Fabian Komba,Male,Arusha,Namanga Border (Kenya)
+1577,Hellena Mwaisaka,Female,Songwe,Tunduma Border (Zambia)
+1578,Rashidi Mgaya,Male,Songwe,Kasumulu Border (Malawi)
+1579,Januari Mfaume,Male,Dar es Salaam,Kurasini ICD
+1580,Issa Felician Range,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1581,Aloyce Rajabu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1582,Zakaria Clemence Mwinyi,Male,Mtwara,Mtwara Port
+1583,Amina Baraka Mwita,Female,Mbeya,Tunduma Corridor
+1584,Rose Mapunda,Female,Mwanza,Mwanza North Port
+1585,Nassoro Erick Mosha,Male,Kilimanjaro,Holili Border (Kenya)
+1586,Husna Doto Chacha,Female,Songwe,Tunduma Border (Zambia)
+1587,Naomi Paul,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1588,Modest Iddi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1589,Hellena Erasto Kibwana,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1590,Neema Macha,Female,Arusha,Namanga Border (Kenya)
+1591,Mariamu Temba,Female,Arusha,Arusha (clearing)
+1592,Jane Kweka,Female,Arusha,Namanga Border (Kenya)
+1593,Anthony Nyoni,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1594,Mussa Masunga,Male,Mara,Musoma Port (Lake Victoria)
+1595,Salum Kihwele,Male,Arusha,Namanga Border (Kenya)
+1596,Deogratias John,Male,Mbeya,Kyela (Lake Nyasa)
+1597,Bakari Mfaume Shirima,Male,Arusha,Namanga Border (Kenya)
+1598,Zainabu Lazaro,Female,Arusha,Arusha (clearing)
+1599,Aloyce Mwakipesile,Male,Mbeya,Mbeya ICD
+1600,Mathayo Shabani Mussa,Male,Dar es Salaam,Kurasini ICD
+1601,Castory Lameck Mfaume,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1602,Joseph Hamisi Kassim,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1603,Wilfred Wambura,Male,Mtwara,Mtwara Port
+1604,Kelvin Mohamed,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1605,Richard Haule,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+1606,Mohamed Lutema,Male,Mara,Sirari Border (Kenya)
+1607,Said Salehe Mhagama,Male,Mwanza,Mwanza North Port
+1608,Beatrice Mwakipesile,Female,Mbeya,Tunduma Corridor
+1609,Juma Selemani,Male,Tanga,Horohoro Border (Kenya)
+1610,Daudi Mwita Nassoro,Male,Tanga,Tanga Port
+1611,Innocent Kassim,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1612,Fabian Magige,Male,Dar es Salaam,Kurasini ICD
+1613,Gloria Bishanga,Female,Kigoma,Kabanga Border
+1614,Kiango Mwita,Male,Mbeya,Mbeya ICD
+1615,Deogratias Daniel,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+1616,Audax Issa Nassoro,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1617,Flora Mwinyi,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1618,Hawa Chande,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1619,Halima Ramadhani,Female,Mtwara,Mtwara Port
+1620,Aidan Salum Abdallah,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1621,Paulo Joseph,Male,Arusha,Arusha (clearing)
+1622,Mohamed Komba,Male,Kagera,Mutukula Border (Uganda)
+1623,Clemence Juma,Male,Tanga,Horohoro Border (Kenya)
+1624,Nestory Aloyce Said,Male,Pwani,Mlandizi ICD
+1625,Latifa Godfrey Chacha,Female,Kagera,Mutukula Border (Uganda)
+1626,Lucas Mtui,Male,Kilimanjaro,Holili Border (Kenya)
+1627,Magdalena Rajabu Wambura,Female,Mwanza,Mwanza North Port
+1628,Richard Nyoni,Male,Dar es Salaam,Kurasini ICD
+1629,Mariamu Damian Range,Female,Dar es Salaam,Kurasini ICD
+1630,Marko Nyoni,Male,Mwanza,Mwanza North Port
+1631,Nassoro Maulidi,Male,Mtwara,Mtambaswala (Unity Bridge)
+1632,Mussa Maulidi Juma,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1633,Selemani Doto,Male,Mwanza,Mwanza North Port
+1634,Method Kihwele,Male,Dar es Salaam,Kurasini ICD
+1635,Fabian Maro,Male,Arusha,Arusha (clearing)
+1636,Shabani Issa,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+1637,Yohana Karoli,Male,Kagera,Rusumo Border (Rwanda)
+1638,Nestory Masanja,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1639,Renatus Lazaro,Male,Dar es Salaam,Kurasini ICD
+1640,Riziki Bundala,Female,Mara,Sirari Border (Kenya)
+1641,Paulo Sumari,Male,Kilimanjaro,Holili Border (Kenya)
+1642,Hidaya Paulo Shabani,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1643,Stella Ally Mussa,Female,Dar es Salaam,Kurasini ICD
+1644,Doto Omari Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1645,Salum Shabani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1646,Pendo Said,Female,Tanga,Horohoro Border (Kenya)
+1647,Mohamed Michael,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1648,Zainabu John,Female,Dar es Salaam,Kurasini ICD
+1649,Lucas Joseph Mwita,Male,Arusha,Arusha (clearing)
+1650,Yusuph Rajabu,Male,Dar es Salaam,Kurasini ICD
+1651,Onesmo Elia Rajabu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1652,Maulidi Felician Hassan,Male,Tanga,Horohoro Border (Kenya)
+1653,Upendo Fabian Lyimo,Female,Arusha,Arusha (clearing)
+1654,Wilfred Salum,Male,Tanga,Horohoro Border (Kenya)
+1655,Doto Said Said,Male,Dar es Salaam,Kurasini ICD
+1656,Hamza Mosi Mtitu,Male,Dar es Salaam,Kurasini ICD
+1657,Gabriel Ngonyani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1658,Mwinyi Ally,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+1659,Juma Salehe Chande,Male,Tanga,Tanga Port
+1660,Hassan Haule,Male,Katavi,Karema Port (Lake Tanganyika)
+1661,Ester Marwa,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1662,Shabani Mlowe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1663,Mwanaharusi Mlowe,Female,Mtwara,Mtambaswala (Unity Bridge)
+1664,Rashidi Kibwana,Male,Pwani,Mlandizi ICD
+1665,Erasto Abdallah,Male,Tanga,Tanga Port
+1666,Flora Omari Mgaya,Female,Dar es Salaam,Kurasini ICD
+1667,Joseph Mwakatobe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1668,Fabian Mbwilo,Male,Mbeya,Mbeya ICD
+1669,Saada Chande,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1670,Emmanuel Urio,Male,Kilimanjaro,Tarakea Border
+1671,Kelvin Kimaro,Male,Arusha,Namanga Border (Kenya)
+1672,Wilfred Range,Male,Kagera,Mutukula Border (Uganda)
+1673,Editha Selemani Komba,Female,Mara,Musoma Port (Lake Victoria)
+1674,Mwanaisha Munisi,Female,Kilimanjaro,Moshi (clearing)
+1675,Clemence Baitani,Male,Kagera,Bukoba Port
+1676,Hamisi Yohana Bukombe,Male,Mwanza,Mwanza North Port
+1677,Mwajuma Ngonyani,Female,Katavi,Ikola Port
+1678,Rajabu Bukombe,Male,Mara,Musoma Port (Lake Victoria)
+1679,Editruda Mlowe,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1680,Innocent Mwakipesile,Male,Mbeya,Mbeya ICD
+1681,Charles Method Khamis,Male,Mtwara,Mtwara Port
+1682,Richard Innocent Shija,Male,Mara,Sirari Border (Kenya)
+1683,Wilfred Salum,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+1684,Frank Marwa,Male,Songwe,Kasumulu Border (Malawi)
+1685,Hemedi Baitani,Male,Kigoma,Kabanga Border
+1686,Hamza Juma,Male,Tanga,Tanga Port
+1687,Hassani Chacha,Male,Rukwa,Sumbawanga (clearing)
+1688,Nestory Mtui,Male,Arusha,Arusha (clearing)
+1689,Abdallah Method Urio,Male,Arusha,Arusha (clearing)
+1690,Husna Lyatu,Female,Arusha,Namanga Border (Kenya)
+1691,Editha Salum,Female,Dar es Salaam,Kurasini ICD
+1692,Kassim Mohamed,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1693,Peter Hassan,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1694,Erick Andrea Chacha,Male,Kigoma,Manyovu Border (Burundi)
+1695,Shabani Nestory Issa,Male,Tanga,Tanga Port
+1696,Grace Khamis,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1697,Salma Kassim,Female,Dar es Salaam,Kurasini ICD
+1698,Abdallah Athumani,Male,Tanga,Tanga Port
+1699,Rajabu Mwinyi,Male,Tanga,Tanga Port
+1700,Marko Rajabu Swai,Male,Kilimanjaro,Tarakea Border
+1701,Chande Khamis,Male,Dar es Salaam,Kurasini ICD
+1702,Felician Paul,Male,Mbeya,Kyela (Lake Nyasa)
+1703,Frank Mmari,Male,Arusha,Arusha (clearing)
+1704,Nestory Mtitu,Male,Mara,Sirari Border (Kenya)
+1705,Issa Nassoro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1706,Innocent Mbwilo,Male,Songwe,Tunduma Border (Zambia)
+1707,Saada Erasto Omari,Female,Tanga,Tanga Port
+1708,Aidan Lazaro,Male,Dar es Salaam,Kurasini ICD
+1709,Pendo Massawe,Female,Arusha,Namanga Border (Kenya)
+1710,Anna Michael,Female,Rukwa,Sumbawanga (clearing)
+1711,Masunga Issa Lazaro,Male,Mtwara,Mtwara Port
+1712,Aloyce Kassim,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1713,Modest Mosha,Male,Arusha,Arusha (clearing)
+1714,Stella Masunga Mosha,Female,Kilimanjaro,Holili Border (Kenya)
+1715,Zakaria Iddi Swai,Male,Kilimanjaro,Holili Border (Kenya)
+1716,Filbert Ally Nyoni,Male,Dar es Salaam,Kurasini ICD
+1717,Boniface Aloyce Mfaume,Male,Pwani,Bagamoyo
+1718,Devotha Lyatu,Female,Mbeya,Kyela (Lake Nyasa)
+1719,Hemedi Mwinyi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1720,Ramadhani Komba,Male,Dar es Salaam,Kurasini ICD
+1721,Catherine Nassoro,Female,Tanga,Horohoro Border (Kenya)
+1722,Baraka Ndaki,Male,Mara,Sirari Border (Kenya)
+1723,Boniface Juma Mwakatobe,Male,Dar es Salaam,Kurasini ICD
+1724,Omari Shabani,Male,Dar es Salaam,Kurasini ICD
+1725,Rukia Lyatu,Female,Mbeya,Mbeya ICD
+1726,Renatus Kibwana,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+1727,Riziki Frank John,Female,Dar es Salaam,Kurasini ICD
+1728,Januari Athumani,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+1729,Mohamed Maro,Male,Kilimanjaro,Moshi (clearing)
+1730,Pendo Kihwele,Female,Mara,Musoma Port (Lake Victoria)
+1731,Felician Athumani Mtumwa,Male,Dar es Salaam,Kurasini ICD
+1732,Audax Masunga Range,Male,Rukwa,Sumbawanga (clearing)
+1733,Godfrey Urio,Male,Kilimanjaro,Holili Border (Kenya)
+1734,Khamis Mabula Mapunda,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1735,Glory Mussa,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1736,Richard Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1737,Mwita Omari,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+1738,Amina Marko John,Female,Mara,Sirari Border (Kenya)
+1739,Nassoro Mapunda,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1740,Emmanuel Ngonyani,Male,Kagera,Bukoba Port
+1741,Erasto Peter Kibwana,Male,Dar es Salaam,Kurasini ICD
+1742,Hamisi Lyimo,Male,Kilimanjaro,Holili Border (Kenya)
+1743,Salma Munisi,Female,Kilimanjaro,Tarakea Border
+1744,Rehema Rajabu Omari,Female,Dar es Salaam,Kurasini ICD
+1745,Mabula Magige,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1746,Petro Aloyce Chande,Male,Tanga,Tanga Port
+1747,Edmund Mussa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1748,Selemani Richard Mohamed,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+1749,Peter Augustino Kibwana,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1750,Tumaini Athumani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1751,Rashidi Wambura,Male,Ruvuma,Songea (clearing)
+1752,Felician Joseph,Male,Mara,Musoma Port (Lake Victoria)
+1753,Paulo Yohana Michael,Male,Mbeya,Mbeya ICD
+1754,Erick Mhagama,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1755,Ramadhani Kassim,Male,Dar es Salaam,Kurasini ICD
+1756,Paulo Kiango Mhagama,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1757,Januari Ramadhani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1758,Peter Mhagama,Male,Arusha,Arusha (clearing)
+1759,Charles Kasambala,Male,Mbeya,Kyela (Lake Nyasa)
+1760,Rajabu Mtumwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1761,Nuru Temba,Female,Kilimanjaro,Moshi (clearing)
+1762,Godfrey Mabula Hemedi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1763,Mwajuma Audax Haule,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1764,Selemani Mayige,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1765,Zakaria Mwita,Male,Kagera,Rusumo Border (Rwanda)
+1766,Clemence Kihwele,Male,Katavi,Karema Port (Lake Tanganyika)
+1767,Hamza Kelvin Shija,Male,Mara,Musoma Port (Lake Victoria)
+1768,Juma Nassoro,Male,Mtwara,Mtambaswala (Unity Bridge)
+1769,Audax Maro,Male,Kilimanjaro,Tarakea Border
+1770,Joseph Kihwele,Male,Mbeya,Kyela (Lake Nyasa)
+1771,Editruda Haule,Female,Dar es Salaam,Kurasini ICD
+1772,Hadija Kategile,Female,Kagera,Bukoba Port
+1773,Aloyce Mussa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1774,Zakaria Nestory Sanga,Male,Songwe,Tunduma Border (Zambia)
+1775,Salum Mzee,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1776,Stephano Mathayo Komba,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1777,Maua Lameck Juma,Female,Dar es Salaam,Kurasini ICD
+1778,Richard Elia Moshi,Male,Kilimanjaro,Moshi (clearing)
+1779,Castory Kihwele,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1780,Frank Mlowe,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1781,Charles Shabani,Male,Pwani,Mafia Jetty
+1782,Modest Erasto Mgaya,Male,Mtwara,Mtambaswala (Unity Bridge)
+1783,Khamis Lyatu,Male,Arusha,Namanga Border (Kenya)
+1784,Hamisi Salum,Male,Dar es Salaam,Kurasini ICD
+1785,Sikujua Kweka,Female,Arusha,Namanga Border (Kenya)
+1786,Godfrey Tabu Mwita,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+1787,Tunu Mohamed Nyoni,Female,Mara,Sirari Border (Kenya)
+1788,Constantine Masunga Mwakajinga,Male,Mbeya,Kyela (Lake Nyasa)
+1789,Deogratias Rashidi Mwita,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1790,Andrea Bhoke,Male,Dar es Salaam,Kurasini ICD
+1791,Consolata Chande,Female,Dar es Salaam,Kurasini ICD
+1792,Daudi Haule,Male,Dar es Salaam,Kurasini ICD
+1793,Hassan Peter Mtitu,Male,Mtwara,Mtwara Port
+1794,Paulo Yusuph Shabani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1795,Zakaria Israel Lazaro,Male,Songwe,Tunduma Border (Zambia)
+1796,Anthony Wambura,Male,Ruvuma,Songea (clearing)
+1797,Chande Emmanuel Bakari,Male,Tanga,Horohoro Border (Kenya)
+1798,Ramadhani Range,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1799,Khamis Marwa,Male,Mbeya,Tunduma Corridor
+1800,Hassan Nestory Selemani,Male,Dar es Salaam,Kurasini ICD
+1801,Ramadhani Januari Mhagama,Male,Dar es Salaam,Kurasini ICD
+1802,Joseph Rutaihwa,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1803,Mwita Mhagama,Male,Dar es Salaam,Kurasini ICD
+1804,Gabriel Mosi Mlowe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1805,Khamis Lazaro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1806,Latifa Michael,Female,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+1807,Maulidi Selemani,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+1808,Salehe Fabian Lyatu,Male,Songwe,Kasumulu Border (Malawi)
+1809,Ramadhani Mfaume,Male,Dar es Salaam,Kurasini ICD
+1810,Kulwa Haule,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1811,Aloyce Augustino Chande,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1812,Mfaume Mlowe,Male,Arusha,Namanga Border (Kenya)
+1813,Juma Abdallah Mtitu,Male,Mtwara,Mtwara Port
+1814,Daudi Joseph,Male,Mwanza,Mwanza North Port
+1815,Theresia Mohamed,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1816,Goodluck Massawe,Male,Arusha,Arusha (clearing)
+1817,Daudi Nassoro,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1818,Charles Ramadhani,Male,Tanga,Tanga Port
+1819,Aidan Augustino Komba,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1820,Theophil Maro,Male,Kilimanjaro,Tarakea Border
+1821,Castory Mushi,Male,Kilimanjaro,Holili Border (Kenya)
+1822,Joyce Shabani Ngonyani,Female,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+1823,Nestory Salum,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+1824,Abdallah Rashidi Michael,Male,Rukwa,Sumbawanga (clearing)
+1825,Glory Chacha,Female,Arusha,Namanga Border (Kenya)
+1826,Mwita Tarimo,Male,Kilimanjaro,Moshi (clearing)
+1827,Husna Mushi,Female,Arusha,Arusha (clearing)
+1828,Boniface Joseph,Male,Dar es Salaam,Kurasini ICD
+1829,Anna Bhoke,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1830,Peter Nestory Mussa,Male,Tanga,Tanga Port
+1831,Paulo Januari Lyatu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1832,Joyce Lazaro,Female,Dar es Salaam,Kurasini ICD
+1833,Godfrey Mlowe,Male,Songwe,Tunduma Border (Zambia)
+1834,Method Mgaya,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1835,Tatu Kihwele,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1836,Omari Ramadhani Mohamed,Male,Pwani,Bagamoyo
+1837,Gabriel Khamis,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+1838,Khamis Castory Mwakyusa,Male,Songwe,Tunduma Border (Zambia)
+1839,Selemani Marwa,Male,Dar es Salaam,Kurasini ICD
+1840,Maulidi Daniel,Male,Dar es Salaam,Kurasini ICD
+1841,Augustino Aloyce Kihwele,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1842,Andrea Kelvin Shabani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1843,Wilfred Abdallah,Male,Pwani,Mlandizi ICD
+1844,Maria Mtui,Female,Arusha,Arusha (clearing)
+1845,Kiango Audax Kassim,Male,Pwani,Mlandizi ICD
+1846,Doris Mtui,Female,Kilimanjaro,Moshi (clearing)
+1847,Gervas Lazaro,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1848,Halima Wambura,Female,Mwanza,Mwanza South Port (Lake Victoria)
+1849,Kiango Maulidi Ngonyani,Male,Arusha,Namanga Border (Kenya)
+1850,Chande Hemedi,Male,Dar es Salaam,Kurasini ICD
+1851,Ramadhani Mtitu,Male,Arusha,Arusha (clearing)
+1852,Mwinyi Omari Mgaya,Male,Dar es Salaam,Kurasini ICD
+1853,Modest Kimaro,Male,Arusha,Namanga Border (Kenya)
+1854,Castory Kihwele,Male,Dar es Salaam,Kurasini ICD
+1855,Salum Salum,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1856,Innocent Modest Mwakatobe,Male,Kigoma,Kabanga Border
+1857,Method Marwa,Male,Arusha,Arusha (clearing)
+1858,Innocent Lucas Mwinyi,Male,Mtwara,Mtwara Port
+1859,Theophil Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1860,Aidan Mtitu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1861,Peter Nyoni,Male,Kagera,Rusumo Border (Rwanda)
+1862,Daudi Chande,Male,Pwani,Bagamoyo
+1863,Renatus John,Male,Dar es Salaam,Kurasini ICD
+1864,Emmanuel Felician Mtitu,Male,Arusha,Namanga Border (Kenya)
+1865,Erick Haule,Male,Mwanza,Mwanza North Port
+1866,Onesmo Rutaihwa,Male,Kagera,Mutukula Border (Uganda)
+1867,Neema Kimaro,Female,Arusha,Namanga Border (Kenya)
+1868,Ramadhani Haule,Male,Songwe,Tunduma Border (Zambia)
+1869,Deogratias John,Male,Kagera,Mutukula Border (Uganda)
+1870,Asha Ally Moshi,Female,Kilimanjaro,Moshi (clearing)
+1871,Godfrey Chande Rugaimukamu,Male,Kagera,Rusumo Border (Rwanda)
+1872,Ramadhani Maulidi Marwa,Male,Dar es Salaam,Kurasini ICD
+1873,Juma Abdallah Marwa,Male,Songwe,Kasumulu Border (Malawi)
+1874,Mathayo John,Male,Dar es Salaam,Kurasini ICD
+1875,Modest Joseph,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1876,Mwita Abdallah,Male,Pwani,Mlandizi ICD
+1877,Damian Issa Mussa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1878,Elia Khamis,Male,Dar es Salaam,Kurasini ICD
+1879,Felician Sumari,Male,Kilimanjaro,Tarakea Border
+1880,Deogratias Kategile,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1881,Rajabu Mhagama,Male,Mbeya,Kyela (Lake Nyasa)
+1882,Joseph Nyoni,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+1883,Juma Daniel,Male,Mbeya,Kyela (Lake Nyasa)
+1884,Neema Mwinyi Daniel,Female,Mara,Sirari Border (Kenya)
+1885,Lameck Salehe Bakari,Male,Dar es Salaam,Kurasini ICD
+1886,Felician Damian Mosha,Male,Arusha,Namanga Border (Kenya)
+1887,Renatus Boniface Kamugisha,Male,Kagera,Bukoba Port
+1888,Nassoro Mhagama,Male,Arusha,Namanga Border (Kenya)
+1889,Constantine Peter Lukanga,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1890,Salehe Mtumwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1891,Nassoro Januari Minja,Male,Kilimanjaro,Holili Border (Kenya)
+1892,Maulidi Salehe Mgaya,Male,Dar es Salaam,Kurasini ICD
+1893,Edmund Mzee,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1894,Felician Iddi,Male,Dar es Salaam,Kurasini ICD
+1895,Mosi Range,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1896,Lightness Shabani,Female,Tanga,Horohoro Border (Kenya)
+1897,Erasto Mapunda,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1898,Ally Mtitu,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1899,Hassani Method Massawe,Male,Kilimanjaro,Moshi (clearing)
+1900,Magdalena Mwakatobe,Female,Mbeya,Kyela (Lake Nyasa)
+1901,Lameck Bundala,Male,Mwanza,Mwanza North Port
+1902,Shabani Mzee,Male,Pwani,Bagamoyo
+1903,Athumani Mutabazi,Male,Kigoma,Manyovu Border (Burundi)
+1904,Aziza Mtitu,Female,Songwe,Kasumulu Border (Malawi)
+1905,Lucas Innocent Nassoro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1906,Bakari Masunga Mwakatobe,Male,Dar es Salaam,Kurasini ICD
+1907,Eliya Ndaki,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1908,Marko Wambura,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1909,Selemani Peter Nassoro,Male,Pwani,Bagamoyo
+1910,Masunga Komba,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1911,Deogratias Michael,Male,Songwe,Kasumulu Border (Malawi)
+1912,Peter Bhoke,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1913,Rehema Salum Mwamengo,Female,Songwe,Kasumulu Border (Malawi)
+1914,Mosi Marwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1915,Aloyce Munisi,Male,Kilimanjaro,Holili Border (Kenya)
+1916,Method Lazaro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1917,Edmund Augustino Mwaikambo,Male,Songwe,Kasumulu Border (Malawi)
+1918,Richard Daniel,Male,Dar es Salaam,Kurasini ICD
+1919,Lameck Abdallah,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1920,Yohana Mosha,Male,Kilimanjaro,Tarakea Border
+1921,Tabu Mgaya,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+1922,Agnes Tabu John,Female,Mbeya,Mbeya ICD
+1923,Paulo Iddi,Male,Tanga,Tanga Port
+1924,Edmund Shabani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1925,Juma Boniface Kibwana,Male,Dar es Salaam,Kurasini ICD
+1926,Mussa Eliya Kimaro,Male,Kilimanjaro,Tarakea Border
+1927,Gabriel Bakari Athumani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1928,Baraka Kweka,Male,Arusha,Arusha (clearing)
+1929,Charles Lyatu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1930,Boniface Salum,Male,Pwani,Mafia Jetty
+1931,Damian Temba,Male,Kilimanjaro,Tarakea Border
+1932,Hellena Nestory Haule,Female,Kagera,Mutukula Border (Uganda)
+1933,Constantine Wambura,Male,Mtwara,Mtwara Port
+1934,Sophia Munisi,Female,Arusha,Namanga Border (Kenya)
+1935,Hadija Kategile,Female,Kigoma,Kabanga Border
+1936,Selemani Mgaya,Male,Mbeya,Mbeya ICD
+1937,Nuru Gabriel Mwinyi,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1938,Hassani Doto Nyoni,Male,Mara,Musoma Port (Lake Victoria)
+1939,Catherine Bhoke,Female,Songwe,Tunduma Border (Zambia)
+1940,Theophil Khamis,Male,Mtwara,Mtwara Port
+1941,Joseph Lyatu,Male,Kagera,Rusumo Border (Rwanda)
+1942,Aloyce Mwinyi,Male,Tanga,Tanga Port
+1943,Abdallah Omari Daniel,Male,Songwe,Tunduma Border (Zambia)
+1944,Frank Tarimo,Male,Kilimanjaro,Tarakea Border
+1945,Edmund Maro,Male,Kilimanjaro,Tarakea Border
+1946,Boniface Fabian John,Male,Arusha,Namanga Border (Kenya)
+1947,Salma Joseph,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1948,Januari Mapunda,Male,Mtwara,Mtambaswala (Unity Bridge)
+1949,Edmund Komba,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1950,Gervas Mwakajinga,Male,Songwe,Kasumulu Border (Malawi)
+1951,Edmund Erasto Khamis,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1952,Salehe Karoli,Male,Kagera,Rusumo Border (Rwanda)
+1953,Damian Wambura,Male,Mara,Sirari Border (Kenya)
+1954,Wilfred Kessy,Male,Arusha,Arusha (clearing)
+1955,Baraka Mussa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1956,Eliya Kihwele,Male,Mtwara,Mtwara Port
+1957,Elia Kelvin Sumari,Male,Kilimanjaro,Holili Border (Kenya)
+1958,Sikujua Castory John,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1959,Sophia Nassoro,Female,Pwani,Bagamoyo
+1960,Nassoro Michael,Male,Mbeya,Tunduma Corridor
+1961,Ally Lazaro,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1962,Furaha Rajabu Mussa,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1963,Erick Urio,Male,Kilimanjaro,Holili Border (Kenya)
+1964,Joseph Mtui,Male,Arusha,Arusha (clearing)
+1965,Ng'wanza Sanga,Male,Mbeya,Kyela (Lake Nyasa)
+1966,Nassoro Ramadhani,Male,Mtwara,Mtambaswala (Unity Bridge)
+1967,Juma Lyimo,Male,Kilimanjaro,Holili Border (Kenya)
+1968,Zakaria Temba,Male,Kilimanjaro,Moshi (clearing)
+1969,Boniface Paul,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1970,Charles Chacha,Male,Mwanza,Mwanza South Port (Lake Victoria)
+1971,Nestory Marwa,Male,Songwe,Tunduma Border (Zambia)
+1972,Frank Range,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1973,Said Chande,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1974,Felician Kassim Mtumwa,Male,Tanga,Horohoro Border (Kenya)
+1975,Gideon Mmari,Male,Arusha,Arusha (clearing)
+1976,Wilfred John Joseph,Male,Mtwara,Mtambaswala (Unity Bridge)
+1977,Chande Ng'wanza Iddi,Male,Dar es Salaam,Kurasini ICD
+1978,Mwanahawa Mwita,Female,Rukwa,Kasanga Port (Lake Tanganyika)
+1979,Theophil Tabu Paul,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+1980,Erasto Mwita,Male,Dar es Salaam,Kurasini ICD
+1981,Kelvin Mlowe,Male,Songwe,Kasumulu Border (Malawi)
+1982,Upendo Baraka Mlowe,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1983,Kelvin Chande,Male,Dar es Salaam,Kurasini ICD
+1984,Happy Kihwele,Female,Dar es Salaam,Kurasini ICD
+1985,Charles Kassim,Male,Tanga,Horohoro Border (Kenya)
+1986,Augustino Range,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+1987,Beatrice Emmanuel Maulidi,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1988,Mwinyi Gideon Mtitu,Male,Mtwara,Mtwara Port
+1989,Magdalena Nyoni,Female,Rukwa,Kasanga Port (Lake Tanganyika)
+1990,Zakaria Mtumwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+1991,Jane Januari Daniel,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+1992,Husna Nyoni,Female,Katavi,Ikola Port
+1993,Ng'wanza Omari,Male,Dar es Salaam,Kurasini ICD
+1994,Ally Mhagama,Male,Dar es Salaam,Kurasini ICD
+1995,Ramadhani Godfrey Mwamengo,Male,Songwe,Tunduma Border (Zambia)
+1996,Baraka Peter Rwechungura,Male,Kagera,Mutukula Border (Uganda)
+1997,Salehe Mwakatobe,Male,Mbeya,Tunduma Corridor
+1998,Kelvin Michael,Male,Arusha,Arusha (clearing)
+1999,Stephano Kassim,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2000,Ramadhani Massawe,Male,Arusha,Arusha (clearing)
+2001,Glory Mathayo Ngonyani,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2002,Tunu Mbwilo,Female,Mbeya,Kyela (Lake Nyasa)
+2003,Gervas Kihwele,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2004,Daudi Mwaisaka,Male,Songwe,Tunduma Border (Zambia)
+2005,John Kassim,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2006,Joyce Mwakalinga,Female,Songwe,Kasumulu Border (Malawi)
+2007,Mathayo Rashidi Maro,Male,Arusha,Arusha (clearing)
+2008,Iddi Mussa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2009,Chande Gideon Abdallah,Male,Tanga,Tanga Port
+2010,Mwanahamisi Selemani,Female,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+2011,Gabriel Renatus Mwita,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2012,Nestory Mbwilo,Male,Mbeya,Tunduma Corridor
+2013,Lucas Audax Mtitu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2014,Kelvin Rweyemamu,Male,Kagera,Rusumo Border (Rwanda)
+2015,Richard Joseph,Male,Kagera,Mutukula Border (Uganda)
+2016,Israel Range,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2017,Juma Iddi,Male,Dar es Salaam,Kurasini ICD
+2018,Clemence Januari Michael,Male,Arusha,Arusha (clearing)
+2019,Onesmo Issa,Male,Tanga,Horohoro Border (Kenya)
+2020,Magdalena Paulo Mapunda,Female,Dar es Salaam,Kurasini ICD
+2021,Filbert Nestory Ngonyani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2022,Esther Onesmo Kihwele,Female,Arusha,Namanga Border (Kenya)
+2023,Clemence Lameck Omari,Male,Mtwara,Mtambaswala (Unity Bridge)
+2024,Prisca Athumani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2025,Method Lazaro,Male,Dar es Salaam,Kurasini ICD
+2026,Rashidi Swai,Male,Arusha,Namanga Border (Kenya)
+2027,Godfrey Stephano Mtitu,Male,Arusha,Namanga Border (Kenya)
+2028,Yusuph Kulwa John,Male,Dar es Salaam,Kurasini ICD
+2029,Erick Rashidi Rwechungura,Male,Kagera,Mutukula Border (Uganda)
+2030,Khamis Minja,Male,Arusha,Arusha (clearing)
+2031,Elia Mlowe,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2032,Mwanaisha Magige,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2033,Yohana Rugaimukamu,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+2034,Castory Peter Issa,Male,Dar es Salaam,Kurasini ICD
+2035,Augustino Mhagama,Male,Mwanza,Mwanza North Port
+2036,Khadija Edmund Komba,Female,Arusha,Arusha (clearing)
+2037,Riziki Shabani,Female,Tanga,Tanga Port
+2038,Aidan Mwita Magige,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2039,Chande Hemedi,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+2040,Castory Aloyce Said,Male,Dar es Salaam,Kurasini ICD
+2041,Filbert Nassoro,Male,Pwani,Mlandizi ICD
+2042,Doto Ngonyani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2043,Salma Elia Rajabu,Female,Dar es Salaam,Kurasini ICD
+2044,Richard Khamis,Male,Tanga,Horohoro Border (Kenya)
+2045,Juma Maulidi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2046,Witness Mosi Ramadhani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2047,Mohamed Method Kishosha,Male,Mwanza,Mwanza North Port
+2048,Marko Nyoni,Male,Rukwa,Sumbawanga (clearing)
+2049,Omari Augustino Mhagama,Male,Dar es Salaam,Kurasini ICD
+2050,Elia Joseph,Male,Songwe,Tunduma Border (Zambia)
+2051,Israel Mgaya,Male,Mara,Sirari Border (Kenya)
+2052,Nestory Lucas Doto,Male,Mara,Sirari Border (Kenya)
+2053,Yohana Range,Male,Mbeya,Kyela (Lake Nyasa)
+2054,Tabu Iddi Mwaikambo,Male,Songwe,Kasumulu Border (Malawi)
+2055,Charles Fabian Chande,Male,Pwani,Mafia Jetty
+2056,Agnes Emmanuel Charahani,Female,Mwanza,Mwanza North Port
+2057,Fabian Mwita Hemedi,Male,Dar es Salaam,Kurasini ICD
+2058,Rose Mwinyi,Female,Tanga,Horohoro Border (Kenya)
+2059,Neema Abdallah,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2060,Goodluck Range,Male,Dar es Salaam,Kurasini ICD
+2061,Stephano Bundala,Male,Mara,Sirari Border (Kenya)
+2062,Castory Mgaya,Male,Kigoma,Kabanga Border
+2063,Januari Kihwele,Male,Songwe,Tunduma Border (Zambia)
+2064,Andrea Iddi Daniel,Male,Arusha,Arusha (clearing)
+2065,Kelvin Mhagama,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+2066,Marko Minja,Male,Arusha,Namanga Border (Kenya)
+2067,Erick Nyoni,Male,Mara,Sirari Border (Kenya)
+2068,Saada Mtitu,Female,Mwanza,Mwanza South Port (Lake Victoria)
+2069,Gervas Erasto Bhoke,Male,Arusha,Arusha (clearing)
+2070,Hemedi Salum,Male,Pwani,Bagamoyo
+2071,Stephano John,Male,Mbeya,Mbeya ICD
+2072,Erick Damian Khamis,Male,Dar es Salaam,Kurasini ICD
+2073,Hamisi Hamza Kassim,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2074,Baraka Wambura,Male,Mwanza,Mwanza North Port
+2075,Marko Mgaya,Male,Dar es Salaam,Kurasini ICD
+2076,Erick Mfaume,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2077,Erick Kassim Mwaijande,Male,Mbeya,Kyela (Lake Nyasa)
+2078,Godfrey Marko Shabani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2079,Mussa Iddi Paul,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2080,Gabriel Abdallah,Male,Tanga,Horohoro Border (Kenya)
+2081,Prisca Minja,Female,Arusha,Namanga Border (Kenya)
+2082,Emmanuel Mgaya,Male,Songwe,Kasumulu Border (Malawi)
+2083,Issa Aloyce Joseph,Male,Kagera,Mutukula Border (Uganda)
+2084,Nestory Wambura,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2085,Aloyce Mwasanguti,Male,Songwe,Tunduma Border (Zambia)
+2086,Mfaume Hassan,Male,Dar es Salaam,Kurasini ICD
+2087,Hawa Massawe,Female,Kilimanjaro,Tarakea Border
+2088,Gideon Theophil Munisi,Male,Kilimanjaro,Tarakea Border
+2089,Shabani Ramadhani,Male,Pwani,Bagamoyo
+2090,Pendo Ramadhani Komba,Female,Arusha,Arusha (clearing)
+2091,Fabian Omari Mhagama,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2092,Bakari Masanja,Male,Mwanza,Mwanza North Port
+2093,Maua Kishosha,Female,Mara,Musoma Port (Lake Victoria)
+2094,Iddi Mzee,Male,Mtwara,Mtambaswala (Unity Bridge)
+2095,George Kassim,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2096,Salehe Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2097,Bakari Maro,Male,Arusha,Arusha (clearing)
+2098,Said Issa,Male,Mtwara,Mtambaswala (Unity Bridge)
+2099,Kelvin Hamza Mushi,Male,Kilimanjaro,Holili Border (Kenya)
+2100,Tabu Haule,Male,Arusha,Namanga Border (Kenya)
+2101,Veronica Bhoke,Female,Arusha,Namanga Border (Kenya)
+2102,Mwanaisha Ally Kibwana,Female,Tanga,Horohoro Border (Kenya)
+2103,Zakaria Mwaijande,Male,Mbeya,Tunduma Corridor
+2104,Hemedi Chande,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2105,Happy Mwaikambo,Female,Songwe,Tunduma Border (Zambia)
+2106,Edmund Chacha,Male,Ruvuma,Songea (clearing)
+2107,Doto Rajabu Omari,Male,Tanga,Horohoro Border (Kenya)
+2108,Mwanaidi Kassim Ramadhani,Female,Tanga,Horohoro Border (Kenya)
+2109,Said Mapunda,Male,Dar es Salaam,Kurasini ICD
+2110,Nassoro Baraka Komba,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+2111,Mwanaisha Modest Kweka,Female,Arusha,Namanga Border (Kenya)
+2112,Boniface Mapunda,Male,Mtwara,Mtambaswala (Unity Bridge)
+2113,Asha Issa,Female,Pwani,Mafia Jetty
+2114,Subira Salum,Female,Dar es Salaam,Kurasini ICD
+2115,Kulwa Joseph,Male,Dar es Salaam,Kurasini ICD
+2116,Stella Baraka Bhoke,Female,Songwe,Kasumulu Border (Malawi)
+2117,Mussa Range,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2118,Juma Massawe,Male,Kilimanjaro,Holili Border (Kenya)
+2119,Edmund Khamis,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2120,John Peter Mhagama,Male,Mbeya,Tunduma Corridor
+2121,Prisca Haule,Female,Kagera,Bukoba Port
+2122,Ramadhani Magige,Male,Mbeya,Mbeya ICD
+2123,Mussa Kihwele,Male,Mbeya,Mbeya ICD
+2124,Gideon Shija,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2125,Amina Hemedi Mwita,Female,Dar es Salaam,Kurasini ICD
+2126,Kassim Mwakalinga,Male,Songwe,Tunduma Border (Zambia)
+2127,Nassoro Erick Mhagama,Male,Arusha,Namanga Border (Kenya)
+2128,Bahati Erick Lyatu,Female,Songwe,Kasumulu Border (Malawi)
+2129,Shufaa Hassan,Female,Dar es Salaam,Kurasini ICD
+2130,Naomi Paulo Mwakatobe,Female,Dar es Salaam,Kurasini ICD
+2131,Onesmo Hemedi Mtitu,Male,Mbeya,Kyela (Lake Nyasa)
+2132,Method Range,Male,Dar es Salaam,Kurasini ICD
+2133,Juma Selemani,Male,Tanga,Horohoro Border (Kenya)
+2134,Zakaria Fabian Mussa,Male,Pwani,Mlandizi ICD
+2135,Ng'wanza Maduhu,Male,Mwanza,Mwanza North Port
+2136,Mwajuma Kassim,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2137,Shabani Lazaro,Male,Arusha,Namanga Border (Kenya)
+2138,Deogratias Mwinyi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2139,Selemani Mzee,Male,Pwani,Mafia Jetty
+2140,Goodluck Maulidi Marwa,Male,Kagera,Mutukula Border (Uganda)
+2141,Bakari Ally,Male,Mtwara,Mtwara Port
+2142,Stephano Mwaijande,Male,Mbeya,Mbeya ICD
+2143,Tunu Mlowe,Female,Mara,Sirari Border (Kenya)
+2144,Mwanaharusi Omari,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2145,Maulidi Bukombe,Male,Mara,Sirari Border (Kenya)
+2146,Theophil Kulwa Mwita,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+2147,Mfaume Edmund Michael,Male,Kigoma,Manyovu Border (Burundi)
+2148,Damian Mlowe,Male,Dar es Salaam,Kurasini ICD
+2149,Constantine George Kihwele,Male,Mbeya,Mbeya ICD
+2150,Hassan Ngonyani,Male,Songwe,Tunduma Border (Zambia)
+2151,Chande Range,Male,Rukwa,Sumbawanga (clearing)
+2152,Mohamed Renatus Joseph,Male,Songwe,Tunduma Border (Zambia)
+2153,John Mtumwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2154,Mwanaisha Mtumwa,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2155,Deogratias Paulo Mayala,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2156,Edmund Sanga,Male,Mbeya,Tunduma Corridor
+2157,Hassani Kassim Issa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2158,Elia Mwakyusa,Male,Songwe,Kasumulu Border (Malawi)
+2159,Stephano Kishosha,Male,Mwanza,Mwanza North Port
+2160,Modest Kassim,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2161,Shabani Nyoni,Male,Arusha,Arusha (clearing)
+2162,Hamza Kashindye,Male,Kagera,Rusumo Border (Rwanda)
+2163,Petro Mgaya,Male,Rukwa,Sumbawanga (clearing)
+2164,Rukia Lazaro,Female,Dar es Salaam,Kurasini ICD
+2165,Khamis Michael,Male,Kagera,Bukoba Port
+2166,Zakaria Peter Athumani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2167,Devotha Bhoke,Female,Mwanza,Mwanza North Port
+2168,Boniface Said,Male,Tanga,Horohoro Border (Kenya)
+2169,Richard Mlowe,Male,Songwe,Kasumulu Border (Malawi)
+2170,Onesmo Magige,Male,Kigoma,Kabanga Border
+2171,Catherine Charles Tarimo,Female,Arusha,Arusha (clearing)
+2172,John Mtitu,Male,Dar es Salaam,Kurasini ICD
+2173,Lameck Mwita Joseph,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2174,Filbert John,Male,Arusha,Arusha (clearing)
+2175,Mosi Lyatu,Male,Arusha,Arusha (clearing)
+2176,Zawadi Mhagama,Female,Kigoma,Kabanga Border
+2177,Erick Joseph Swai,Male,Arusha,Namanga Border (Kenya)
+2178,Gideon Joseph,Male,Mbeya,Mbeya ICD
+2179,Rehema Mfaume,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2180,Aidan Khamis,Male,Tanga,Horohoro Border (Kenya)
+2181,Edmund Daniel,Male,Kagera,Mutukula Border (Uganda)
+2182,Mwinyi Mabula Kihwele,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2183,Abdallah Ngonyani,Male,Kagera,Rusumo Border (Rwanda)
+2184,Mwanahawa Iddi,Female,Mtwara,Mtwara Port
+2185,Catherine Athumani Komba,Female,Songwe,Kasumulu Border (Malawi)
+2186,Aidan Paul,Male,Kigoma,Manyovu Border (Burundi)
+2187,Veronica Haule,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2188,Ng'wanza Mapunda,Male,Kagera,Bukoba Port
+2189,Ally Komba,Male,Dar es Salaam,Kurasini ICD
+2190,Innocent Nyoni,Male,Dar es Salaam,Kurasini ICD
+2191,Gabriel Richard Kibwana,Male,Pwani,Bagamoyo
+2192,Masunga Clemence Mtumwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2193,Hemedi Mwita Lyatu,Male,Kagera,Bukoba Port
+2194,Jane Hemedi,Female,Dar es Salaam,Kurasini ICD
+2195,Happy Omari Rutaihwa,Female,Kagera,Rusumo Border (Rwanda)
+2196,Gideon Mgaya,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2197,Ng'wanza Filbert Rutaihwa,Male,Kigoma,Kabanga Border
+2198,Ally Mtumwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2199,Mfaume Eliya Lukanga,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2200,Yohana Mwaijande,Male,Songwe,Kasumulu Border (Malawi)
+2201,Goodluck Mwakipesile,Male,Songwe,Kasumulu Border (Malawi)
+2202,Anthony Mwakatobe,Male,Mara,Sirari Border (Kenya)
+2203,Elia Kassim,Male,Mtwara,Mtwara Port
+2204,John Paulo Lazaro,Male,Arusha,Namanga Border (Kenya)
+2205,Clemence Mhagama,Male,Mbeya,Tunduma Corridor
+2206,John Kassim,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2207,Upendo Bakari Masanja,Female,Mwanza,Mwanza South Port (Lake Victoria)
+2208,Renatus Mwakatobe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2209,Kelvin Athumani,Male,Pwani,Mafia Jetty
+2210,Gideon Mtumwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2211,Magdalena Michael,Female,Dar es Salaam,Kurasini ICD
+2212,Yohana Daniel,Male,Rukwa,Sumbawanga (clearing)
+2213,Pendo Mapunda,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2214,Neema Salum,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2215,John Rwechungura,Male,Kigoma,Kabanga Border
+2216,Lightness Michael,Female,Mtwara,Mtwara Port
+2217,Yusuph Range,Male,Dar es Salaam,Kurasini ICD
+2218,Richard Mfaume,Male,Mtwara,Mtwara Port
+2219,Mathayo Bhoke,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2220,Petro Khamis,Male,Tanga,Horohoro Border (Kenya)
+2221,Hidaya Komba,Female,Dar es Salaam,Kurasini ICD
+2222,Grace Said,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2223,Salehe Mwasanguti,Male,Mbeya,Kyela (Lake Nyasa)
+2224,Upendo Rajabu,Female,Dar es Salaam,Kurasini ICD
+2225,Richard Nassoro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2226,Rajabu Michael,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2227,Mwita Chacha,Male,Dar es Salaam,Kurasini ICD
+2228,Mwinyi Wambura,Male,Arusha,Arusha (clearing)
+2229,Kiango Kelvin Haule,Male,Mbeya,Kyela (Lake Nyasa)
+2230,Upendo Maulidi,Female,Tanga,Horohoro Border (Kenya)
+2231,Juma Theophil Magige,Male,Mwanza,Mwanza North Port
+2232,Israel Abdallah,Male,Dar es Salaam,Kurasini ICD
+2233,Kulwa Rajabu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2234,Nassoro Eliya Marwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2235,Hemedi Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2236,Peter Abdallah Abdallah,Male,Dar es Salaam,Kurasini ICD
+2237,Erick Paul,Male,Dar es Salaam,Kurasini ICD
+2238,Wilfred Maulidi,Male,Dar es Salaam,Kurasini ICD
+2239,Method Innocent Charahani,Male,Mara,Sirari Border (Kenya)
+2240,Latifa Kihwele,Female,Rukwa,Kasanga Port (Lake Tanganyika)
+2241,Yohana Deogratias Mtumwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2242,Masunga Theophil Bakari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2243,Stephano Mosi Iddi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2244,Filbert Komba,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+2245,Khamis Masanja,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2246,Juma Mlay,Male,Arusha,Namanga Border (Kenya)
+2247,Kelvin Bhoke,Male,Mbeya,Tunduma Corridor
+2248,Ally Mwakatobe,Male,Mbeya,Tunduma Corridor
+2249,Esther Deogratias Mapunda,Female,Mtwara,Mtambaswala (Unity Bridge)
+2250,Maulidi Mwaijande,Male,Songwe,Tunduma Border (Zambia)
+2251,Ally Mwakatobe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2252,Januari Mayige,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2253,Rajabu Marko Nyoni,Male,Dar es Salaam,Kurasini ICD
+2254,Godfrey Maulidi Marwa,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+2255,Israel Abdallah Mlowe,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2256,Rashidi Kulwa Lyatu,Male,Mtwara,Mtambaswala (Unity Bridge)
+2257,Aidan Joseph,Male,Dar es Salaam,Kurasini ICD
+2258,Shufaa Abdallah,Female,Dar es Salaam,Kurasini ICD
+2259,Method Ramadhani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2260,Audax Ally,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2261,Catherine Mwasanguti,Female,Songwe,Tunduma Border (Zambia)
+2262,Juma Zakaria Wambura,Male,Mwanza,Mwanza North Port
+2263,Juma Stephano Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2264,Erick Paul,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2265,Theophil Mwita,Male,Mbeya,Mbeya ICD
+2266,Elia Mussa,Male,Dar es Salaam,Kurasini ICD
+2267,Beatrice Lazaro,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2268,Aloyce Bakari,Male,Dar es Salaam,Kurasini ICD
+2269,Yusuph Mlay,Male,Arusha,Arusha (clearing)
+2270,Consolata Daniel,Female,Mwanza,Mwanza North Port
+2271,Mariamu Magige,Female,Mbeya,Mbeya ICD
+2272,Ramadhani Haule,Male,Mbeya,Tunduma Corridor
+2273,Erick Gabriel Mapunda,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2274,Amina George Mapunda,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2275,Rashidi Mfaume,Male,Dar es Salaam,Kurasini ICD
+2276,Maulidi Daniel,Male,Kagera,Mutukula Border (Uganda)
+2277,Joyce Iddi,Female,Pwani,Mafia Jetty
+2278,Mwinyi Swai,Male,Arusha,Namanga Border (Kenya)
+2279,Baraka Chande Mhagama,Male,Mara,Sirari Border (Kenya)
+2280,Chande Kihwele,Male,Dar es Salaam,Kurasini ICD
+2281,Said Tabu Maulidi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2282,Frank Juma,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2283,Erasto Shabani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2284,Castory Kassim Nyoni,Male,Kagera,Mutukula Border (Uganda)
+2285,John Nyoni,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2286,Maulidi Daniel,Male,Arusha,Arusha (clearing)
+2287,Veronica Chacha,Female,Rukwa,Sumbawanga (clearing)
+2288,Wilfred Wilfred Marealle,Male,Kilimanjaro,Moshi (clearing)
+2289,Scholastica Ally,Female,Dar es Salaam,Kurasini ICD
+2290,Daudi Tabu John,Male,Arusha,Arusha (clearing)
+2291,Said Paul,Male,Dar es Salaam,Kurasini ICD
+2292,Lucia Rajabu,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2293,Nassoro Mwita,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2294,Marko Anthony Kihwele,Male,Songwe,Tunduma Border (Zambia)
+2295,Maulidi Michael,Male,Dar es Salaam,Kurasini ICD
+2296,Editha Kelvin Mwita,Female,Mbeya,Mbeya ICD
+2297,Yusuph Mfaume Chacha,Male,Dar es Salaam,Kurasini ICD
+2298,Filbert Mzee,Male,Pwani,Bagamoyo
+2299,Zakaria Mohamed,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2300,Omari Damian Abdallah,Male,Tanga,Tanga Port
+2301,Hadija Chacha,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2302,Joseph Daniel,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+2303,Anthony Issa,Male,Dar es Salaam,Kurasini ICD
+2304,Juma Ngonyani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2305,Chande Kelvin Marwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2306,Tumaini Lyatu,Female,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+2307,Ally Marealle,Male,Arusha,Arusha (clearing)
+2308,Mohamed Mtumwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2309,Januari Mabula Mhagama,Male,Ruvuma,Songea (clearing)
+2310,Erasto Moshi,Male,Kilimanjaro,Holili Border (Kenya)
+2311,Nestory Kweka,Male,Arusha,Namanga Border (Kenya)
+2312,Stephano Issa,Male,Pwani,Mafia Jetty
+2313,Ester Maulidi Mhagama,Female,Mwanza,Mwanza South Port (Lake Victoria)
+2314,Wilfred Paul,Male,Katavi,Karema Port (Lake Tanganyika)
+2315,Richard Omari,Male,Tanga,Tanga Port
+2316,Yusuph Aloyce Hemedi,Male,Tanga,Tanga Port
+2317,Kelvin Selemani,Male,Mtwara,Mtwara Port
+2318,Hawa Mmari,Female,Kilimanjaro,Tarakea Border
+2319,Kelvin Salehe Nyoni,Male,Arusha,Namanga Border (Kenya)
+2320,Sophia Khamis,Female,Dar es Salaam,Kurasini ICD
+2321,Gervas Mgaya,Male,Kagera,Rusumo Border (Rwanda)
+2322,Daudi Mfaume,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2323,Renatus Mosha,Male,Arusha,Arusha (clearing)
+2324,Baraka Peter Issa,Male,Dar es Salaam,Kurasini ICD
+2325,Sophia Iddi,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2326,Anthony Mwaikambo,Male,Mbeya,Mbeya ICD
+2327,Kassim Mwakalinga,Male,Songwe,Kasumulu Border (Malawi)
+2328,Lucas Mhagama,Male,Mbeya,Kyela (Lake Nyasa)
+2329,Mabula Edmund Mfaume,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2330,Mwanaisha Kassim,Female,Tanga,Horohoro Border (Kenya)
+2331,Damian Kassim,Male,Pwani,Mlandizi ICD
+2332,Ramadhani Stephano Rweyemamu,Male,Kigoma,Manyovu Border (Burundi)
+2333,Gloria Hassan,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2334,Rashidi Mzee,Male,Pwani,Mafia Jetty
+2335,Fabian Mgaya,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2336,Castory Kassim Haule,Male,Songwe,Kasumulu Border (Malawi)
+2337,Salma Mapunda,Female,Dar es Salaam,Kurasini ICD
+2338,Riziki Method Bundala,Female,Mara,Musoma Port (Lake Victoria)
+2339,Happy Joseph,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2340,Lameck Shabani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2341,Tabu Macha,Male,Arusha,Namanga Border (Kenya)
+2342,Ally Nassoro,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2343,Tumaini Mlay,Female,Kilimanjaro,Tarakea Border
+2344,Hamza John Kibwana,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2345,Audax Kihwele,Male,Songwe,Tunduma Border (Zambia)
+2346,Hassani Kishosha,Male,Mara,Sirari Border (Kenya)
+2347,Bakari Mushi,Male,Arusha,Namanga Border (Kenya)
+2348,Erasto Innocent Bakari,Male,Mtwara,Mtwara Port
+2349,Augustino Issa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2350,Iddi Mwakatobe,Male,Arusha,Arusha (clearing)
+2351,Gideon Joseph,Male,Kagera,Rusumo Border (Rwanda)
+2352,Joyce Filbert Ngonyani,Female,Kagera,Bukoba Port
+2353,Hamza Omari,Male,Mtwara,Mtwara Port
+2354,Riziki Omari,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2355,Sikujua Mlowe,Female,Mbeya,Kyela (Lake Nyasa)
+2356,Omari Joseph,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2357,Mwajuma Aloyce Chacha,Female,Dar es Salaam,Kurasini ICD
+2358,Aloyce Bakari Mhagama,Male,Dar es Salaam,Kurasini ICD
+2359,Hidaya Joseph,Female,Arusha,Arusha (clearing)
+2360,Zainabu Komba,Female,Dar es Salaam,Kurasini ICD
+2361,Hellena Lukanga,Female,Mwanza,Mwanza North Port
+2362,Ally Bishanga,Male,Kagera,Mutukula Border (Uganda)
+2363,Goodluck Ramadhani Mwaijande,Male,Mbeya,Kyela (Lake Nyasa)
+2364,Furaha Khamis,Female,Mtwara,Mtwara Port
+2365,Catherine Lyatu,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2366,Bakari Joseph,Male,Songwe,Kasumulu Border (Malawi)
+2367,Daudi Ally,Male,Dar es Salaam,Kurasini ICD
+2368,Audax Mhagama,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2369,Salehe Haule,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+2370,Shufaa Petro John,Female,Mbeya,Mbeya ICD
+2371,Juma Urio,Male,Kilimanjaro,Tarakea Border
+2372,Mathayo Doto Shija,Male,Mwanza,Mwanza North Port
+2373,Anthony Aloyce Kihwele,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2374,Modest Lazaro,Male,Songwe,Tunduma Border (Zambia)
+2375,Kiango Onesmo Maulidi,Male,Mtwara,Mtambaswala (Unity Bridge)
+2376,Wilfred Deogratias Michael,Male,Dar es Salaam,Kurasini ICD
+2377,Mathayo Kessy,Male,Arusha,Arusha (clearing)
+2378,Selemani Lyatu,Male,Mara,Musoma Port (Lake Victoria)
+2379,Ramadhani Salum,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2380,Bakari Kweka,Male,Kilimanjaro,Holili Border (Kenya)
+2381,John Iddi Mhagama,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+2382,Erick Ramadhani Mtumwa,Male,Tanga,Tanga Port
+2383,Fatuma Method Range,Female,Arusha,Namanga Border (Kenya)
+2384,Hassan Issa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2385,Mabula Haule,Male,Kagera,Rusumo Border (Rwanda)
+2386,Kulwa Issa Selemani,Male,Pwani,Bagamoyo
+2387,Augustino Charles Tarimo,Male,Arusha,Namanga Border (Kenya)
+2388,Asha Mzee,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2389,Chande Selemani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2390,Furaha Lazaro,Female,Dar es Salaam,Kurasini ICD
+2391,Mfaume Michael,Male,Dar es Salaam,Kurasini ICD
+2392,Modest Mwakatobe,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2393,Mariamu Juma Urio,Female,Kilimanjaro,Tarakea Border
+2394,Ally Lucas Ally,Male,Mtwara,Mtwara Port
+2395,Kiango Mmari,Male,Arusha,Namanga Border (Kenya)
+2396,Rashidi Shabani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2397,Nassoro Nyoni,Male,Kagera,Mutukula Border (Uganda)
+2398,Frank Mutabazi,Male,Kigoma,Kabanga Border
+2399,Mwinyi Deogratias Ngonyani,Male,Arusha,Arusha (clearing)
+2400,Joseph Maulidi Mlowe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2401,Andrea Mohamed Bhoke,Male,Ruvuma,Songea (clearing)
+2402,Clemence Mfaume,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2403,Latifa Massawe,Female,Kilimanjaro,Holili Border (Kenya)
+2404,Gervas Juma,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2405,Pendo Mtitu,Female,Mtwara,Mtwara Port
+2406,Zuhura Gabriel Kihwele,Female,Dar es Salaam,Kurasini ICD
+2407,Innocent Paul,Male,Kagera,Rusumo Border (Rwanda)
+2408,Audax Salum,Male,Dar es Salaam,Kurasini ICD
+2409,Rashidi Mhagama,Male,Mbeya,Kyela (Lake Nyasa)
+2410,Tabu Mfaume,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2411,Elia Haule,Male,Mara,Musoma Port (Lake Victoria)
+2412,Gervas Theophil Issa,Male,Dar es Salaam,Kurasini ICD
+2413,Boniface Said,Male,Dar es Salaam,Kurasini ICD
+2414,Aloyce Fabian Lazaro,Male,Dar es Salaam,Kurasini ICD
+2415,Lameck Mwita,Male,Mtwara,Mtwara Port
+2416,Hamza Mtitu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2417,Abdallah Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2418,Theresia Clemence Komba,Female,Mara,Sirari Border (Kenya)
+2419,Nassoro Mwinyi,Male,Dar es Salaam,Kurasini ICD
+2420,Scholastica Mosi Mmari,Female,Kilimanjaro,Tarakea Border
+2421,Clemence Mzee,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2422,Audax Yusuph Magige,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+2423,Elia Mfaume,Male,Pwani,Bagamoyo
+2424,Kassim Komba,Male,Mbeya,Mbeya ICD
+2425,Mwinyi Kihwele,Male,Mara,Musoma Port (Lake Victoria)
+2426,Happy Hemedi,Female,Dar es Salaam,Kurasini ICD
+2427,Hawa Andrea Chacha,Female,Mwanza,Mwanza North Port
+2428,Richard Nyoni,Male,Katavi,Ikola Port
+2429,Nuru Mwita,Female,Kagera,Mutukula Border (Uganda)
+2430,Bakari Mlowe,Male,Arusha,Namanga Border (Kenya)
+2431,Chande Mlay,Male,Arusha,Namanga Border (Kenya)
+2432,Masunga Marwa,Male,Mbeya,Mbeya ICD
+2433,Method Kihwele,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2434,Mussa Mlay,Male,Arusha,Namanga Border (Kenya)
+2435,Mwita Mtitu,Male,Mtwara,Mtwara Port
+2436,Audax Kihwele,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2437,Gabriel Ngonyani,Male,Mtwara,Mtwara Port
+2438,Theophil Issa,Male,Dar es Salaam,Kurasini ICD
+2439,Stephano Wambura,Male,Mbeya,Tunduma Corridor
+2440,Petro Rajabu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2441,Paulo Mayige,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2442,Modest Juma Ramadhani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2443,Catherine Bhoke,Female,Dar es Salaam,Kurasini ICD
+2444,Kassim Komba,Male,Kagera,Bukoba Port
+2445,Gabriel Bhoke,Male,Kagera,Rusumo Border (Rwanda)
+2446,Ng'wanza Swai,Male,Kilimanjaro,Holili Border (Kenya)
+2447,Mosi Mohamed Abdallah,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2448,Stephano Aloyce Paul,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+2449,Kiango Chande Mwakatobe,Male,Kigoma,Manyovu Border (Burundi)
+2450,Frank Ng'wanza Mwaikambo,Male,Mbeya,Tunduma Corridor
+2451,Selemani Shabani,Male,Pwani,Mlandizi ICD
+2452,Gervas Mwita,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2453,Hidaya Paulo Mlay,Female,Arusha,Namanga Border (Kenya)
+2454,Paulo Swai,Male,Kilimanjaro,Moshi (clearing)
+2455,Andrea Omari,Male,Dar es Salaam,Kurasini ICD
+2456,Zainabu Elia Ndaki,Female,Mara,Musoma Port (Lake Victoria)
+2457,Nuru Richard Mayige,Female,Mwanza,Mwanza North Port
+2458,Mathayo Said,Male,Dar es Salaam,Kurasini ICD
+2459,Goodluck Salum Mlowe,Male,Ruvuma,Songea (clearing)
+2460,Elia Bhoke,Male,Songwe,Kasumulu Border (Malawi)
+2461,Onesmo Selemani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2462,Clemence Mohamed,Male,Tanga,Tanga Port
+2463,Tumaini Selemani,Female,Tanga,Tanga Port
+2464,Ramadhani Mlowe,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2465,Selemani Iddi Macha,Male,Kilimanjaro,Moshi (clearing)
+2466,Edmund Boniface Nyoni,Male,Arusha,Arusha (clearing)
+2467,Goodluck Ramadhani Marealle,Male,Kilimanjaro,Tarakea Border
+2468,Gervas Yohana Omari,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2469,Joseph Mwasanguti,Male,Mbeya,Tunduma Corridor
+2470,Rajabu Lyimo,Male,Kilimanjaro,Tarakea Border
+2471,Baraka Baraka Paul,Male,Kagera,Bukoba Port
+2472,Hamza Mussa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2473,Damian Mwita,Male,Mara,Musoma Port (Lake Victoria)
+2474,Onesmo Mosha,Male,Kilimanjaro,Holili Border (Kenya)
+2475,Mathayo Israel Mayala,Male,Mwanza,Mwanza North Port
+2476,Veronica Kassim,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2477,Jane Castory Paul,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2478,Goodluck Juma Ng'wandu,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2479,Augustino Castory Mapunda,Male,Mbeya,Kyela (Lake Nyasa)
+2480,Nassoro Mosi Kibwana,Male,Tanga,Horohoro Border (Kenya)
+2481,Erasto Yohana Kessy,Male,Arusha,Arusha (clearing)
+2482,Shabani Rajabu Range,Male,Mwanza,Mwanza North Port
+2483,Mosi Range,Male,Mwanza,Mwanza North Port
+2484,Chande Damian Shabani,Male,Dar es Salaam,Kurasini ICD
+2485,Augustino Kelvin Hassan,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2486,Augustino Mwinyi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2487,Mwinyi Ndosi,Male,Kilimanjaro,Tarakea Border
+2488,Constantine Selemani,Male,Dar es Salaam,Kurasini ICD
+2489,Kelvin Rajabu Iddi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2490,Hamisi Mapunda,Male,Ruvuma,Songea (clearing)
+2491,Chande Komba,Male,Dar es Salaam,Kurasini ICD
+2492,Richard Omari,Male,Tanga,Horohoro Border (Kenya)
+2493,Mosi Minja,Male,Arusha,Arusha (clearing)
+2494,Filbert Ramadhani John,Male,Arusha,Arusha (clearing)
+2495,Hassan Juma Nyoni,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2496,Doto Selemani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2497,Asha Mwinyi,Female,Dar es Salaam,Kurasini ICD
+2498,Kelvin Castory Omari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2499,Ng'wanza Madata,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2500,Castory Salehe Rajabu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2501,Prisca Shabani Magige,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2502,Upendo Ngonyani,Female,Mbeya,Mbeya ICD
+2503,Shabani Mwaikambo,Male,Songwe,Tunduma Border (Zambia)
+2504,Ally Richard Juma,Male,Dar es Salaam,Kurasini ICD
+2505,Aidan Mtitu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2506,Petro Said,Male,Dar es Salaam,Kurasini ICD
+2507,Iddi Goodluck Mwaijande,Male,Mbeya,Mbeya ICD
+2508,Zawadi Lameck Mwaikambo,Female,Mbeya,Kyela (Lake Nyasa)
+2509,Wilfred Shabani,Male,Dar es Salaam,Kurasini ICD
+2510,Said Mwamengo,Male,Mbeya,Kyela (Lake Nyasa)
+2511,Mwita Mtitu,Male,Katavi,Ikola Port
+2512,Petro Maduhu,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2513,Joseph Paul,Male,Songwe,Tunduma Border (Zambia)
+2514,Latifa Haule,Female,Mtwara,Mtwara Port
+2515,Emmanuel Ramadhani Mwasanguti,Male,Mbeya,Mbeya ICD
+2516,Aidan Haule,Male,Arusha,Arusha (clearing)
+2517,Nuru Magige,Female,Kagera,Rusumo Border (Rwanda)
+2518,Anthony Ally Salum,Male,Tanga,Horohoro Border (Kenya)
+2519,Castory Nyoni,Male,Mara,Musoma Port (Lake Victoria)
+2520,Kassim Wambura,Male,Mbeya,Mbeya ICD
+2521,Doris Daudi Mzee,Female,Dar es Salaam,Kurasini ICD
+2522,Erasto Lyatu,Male,Mbeya,Tunduma Corridor
+2523,Theophil Mapunda,Male,Dar es Salaam,Kurasini ICD
+2524,Said Hemedi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2525,Eliya Omari,Male,Tanga,Tanga Port
+2526,Erick Lutema,Male,Mara,Sirari Border (Kenya)
+2527,Tabu Boniface Daniel,Male,Mbeya,Tunduma Corridor
+2528,Januari Yusuph Mwita,Male,Songwe,Tunduma Border (Zambia)
+2529,Juma Iddi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2530,Khamis Mwita Wambura,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2531,Audax Castory Ndaki,Male,Mwanza,Mwanza North Port
+2532,Khadija Mlowe,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2533,Lucia Kihwele,Female,Dar es Salaam,Kurasini ICD
+2534,Tabu Chacha,Male,Dar es Salaam,Kurasini ICD
+2535,Masunga Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2536,Asha Joseph,Female,Mwanza,Mwanza South Port (Lake Victoria)
+2537,Kassim Mwamengo,Male,Songwe,Kasumulu Border (Malawi)
+2538,Joseph Chande Kessy,Male,Kilimanjaro,Moshi (clearing)
+2539,Masunga Athumani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2540,Rajabu Shabani Kaijage,Male,Kagera,Mutukula Border (Uganda)
+2541,Hemedi Gervas Mayala,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2542,Felician Lyatu,Male,Mbeya,Tunduma Corridor
+2543,Kiango Damian Lyatu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2544,Chande Mwinyi,Male,Mtwara,Mtambaswala (Unity Bridge)
+2545,Bahati Salum,Female,Pwani,Mafia Jetty
+2546,Hassani John,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+2547,Pendo Kiango Mfaume,Female,Dar es Salaam,Kurasini ICD
+2548,Damian Chacha,Male,Dar es Salaam,Kurasini ICD
+2549,Felician Paul,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2550,Witness Said,Female,Dar es Salaam,Kurasini ICD
+2551,Ramadhani Ramadhani Ramadhani,Male,Pwani,Mlandizi ICD
+2552,John Range,Male,Arusha,Namanga Border (Kenya)
+2553,Abdallah Mgaya,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2554,Joseph Chacha,Male,Mara,Musoma Port (Lake Victoria)
+2555,Elia Sumari,Male,Arusha,Namanga Border (Kenya)
+2556,Mwinyi Magige,Male,Mara,Musoma Port (Lake Victoria)
+2557,Maulidi Mwakipesile,Male,Songwe,Tunduma Border (Zambia)
+2558,Rajabu Ngonyani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2559,Esther Kelvin Mgaya,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2560,Marko Daniel,Male,Dar es Salaam,Kurasini ICD
+2561,Gideon Sanga,Male,Mbeya,Mbeya ICD
+2562,Ally Nassoro Paul,Male,Songwe,Kasumulu Border (Malawi)
+2563,Beatrice Omari Chacha,Female,Mara,Sirari Border (Kenya)
+2564,Tumaini Audax Mwamengo,Female,Mbeya,Kyela (Lake Nyasa)
+2565,Asha Bhoke,Female,Kigoma,Kigoma Port (Lake Tanganyika)
+2566,Joyce Hemedi Lazaro,Female,Mbeya,Kyela (Lake Nyasa)
+2567,Method Chacha,Male,Arusha,Namanga Border (Kenya)
+2568,Emmanuel Mfaume,Male,Pwani,Mlandizi ICD
+2569,Omari Mussa Kategile,Male,Kagera,Bukoba Port
+2570,Mosi Clemence Karoli,Male,Kigoma,Kabanga Border
+2571,Kiango Stephano Kamugisha,Male,Kigoma,Manyovu Border (Burundi)
+2572,Castory Lazaro,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2573,Modest Filbert Massawe,Male,Arusha,Arusha (clearing)
+2574,Felician Yohana Rajabu,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2575,Modest Ally,Male,Tanga,Horohoro Border (Kenya)
+2576,Issa Ramadhani Ndaki,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2577,Ramadhani Kessy,Male,Arusha,Namanga Border (Kenya)
+2578,Castory Iddi Magige,Male,Kagera,Bukoba Port
+2579,Gideon Said Kibwana,Male,Mtwara,Mtwara Port
+2580,Maria Augustino Issa,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2581,Fatuma Hamisi Mlowe,Female,Mara,Musoma Port (Lake Victoria)
+2582,Stephano Stephano Bhoke,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2583,Prisca John Range,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2584,Mwinyi Ally,Male,Dar es Salaam,Kurasini ICD
+2585,Renatus Damian Athumani,Male,Tanga,Horohoro Border (Kenya)
+2586,Kassim Onesmo Wambura,Male,Arusha,Namanga Border (Kenya)
+2587,Iddi Lazaro,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2588,Grace Temba,Female,Arusha,Namanga Border (Kenya)
+2589,Mabula Mlowe,Male,Mwanza,Mwanza North Port
+2590,Wilfred Shirima,Male,Arusha,Arusha (clearing)
+2591,Elia Ramadhani Daniel,Male,Songwe,Tunduma Border (Zambia)
+2592,Goodluck Mlowe,Male,Arusha,Arusha (clearing)
+2593,Augustino Mussa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2594,Ng'wanza Eliya Michael,Male,Arusha,Arusha (clearing)
+2595,Stella Eliya Magige,Female,Mtwara,Mtambaswala (Unity Bridge)
+2596,Boniface Kweka,Male,Arusha,Namanga Border (Kenya)
+2597,Kassim Magige,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2598,Paulo Salehe Haule,Male,Mwanza,Mwanza North Port
+2599,George Maro,Male,Kilimanjaro,Moshi (clearing)
+2600,Modest Ngonyani,Male,Dar es Salaam,Kurasini ICD
+2601,Modest Audax Omari,Male,Tanga,Tanga Port
+2602,Marko Magige,Male,Songwe,Kasumulu Border (Malawi)
+2603,Daudi Petro Lazaro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2604,Editruda Elia Kulwa,Female,Mwanza,Mwanza North Port
+2605,Anna Mfaume,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2606,Erasto Mlowe,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2607,Magdalena Lyatu,Female,Dar es Salaam,Kurasini ICD
+2608,Rashidi Bishanga,Male,Kagera,Bukoba Port
+2609,Frank Swai,Male,Kilimanjaro,Tarakea Border
+2610,Charles Mapunda,Male,Dar es Salaam,Kurasini ICD
+2611,Constantine Richard Magige,Male,Songwe,Tunduma Border (Zambia)
+2612,Gloria Hassan,Female,Mtwara,Mtambaswala (Unity Bridge)
+2613,Hemedi Range,Male,Mwanza,Mwanza North Port
+2614,Gloria Haule,Female,Mara,Musoma Port (Lake Victoria)
+2615,Kelvin Mapunda,Male,Arusha,Arusha (clearing)
+2616,Daudi Shabani Chacha,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2617,Mathayo Rashidi Nyoni,Male,Kagera,Rusumo Border (Rwanda)
+2618,Clemence Mgaya,Male,Dar es Salaam,Kurasini ICD
+2619,Gideon Kelvin Bhoke,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2620,Mfaume Felician Masunga,Male,Mara,Musoma Port (Lake Victoria)
+2621,Audax Lameck Bhoke,Male,Kagera,Bukoba Port
+2622,Gabriel Shabani Komba,Male,Ruvuma,Songea (clearing)
+2623,Athumani Mohamed,Male,Dar es Salaam,Kurasini ICD
+2624,Yusuph Michael,Male,Mara,Musoma Port (Lake Victoria)
+2625,Abdallah Wambura,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2626,Said Wambura,Male,Arusha,Namanga Border (Kenya)
+2627,Rukia Komba,Female,Mara,Sirari Border (Kenya)
+2628,Andrea Baraka Mtitu,Male,Mwanza,Mwanza North Port
+2629,Mathayo Lyatu,Male,Songwe,Kasumulu Border (Malawi)
+2630,Bakari Rutaihwa,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+2631,Khamis Kulwa Kessy,Male,Kilimanjaro,Holili Border (Kenya)
+2632,Happy Bakari,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2633,Audax Wilfred Komba,Male,Rukwa,Sumbawanga (clearing)
+2634,Joseph Mgaya,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2635,Baraka Joseph Maro,Male,Arusha,Namanga Border (Kenya)
+2636,Lameck Wambura,Male,Mwanza,Mwanza North Port
+2637,Shufaa Selemani Hassan,Female,Dar es Salaam,Kurasini ICD
+2638,Hidaya Damian Mwakatobe,Female,Dar es Salaam,Kurasini ICD
+2639,Zawadi Said,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2640,Chande John,Male,Dar es Salaam,Kurasini ICD
+2641,Elia Lyimo,Male,Arusha,Arusha (clearing)
+2642,Nestory Kassim John,Male,Arusha,Arusha (clearing)
+2643,Hassan Edmund Lazaro,Male,Mbeya,Kyela (Lake Nyasa)
+2644,Agnes Salum,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2645,John Emmanuel Michael,Male,Dar es Salaam,Kurasini ICD
+2646,Eliya Marwa,Male,Mbeya,Mbeya ICD
+2647,Gloria Daniel,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2648,Zainabu Kessy,Female,Kilimanjaro,Moshi (clearing)
+2649,Aloyce Said,Male,Dar es Salaam,Kurasini ICD
+2650,Gervas Daudi Mzee,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2651,Emmanuel Kihwele,Male,Ruvuma,Songea (clearing)
+2652,Bahati Gideon Omari,Female,Dar es Salaam,Kurasini ICD
+2653,Salum Mapunda,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2654,Ramadhani Mwita,Male,Arusha,Namanga Border (Kenya)
+2655,Kulwa Paul,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2656,Selemani Mlowe,Male,Dar es Salaam,Kurasini ICD
+2657,Hamza Lameck Mwakatobe,Male,Mwanza,Mwanza North Port
+2658,Esther Kassim,Female,Dar es Salaam,Kurasini ICD
+2659,Husna Ramadhani Rajabu,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2660,Amina Kihwele,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2661,Ally Khamis,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2662,Grace Mfaume Ramadhani,Female,Mtwara,Mtambaswala (Unity Bridge)
+2663,Iddi Ally Kishosha,Male,Mara,Sirari Border (Kenya)
+2664,Mwanahamisi Nassoro,Female,Tanga,Tanga Port
+2665,Ally Kweka,Male,Kilimanjaro,Tarakea Border
+2666,John Khamis Mwita,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2667,Onesmo Januari Bhoke,Male,Dar es Salaam,Kurasini ICD
+2668,Khadija Modest Mussa,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2669,Subira Mmari,Female,Kilimanjaro,Holili Border (Kenya)
+2670,Erick John Mwita,Male,Dar es Salaam,Kurasini ICD
+2671,Joyce John Marealle,Female,Kilimanjaro,Moshi (clearing)
+2672,Masunga John,Male,Arusha,Namanga Border (Kenya)
+2673,Aloyce Aidan Mussa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2674,Audax John,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2675,Stephano Nyoni,Male,Mwanza,Mwanza North Port
+2676,Innocent Mwita,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2677,Theophil Mussa,Male,Tanga,Horohoro Border (Kenya)
+2678,Khamis Marwa,Male,Kagera,Rusumo Border (Rwanda)
+2679,Halima Castory Swai,Female,Kilimanjaro,Holili Border (Kenya)
+2680,Omari Lyatu,Male,Dar es Salaam,Kurasini ICD
+2681,Aloyce Issa,Male,Tanga,Horohoro Border (Kenya)
+2682,Witness Ally,Female,Dar es Salaam,Kurasini ICD
+2683,Lameck Mwita,Male,Mara,Sirari Border (Kenya)
+2684,Israel Mtumwa,Male,Pwani,Mlandizi ICD
+2685,Salehe John Mwita,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2686,Bakari Abdallah,Male,Tanga,Tanga Port
+2687,Witness Haule,Female,Mwanza,Mwanza North Port
+2688,Nuru Athumani,Female,Tanga,Horohoro Border (Kenya)
+2689,Athumani Komba,Male,Mbeya,Mbeya ICD
+2690,Frank Constantine Shabani,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+2691,Salehe Frank Mzee,Male,Dar es Salaam,Kurasini ICD
+2692,Onesmo Rutaihwa,Male,Kigoma,Manyovu Border (Burundi)
+2693,Iddi Godfrey Mfaume,Male,Dar es Salaam,Kurasini ICD
+2694,Fatuma Charles Swai,Female,Arusha,Namanga Border (Kenya)
+2695,Petro Mwinyi Selemani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2696,Zakaria Edmund Chande,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2697,Kulwa Elia Mgaya,Male,Dar es Salaam,Kurasini ICD
+2698,Castory Said,Male,Pwani,Mlandizi ICD
+2699,Shabani Mukama,Male,Kigoma,Kabanga Border
+2700,Editruda Mohamed,Female,Dar es Salaam,Kurasini ICD
+2701,Peter Wambura,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2702,Tumaini Bhoke,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2703,Charles Kassim,Male,Pwani,Mafia Jetty
+2704,Kassim Mwaijande,Male,Songwe,Kasumulu Border (Malawi)
+2705,Ramadhani Nyoni,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2706,Baraka Hamisi Mhagama,Male,Kigoma,Manyovu Border (Burundi)
+2707,Rashidi Kibwana,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2708,Hamza Ngonyani,Male,Arusha,Arusha (clearing)
+2709,Chande Juma,Male,Dar es Salaam,Kurasini ICD
+2710,Salum Iddi,Male,Mtwara,Mtwara Port
+2711,Lucia Mgaya,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2712,Hassani Ramadhani Komba,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2713,Method Wambura,Male,Katavi,Ikola Port
+2714,Modest Kihwele,Male,Ruvuma,Songea (clearing)
+2715,Anthony Hemedi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2716,Stephano Issa,Male,Dar es Salaam,Kurasini ICD
+2717,Gloria Haule,Female,Katavi,Ikola Port
+2718,Bahati Onesmo Nassoro,Female,Dar es Salaam,Kurasini ICD
+2719,Clemence Marwa,Male,Dar es Salaam,Kurasini ICD
+2720,Israel Mgaya,Male,Mara,Sirari Border (Kenya)
+2721,Yusuph Mosha,Male,Arusha,Arusha (clearing)
+2722,John Kassim,Male,Tanga,Tanga Port
+2723,Kiango Mapunda,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2724,Augustino Ally,Male,Tanga,Horohoro Border (Kenya)
+2725,Prisca Doto Mlowe,Female,Kigoma,Manyovu Border (Burundi)
+2726,Juma Rajabu,Male,Mtwara,Mtambaswala (Unity Bridge)
+2727,Lameck Mhagama,Male,Arusha,Namanga Border (Kenya)
+2728,Boniface Ramadhani,Male,Tanga,Tanga Port
+2729,Nuru Audax Selemani,Female,Pwani,Mlandizi ICD
+2730,Goodluck Lameck Mtitu,Male,Dar es Salaam,Kurasini ICD
+2731,Andrea Ramadhani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2732,Method Tarimo,Male,Kilimanjaro,Holili Border (Kenya)
+2733,Zawadi Selemani Bakari,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2734,Fatuma Issa,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2735,Ramadhani Magige,Male,Arusha,Arusha (clearing)
+2736,Juma Issa Mhagama,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2737,Fabian Ngonyani,Male,Mara,Musoma Port (Lake Victoria)
+2738,Said Mwakajinga,Male,Songwe,Tunduma Border (Zambia)
+2739,Mwajuma Mohamed,Female,Dar es Salaam,Kurasini ICD
+2740,Said Rashidi Mwinyi,Male,Tanga,Tanga Port
+2741,Goodluck Bhoke,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2742,Petro Stephano Mtitu,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2743,Kulwa Constantine Ngonyani,Male,Kagera,Mutukula Border (Uganda)
+2744,Happy Daniel,Female,Mtwara,Mtambaswala (Unity Bridge)
+2745,Abdallah Wambura,Male,Mbeya,Kyela (Lake Nyasa)
+2746,Andrea Mohamed,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2747,Ramadhani Omari,Male,Dar es Salaam,Kurasini ICD
+2748,Innocent Salehe Joseph,Male,Mara,Musoma Port (Lake Victoria)
+2749,Edmund Joseph,Male,Mbeya,Kyela (Lake Nyasa)
+2750,Consolata Joseph Wambura,Female,Arusha,Namanga Border (Kenya)
+2751,Hamza Mohamed Mtitu,Male,Kigoma,Manyovu Border (Burundi)
+2752,Shabani Gervas Rajabu,Male,Pwani,Mafia Jetty
+2753,Hamza Erasto Marwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2754,Gideon Doto,Male,Mwanza,Mwanza North Port
+2755,Riziki Abdallah,Female,Dar es Salaam,Kurasini ICD
+2756,Ramadhani Haule,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2757,Mwita Macha,Male,Arusha,Arusha (clearing)
+2758,Fabian Bukombe,Male,Mara,Sirari Border (Kenya)
+2759,Iddi Daudi Selemani,Male,Dar es Salaam,Kurasini ICD
+2760,Hemedi Bhoke,Male,Dar es Salaam,Kurasini ICD
+2761,Mwita Mlay,Male,Arusha,Arusha (clearing)
+2762,Augustino John,Male,Songwe,Kasumulu Border (Malawi)
+2763,Kiango Khamis Karoli,Male,Kagera,Bukoba Port
+2764,Boniface Mhagama,Male,Ruvuma,Songea (clearing)
+2765,Kassim Mhagama,Male,Kigoma,Manyovu Border (Burundi)
+2766,Onesmo Chacha,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2767,Mfaume Salum Marwa,Male,Dar es Salaam,Kurasini ICD
+2768,Mabula Chande,Male,Mtwara,Mtwara Port
+2769,Castory Renatus Hemedi,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2770,Mfaume Maulidi Mutabazi,Male,Kagera,Bukoba Port
+2771,Lightness Komba,Female,Kagera,Bukoba Port
+2772,Israel Nyoni,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2773,Lameck Kamugisha,Male,Kagera,Mutukula Border (Uganda)
+2774,Israel Theophil Haule,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2775,Said Wilfred Mwakatobe,Male,Mwanza,Mwanza North Port
+2776,Mabula Boniface Mwita,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2777,Flora Mhagama,Female,Mara,Musoma Port (Lake Victoria)
+2778,Shufaa Salehe Iddi,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2779,Emmanuel Yohana Range,Male,Kagera,Mutukula Border (Uganda)
+2780,Mwanaharusi Gervas Kassim,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2781,Goodluck Juma,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2782,Paulo Mapunda,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2783,Bakari Chacha,Male,Songwe,Kasumulu Border (Malawi)
+2784,Masunga Eliya Mwita,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2785,Athumani Komba,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2786,Marko Hemedi,Male,Tanga,Tanga Port
+2787,Joseph Lazaro,Male,Songwe,Tunduma Border (Zambia)
+2788,Ally Mwita,Male,Mbeya,Mbeya ICD
+2789,Maulidi Ng'wanza Daniel,Male,Kagera,Mutukula Border (Uganda)
+2790,Renatus Augustino Said,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2791,Magdalena Omari,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2792,Boniface Minja,Male,Arusha,Arusha (clearing)
+2793,Peter Omari,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2794,Godfrey Nassoro,Male,Tanga,Horohoro Border (Kenya)
+2795,Iddi Kashindye,Male,Kagera,Bukoba Port
+2796,Asha Petro Ramadhani,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2797,Omari Chacha,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2798,Lightness Nyoni,Female,Arusha,Namanga Border (Kenya)
+2799,Renatus Joseph,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2800,Innocent Ally Mwita,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2801,Anna Mwita,Female,Mbeya,Mbeya ICD
+2802,Bakari Mlowe,Male,Kigoma,Kabanga Border
+2803,Upendo Tabu Omari,Female,Tanga,Tanga Port
+2804,Bahati Mwita,Female,Mwanza,Mwanza South Port (Lake Victoria)
+2805,Damian Mwita,Male,Dar es Salaam,Kurasini ICD
+2806,Onesmo Rashidi Daniel,Male,Mbeya,Tunduma Corridor
+2807,Masunga Mhagama,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2808,Kiango Massawe,Male,Kilimanjaro,Tarakea Border
+2809,Emmanuel Joseph,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2810,Mwanahawa Castory Kessy,Female,Kilimanjaro,Moshi (clearing)
+2811,Said Mohamed,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2812,Erick Ramadhani Mfaume,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2813,Salehe Komba,Male,Mwanza,Mwanza North Port
+2814,Gabriel Abdallah Mgaya,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2815,Zakaria Range,Male,Mbeya,Kyela (Lake Nyasa)
+2816,Neema Marwa,Female,Mbeya,Kyela (Lake Nyasa)
+2817,Shabani Magige,Male,Mwanza,Mwanza North Port
+2818,Gabriel Felician Ramadhani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2819,Halima George Athumani,Female,Dar es Salaam,Kurasini ICD
+2820,Issa Aloyce Paul,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2821,Paulo Hemedi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2822,Stephano Godfrey Shabani,Male,Tanga,Tanga Port
+2823,George Andrea Kaijage,Male,Kigoma,Kabanga Border
+2824,Hemedi Issa Michael,Male,Dar es Salaam,Kurasini ICD
+2825,Mwajuma Yohana Chande,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2826,Gabriel Mwinyi Selemani,Male,Tanga,Horohoro Border (Kenya)
+2827,Selemani Godfrey Mhagama,Male,Mbeya,Kyela (Lake Nyasa)
+2828,Naomi Bakari,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2829,Erick Paul,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2830,Juma Edmund Haule,Male,Mbeya,Kyela (Lake Nyasa)
+2831,Consolata Erasto Hassan,Female,Pwani,Bagamoyo
+2832,Anthony Abdallah Selemani,Male,Dar es Salaam,Kurasini ICD
+2833,Salma Fabian Ramadhani,Female,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+2834,Naomi Israel Athumani,Female,Dar es Salaam,Kurasini ICD
+2835,John Hemedi Mbwilo,Male,Mbeya,Kyela (Lake Nyasa)
+2836,Mabula Mwakatobe,Male,Katavi,Karema Port (Lake Tanganyika)
+2837,Subira Bakari,Female,Pwani,Mafia Jetty
+2838,Editruda Ramadhani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2839,Maulidi Mlowe,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2840,Anna Komba,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2841,Lameck Macha,Male,Arusha,Namanga Border (Kenya)
+2842,Rashidi Issa John,Male,Mwanza,Mwanza North Port
+2843,Israel Kibwana,Male,Dar es Salaam,Kurasini ICD
+2844,Petro Ramadhani,Male,Dar es Salaam,Kurasini ICD
+2845,Mwita Mosi Kaijage,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+2846,Juma Haule,Male,Kigoma,Manyovu Border (Burundi)
+2847,Augustino Mabula,Male,Mara,Sirari Border (Kenya)
+2848,Hemedi Bhoke,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2849,Ramadhani Said Komba,Male,Mbeya,Tunduma Corridor
+2850,John Shija,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2851,Issa Omari Ng'wandu,Male,Mwanza,Mwanza North Port
+2852,Juma Omari Mlay,Male,Kilimanjaro,Tarakea Border
+2853,Riziki Gervas Kishosha,Female,Mwanza,Mwanza South Port (Lake Victoria)
+2854,Kassim Haule,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+2855,Wilfred Maulidi,Male,Dar es Salaam,Kurasini ICD
+2856,Paulo Mwakatobe,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2857,Kassim Hassan,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2858,Ramadhani Audax Bhoke,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2859,Lameck Lameck Mwasanguti,Male,Mbeya,Mbeya ICD
+2860,Nassoro Selemani,Male,Dar es Salaam,Kurasini ICD
+2861,Augustino Michael,Male,Mbeya,Tunduma Corridor
+2862,Wilfred Ndyetabura,Male,Kagera,Mutukula Border (Uganda)
+2863,Andrea Hamisi Komba,Male,Kagera,Mutukula Border (Uganda)
+2864,Mwanaharusi Rajabu,Female,Dar es Salaam,Kurasini ICD
+2865,George Mfaume Salum,Male,Pwani,Mlandizi ICD
+2866,Paulo Mhagama,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2867,Happy Issa Marwa,Female,Mbeya,Mbeya ICD
+2868,Joseph Range,Male,Mara,Sirari Border (Kenya)
+2869,Mathayo Ngonyani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2870,Omari Nassoro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2871,Tabu Juma Kasambala,Male,Songwe,Kasumulu Border (Malawi)
+2872,Godfrey Chande,Male,Pwani,Mafia Jetty
+2873,Kelvin Andrea Swai,Male,Arusha,Namanga Border (Kenya)
+2874,John Chacha,Male,Dar es Salaam,Kurasini ICD
+2875,Kulwa Kihwele,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2876,Hemedi Lazaro,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2877,Juma Issa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2878,Tabu Magige,Male,Mtwara,Mtambaswala (Unity Bridge)
+2879,Method Juma,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2880,Yusuph Felician Marwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2881,Kiango Kihwele,Male,Katavi,Ikola Port
+2882,Edmund Bhoke,Male,Kagera,Bukoba Port
+2883,Abdallah Maulidi,Male,Dar es Salaam,Kurasini ICD
+2884,John Method Omari,Male,Tanga,Tanga Port
+2885,Modest Mgaya,Male,Kagera,Rusumo Border (Rwanda)
+2886,Emmanuel Mzee,Male,Dar es Salaam,Kurasini ICD
+2887,Tabu Issa Kweka,Male,Arusha,Namanga Border (Kenya)
+2888,Riziki Wilfred Mohamed,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2889,Saada Athumani,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2890,Nestory Anthony Michael,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2891,Agnes Daudi Chande,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2892,Israel Paulo Joseph,Male,Mbeya,Tunduma Corridor
+2893,Chande Joseph Mbwilo,Male,Songwe,Kasumulu Border (Malawi)
+2894,Ramadhani Mabula,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2895,Augustino Mlay,Male,Kilimanjaro,Tarakea Border
+2896,Said Ramadhani,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+2897,Juma Masanja,Male,Mara,Sirari Border (Kenya)
+2898,Mwinyi Kihwele,Male,Mwanza,Mwanza North Port
+2899,Ramadhani Mtitu,Male,Arusha,Namanga Border (Kenya)
+2900,Paulo Juma,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2901,Catherine Lyatu,Female,Mara,Musoma Port (Lake Victoria)
+2902,Rajabu Mabula Chande,Male,Tanga,Tanga Port
+2903,Bakari Ally Joseph,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2904,Emmanuel Shija,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2905,Chande Aidan Ally,Male,Mtwara,Mtwara Port
+2906,Juma Issa Kassim,Male,Tanga,Tanga Port
+2907,Shabani Marwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2908,Fabian Lazaro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2909,Maulidi Iddi Hassan,Male,Tanga,Horohoro Border (Kenya)
+2910,Modest Castory Lazaro,Male,Mbeya,Tunduma Corridor
+2911,Tunu Nyoni,Female,Kigoma,Kigoma Port (Lake Tanganyika)
+2912,Salma Bakari,Female,Dar es Salaam,Kurasini ICD
+2913,Hassan Issa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2914,Flora Mfaume,Female,Tanga,Horohoro Border (Kenya)
+2915,Charles Mlowe,Male,Dar es Salaam,Kurasini ICD
+2916,Stephano Mtitu,Male,Mbeya,Kyela (Lake Nyasa)
+2917,Eliya Mapunda,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2918,Gervas Nestory Daniel,Male,Katavi,Karema Port (Lake Tanganyika)
+2919,Gabriel Kihwele,Male,Rukwa,Sumbawanga (clearing)
+2920,Bakari Ally,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2921,Tunu Mgaya,Female,Dar es Salaam,Kurasini ICD
+2922,Rukia Mwita,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2923,Flora Bhoke,Female,Arusha,Namanga Border (Kenya)
+2924,Filbert Temba,Male,Kilimanjaro,Holili Border (Kenya)
+2925,Gideon Michael,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2926,Amina Emmanuel Mlowe,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2927,Joseph Mwasanguti,Male,Songwe,Tunduma Border (Zambia)
+2928,Joseph Nyoni,Male,Arusha,Namanga Border (Kenya)
+2929,Stephano Yohana Chacha,Male,Kagera,Rusumo Border (Rwanda)
+2930,Mathayo Mussa,Male,Dar es Salaam,Kurasini ICD
+2931,Felician Ramadhani,Male,Tanga,Tanga Port
+2932,Issa Mtumwa,Male,Tanga,Tanga Port
+2933,Masunga Bakari,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2934,Nestory Massawe,Male,Kilimanjaro,Tarakea Border
+2935,Furaha Paulo Joseph,Female,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+2936,Rajabu Said,Male,Zanzibar (Mjini Magharibi),Abeid Amani Karume Airport (customs)
+2937,Ramadhani Richard Paul,Male,Mtwara,Mtwara Port
+2938,Hadija Augustino Lyatu,Female,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+2939,Gideon Rashidi Mlowe,Male,Kigoma,Kabanga Border
+2940,Mwajuma Mlowe,Female,Arusha,Arusha (clearing)
+2941,Mariamu Mwita,Female,Mtwara,Mtambaswala (Unity Bridge)
+2942,Rajabu Innocent Marwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2943,Zawadi Sanga,Female,Songwe,Kasumulu Border (Malawi)
+2944,Ng'wanza Khamis,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2945,Nassoro Mbwilo,Male,Songwe,Kasumulu Border (Malawi)
+2946,Eliya Joseph,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2947,Andrea Komba,Male,Dar es Salaam,Kurasini ICD
+2948,Hamza Mwaisaka,Male,Mbeya,Tunduma Corridor
+2949,Januari Nyoni,Male,Dar es Salaam,Kurasini ICD
+2950,Zawadi Lameck Lazaro,Female,Mwanza,Mwanza North Port
+2951,Rajabu Massawe,Male,Arusha,Arusha (clearing)
+2952,Magdalena Abdallah,Female,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+2953,Ramadhani Nyoni,Male,Katavi,Ikola Port
+2954,Mwanaharusi Mtitu,Female,Kigoma,Manyovu Border (Burundi)
+2955,Shabani Ramadhani,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2956,Onesmo Abdallah,Male,Tanga,Horohoro Border (Kenya)
+2957,Amina Khamis Mlowe,Female,Mara,Musoma Port (Lake Victoria)
+2958,Aloyce Charles Marwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2959,Mabula Chande John,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+2960,Wilfred Chacha,Male,Mara,Sirari Border (Kenya)
+2961,Aidan Nyoni,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2962,Doto Maulidi,Male,Tanga,Tanga Port
+2963,Hemedi Petro Mussa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2964,Shabani Mzee,Male,Tanga,Tanga Port
+2965,Hawa Range,Female,Mbeya,Kyela (Lake Nyasa)
+2966,Juma Mhagama,Male,Kagera,Bukoba Port
+2967,Ng'wanza Tarimo,Male,Kilimanjaro,Moshi (clearing)
+2968,Clemence Mmari,Male,Kilimanjaro,Moshi (clearing)
+2969,Anna Mlowe,Female,Dar es Salaam,Kurasini ICD
+2970,Petro Iddi Mgaya,Male,Kagera,Rusumo Border (Rwanda)
+2971,Kiango Haule,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2972,Richard Bukombe,Male,Mara,Musoma Port (Lake Victoria)
+2973,Consolata Bakari Kibwana,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2974,Boniface Chacha,Male,Mtwara,Mtwara Port
+2975,Richard Marwa,Male,Dar es Salaam,Kurasini ICD
+2976,Mwinyi Daudi Athumani,Male,Dar es Salaam,Kurasini ICD
+2977,Mwanahamisi Mohamed,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+2978,Mabula Theophil Maulidi,Male,Dar es Salaam,Kurasini ICD
+2979,Theophil Mapunda,Male,Songwe,Kasumulu Border (Malawi)
+2980,Esther Daniel,Female,Songwe,Tunduma Border (Zambia)
+2981,Hassani Maulidi Chande,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+2982,Frank Ally,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2983,Bakari Aloyce Moshi,Male,Kilimanjaro,Tarakea Border
+2984,Riziki Masunga,Female,Mwanza,Mwanza North Port
+2985,Mwanaharusi Marwa,Female,Kagera,Bukoba Port
+2986,Baraka Kishosha,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2987,Kiango Marwa,Male,Kagera,Bukoba Port
+2988,Glory Marwa,Female,Dar es Salaam,Kurasini ICD
+2989,Kulwa Kibwana,Male,Tanga,Horohoro Border (Kenya)
+2990,Salum Issa,Male,Tanga,Horohoro Border (Kenya)
+2991,Frank Mwinyi Ramadhani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2992,Innocent Athumani,Male,Zanzibar (Mjini Magharibi),Zanzibar Port (Malindi)
+2993,Israel Salum,Male,Dar es Salaam,Kurasini ICD
+2994,Goodluck Kassim Marwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+2995,Ramadhani Kasambala,Male,Mbeya,Tunduma Corridor
+2996,Stephano Kashindye,Male,Kigoma,Manyovu Border (Burundi)
+2997,Lucas Bundala,Male,Mwanza,Mwanza South Port (Lake Victoria)
+2998,Joseph Mbwilo,Male,Songwe,Tunduma Border (Zambia)
+2999,Clemence Ng'wanza Daniel,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+3000,Baraka Mohamed,Male,Dar es Salaam,Kurasini ICD
+3001,Saada Tarimo,Female,Arusha,Namanga Border (Kenya)
+3002,Furaha Januari Lazaro,Female,Ruvuma,Songea (clearing)
+3003,Ester Wambura,Female,Kagera,Rusumo Border (Rwanda)
+3004,Esther Hassan,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+3005,Israel Boniface Athumani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3006,Mathayo Mussa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3007,Gloria Masunga Mapunda,Female,Mwanza,Mwanza South Port (Lake Victoria)
+3008,Yohana Eliya Range,Male,Arusha,Arusha (clearing)
+3009,Richard Kibwana,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3010,Maulidi Hassan,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3011,Deogratias Mussa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3012,Godfrey Shabani John,Male,Arusha,Namanga Border (Kenya)
+3013,Salma Emmanuel Paul,Female,Mara,Musoma Port (Lake Victoria)
+3014,Mwanaharusi Rajabu Mhagama,Female,Dar es Salaam,Kurasini ICD
+3015,Theophil Richard Hassan,Male,Tanga,Tanga Port
+3016,Mwinyi Chacha,Male,Mara,Sirari Border (Kenya)
+3017,Hassan John,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+3018,Hellena Daudi Kibwana,Female,Dar es Salaam,Kurasini ICD
+3019,Kiango Marko Mosha,Male,Kilimanjaro,Holili Border (Kenya)
+3020,Augustino Mwakalinga,Male,Mbeya,Mbeya ICD
+3021,Bakari Magige,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3022,Clemence Mtumwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3023,Zakaria Augustino Mwita,Male,Ruvuma,"Mtambaswala (Unity Bridge, Mozambique)"
+3024,Felician Maulidi,Male,Tanga,Tanga Port
+3025,Rashidi Selemani,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3026,Fabian Bhoke,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+3027,Mwanaidi Aidan Maulidi,Female,Mtwara,Mtwara Port
+3028,Elia Ally Wambura,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3029,Daudi Magige,Male,Kigoma,Kigoma Port (Lake Tanganyika)
+3030,Onesmo Erick Michael,Male,Mara,Musoma Port (Lake Victoria)
+3031,Audax Salum,Male,Pwani,Bagamoyo
+3032,Filbert Daniel,Male,Dar es Salaam,Kurasini ICD
+3033,Stephano Said Mabula,Male,Mara,Sirari Border (Kenya)
+3034,Joseph Mwinyi,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3035,Stephano Urio,Male,Kilimanjaro,Holili Border (Kenya)
+3036,George Mmari,Male,Kilimanjaro,Moshi (clearing)
+3037,Mathayo Wambura,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3038,Riziki Ng'wanza Lyimo,Female,Kilimanjaro,Holili Border (Kenya)
+3039,Kulwa Ramadhani Haule,Male,Kigoma,Manyovu Border (Burundi)
+3040,Shufaa Mwaikambo,Female,Mbeya,Mbeya ICD
+3041,Januari Nyoni,Male,Katavi,Karema Port (Lake Tanganyika)
+3042,Frank Mtitu,Male,Katavi,Karema Port (Lake Tanganyika)
+3043,Charles Mwakatobe,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3044,Khamis Mtumwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3045,Erick Nyoni,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3046,Doto Daniel,Male,Arusha,Arusha (clearing)
+3047,Beatrice Haule,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3048,Augustino Zakaria Kashindye,Male,Kigoma,Kabanga Border
+3049,Kassim Mapunda,Male,Dar es Salaam,Kurasini ICD
+3050,Damian Lazaro,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3051,Kassim Omari,Male,Pwani,Bagamoyo
+3052,Bakari Magige,Male,Dar es Salaam,Kurasini ICD
+3053,Kelvin Baitani,Male,Kagera,Rusumo Border (Rwanda)
+3054,Yusuph Tarimo,Male,Kilimanjaro,Holili Border (Kenya)
+3055,Frank Lameck Magige,Male,Mtwara,Mtwara Port
+3056,Kelvin Haule,Male,Mtwara,Mtambaswala (Unity Bridge)
+3057,Wilfred Paul,Male,Arusha,Namanga Border (Kenya)
+3058,Hamza Ally,Male,Tanga,Horohoro Border (Kenya)
+3059,Boniface Said,Male,Dar es Salaam,Kurasini ICD
+3060,Agnes Mosha,Female,Kilimanjaro,Holili Border (Kenya)
+3061,Flora Mlowe,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3062,Doris Zakaria Salum,Female,Tanga,Horohoro Border (Kenya)
+3063,Juma Range,Male,Mbeya,Tunduma Corridor
+3064,Juma Nyoni,Male,Ruvuma,Songea (clearing)
+3065,Hawa Issa,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3066,Latifa Kassim Hemedi,Female,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3067,Israel Chacha,Male,Mtwara,Mtambaswala (Unity Bridge)
+3068,Lameck Mathayo Wambura,Male,Arusha,Namanga Border (Kenya)
+3069,Zawadi Mtui,Female,Kilimanjaro,Moshi (clearing)
+3070,Agnes Juma,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+3071,Abdallah Moshi,Male,Kilimanjaro,Moshi (clearing)
+3072,Rashidi Range,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3073,Method Rashidi Chacha,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3074,Maua Israel Nyoni,Female,Arusha,Arusha (clearing)
+3075,Editruda Nassoro,Female,Dar es Salaam,Kurasini ICD
+3076,Rajabu Omari,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3077,Asha Juma,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+3078,Eliya Mhagama,Male,Arusha,Arusha (clearing)
+3079,Iddi Damian Bundala,Male,Mwanza,Mwanza North Port
+3080,Mfaume Rashidi Mohamed,Male,Pwani,Mafia Jetty
+3081,Erasto Bhoke,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3082,Amina Rajabu,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+3083,Kulwa Frank Daniel,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3084,Mosi Kashindye,Male,Kagera,Bukoba Port
+3085,Athumani Michael,Male,Mbeya,Mbeya ICD
+3086,Mabula Gideon Mlowe,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3087,Ng'wanza Kihwele,Male,Mwanza,Mwanza North Port
+3088,Nuru Abdallah,Female,Tanga,Tanga Port
+3089,Bakari Ramadhani,Male,Pwani,Mlandizi ICD
+3090,Andrea Charles Rweyemamu,Male,Kigoma,Kabanga Border
+3091,Issa Range,Male,Ruvuma,Songea (clearing)
+3092,Ramadhani Mussa,Male,Dar es Salaam,Kurasini ICD
+3093,Zainabu Nassoro,Female,Tanga,Horohoro Border (Kenya)
+3094,Audax Marwa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3095,Sophia Selemani,Female,Mtwara,Mtambaswala (Unity Bridge)
+3096,Yohana Mwaikambo,Male,Songwe,Tunduma Border (Zambia)
+3097,Hassani Rashidi Mapunda,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3098,Mfaume Mussa Mgaya,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3099,Catherine Michael,Female,Dar es Salaam,Kurasini ICD
+3100,Deogratias Lucas Mtumwa,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3101,Constantine Khamis Juma,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3102,Hadija Aloyce Chacha,Female,Mwanza,Mwanza South Port (Lake Victoria)
+3103,Baraka Onesmo Daniel,Male,Kagera,Mutukula Border (Uganda)
+3104,Gabriel Mussa,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3105,Zawadi Gervas Selemani,Female,Tanga,Horohoro Border (Kenya)
+3106,Ramadhani Yohana Michael,Male,Rukwa,Kasanga Port (Lake Tanganyika)
+3107,Richard Bukombe,Male,Mara,Sirari Border (Kenya)
+3108,Athumani Issa,Male,Dar es Salaam,Kurasini ICD
+3109,Editruda Mgaya,Female,Rukwa,Sumbawanga (clearing)
+3110,Lameck Athumani Nassoro,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3111,Shufaa Hassan,Female,Dar es Salaam,Dar es Salaam Port (TICTS)
+3112,Goodluck Mhagama,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3113,Constantine Wambura,Male,Dar es Salaam,Dar es Salaam Port (TICTS)
+3114,Esther Nassoro Mhagama,Female,Rukwa,Kasanga Port (Lake Tanganyika)
+3115,Ramadhani Komba,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3116,Marko Mabula Bhoke,Male,Dar es Salaam,Julius Nyerere Intl Airport (customs)
+3117,Yohana Bishanga,Male,Kigoma,Kigoma Port (Lake Tanganyika)
