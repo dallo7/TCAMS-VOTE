@@ -27,6 +27,7 @@ def register_callbacks(dash_app: dash.Dash) -> None:
         Output("input-station", "value"),
         Output("input-reason", "value"),
         Output("animation-trigger", "data"),
+        Output("celebration-trigger", "data"),
         Input("btn-vote-yes", "n_clicks"),
         Input("btn-vote-no", "n_clicks"),
         Input("btn-vote-not-sure", "n_clicks"),
@@ -42,7 +43,7 @@ def register_callbacks(dash_app: dash.Dash) -> None:
     def submit_vote(yes_clicks, no_clicks, ns_clicks, name, gender, region, station, reason, valid_regions, valid_stations):
         triggered = ctx.triggered_id
         if triggered is None:
-            return no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update
+            return no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update
 
         choice_map = {
             "btn-vote-yes": "yes",
@@ -51,10 +52,10 @@ def register_callbacks(dash_app: dash.Dash) -> None:
         }
         choice = choice_map.get(triggered)
         if not choice:
-            return no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update
+            return no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update
 
         if not name or not gender or not region or not station:
-            return sw.VALIDATION_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update
+            return sw.VALIDATION_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update, no_update
 
         if valid_regions and region not in valid_regions:
             return (
@@ -66,6 +67,7 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 region,
                 station,
                 reason,
+                no_update,
                 no_update,
             )
 
@@ -80,17 +82,19 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 station,
                 reason,
                 no_update,
+                no_update,
             )
 
         db = SessionLocal()
         try:
             if not is_poll_open(db):
-                return sw.POLL_CLOSED, {"display": "block"}, _ALERT_CLASS["orange"], name, gender, region, station, reason, no_update
+                return sw.POLL_CLOSED, {"display": "block"}, _ALERT_CLASS["orange"], name, gender, region, station, reason, no_update, no_update
 
+            voter_name = name.strip()
             record_vote(
                 db,
                 choice=choice,
-                voter_name=name.strip(),
+                voter_name=voter_name,
                 gender=gender,
                 region=region,
                 customs_station=station,
@@ -98,19 +102,31 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 is_synthetic=False,
                 source="public",
             )
+            success_message = html.Span(
+                [
+                    "Asante ",
+                    html.Strong(voter_name),
+                    "! Kura yako imehesabiwa.",
+                ]
+            )
+            celebration = {
+                "name": voter_name,
+                "ts": ctx.triggered[0]["value"] if ctx.triggered else 0,
+            }
             return (
-                sw.VOTE_SUCCESS,
+                success_message,
                 {"display": "block"},
-                _ALERT_CLASS["green"],
+                f"{_ALERT_CLASS['green']} tcams-alert--celebrate",
                 "",
                 None,
                 None,
                 None,
                 "",
-                {"choice": choice, "ts": ctx.triggered[0]["value"] if ctx.triggered else 0},
+                {"choice": choice, "ts": celebration["ts"]},
+                celebration,
             )
         except Exception:
-            return sw.VOTE_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update
+            return sw.VOTE_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update, no_update
         finally:
             db.close()
 
@@ -137,9 +153,13 @@ def register_callbacks(dash_app: dash.Dash) -> None:
         Output("chart-sentiment-pie", "figure"),
         Output("rank-regions", "children"),
         Output("rank-stations", "children"),
+        Output("prev-counts-store", "data"),
+        Output("animation-trigger", "data", allow_duplicate=True),
         Input("refresh-interval", "n_intervals"),
+        State("prev-counts-store", "data"),
+        prevent_initial_call="initial_duplicate",
     )
-    def refresh_dashboard(_n):
+    def refresh_dashboard(_n, prev_counts):
         db = SessionLocal()
         try:
             tallies = get_tallies(db)
@@ -179,6 +199,17 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 region_rows = build_rank_rows(analytics["top_regions"])
                 station_rows = build_rank_rows(analytics["top_stations"])
 
+            prev = prev_counts or {"yes": 0, "no": 0, "not_sure": 0}
+            animation = no_update
+            if _n > 0:
+                choices_to_animate: list[str] = []
+                for choice in ("yes", "no", "not_sure"):
+                    delta = counts[choice] - int(prev.get(choice, 0))
+                    if delta > 0:
+                        choices_to_animate.extend([choice] * min(delta, 4))
+                if choices_to_animate:
+                    animation = {"choices": choices_to_animate[:8], "ts": _n, "source": "refresh"}
+
             return (
                 time_label,
                 time_label,
@@ -202,6 +233,8 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 sentiment_fig,
                 region_rows,
                 station_rows,
+                {"yes": counts["yes"], "no": counts["no"], "not_sure": counts["not_sure"]},
+                animation,
             )
         finally:
             db.close()
@@ -209,15 +242,40 @@ def register_callbacks(dash_app: dash.Dash) -> None:
     clientside_callback(
         """
         function(trigger) {
-            if (!trigger || !trigger.choice) {
+            if (!trigger || !window.tcamsAnimateVote) {
                 return window.dash_clientside.no_update;
             }
-            if (window.tcamsAnimateVote) {
-                window.tcamsAnimateVote(trigger.choice);
+            var choices = trigger.choices;
+            if (!choices && trigger.choice) {
+                choices = [trigger.choice];
             }
+            if (!choices || !choices.length) {
+                return window.dash_clientside.no_update;
+            }
+            choices.forEach(function(choice, index) {
+                setTimeout(function() {
+                    window.tcamsAnimateVote(choice);
+                }, index * 320);
+            });
             return window.dash_clientside.no_update;
         }
         """,
         Output("animation-layer", "children"),
         Input("animation-trigger", "data"),
+    )
+
+    clientside_callback(
+        """
+        function(trigger) {
+            if (!trigger || !trigger.name || !window.tcamsFireworks) {
+                return window.dash_clientside.no_update;
+            }
+            setTimeout(function() {
+                window.tcamsFireworks("vote-feedback");
+            }, 90);
+            return window.dash_clientside.no_update;
+        }
+        """,
+        Output("celebration-layer", "children"),
+        Input("celebration-trigger", "data"),
     )

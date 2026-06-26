@@ -39,9 +39,14 @@ Open http://localhost:8090
 
 1. Push this repo to GitHub: [dallo7/TCAMS-VOTE](https://github.com/dallo7/TCAMS-VOTE)
 2. In [Render](https://render.com), create a **Web Service** from the repo
-3. Render reads `render.yaml` automatically, or set:
+3. Render reads `render.yaml` automatically, or set manually:
    - **Build:** `pip install -r requirements.txt`
-   - **Start:** `uvicorn app:app --host 0.0.0.0 --port $PORT`
+   - **Start (recommended with Gunicorn):**  
+     `gunicorn -w 1 -k uvicorn.workers.UvicornWorker app:app --bind 0.0.0.0:$PORT`
+   - **Start (Uvicorn only):**  
+     `uvicorn app:app --host 0.0.0.0 --port $PORT`
+
+   Avoid `gunicorn app:server` — that drops the FastAPI API and steering engine.
 4. Set environment variables:
    - `ADMIN_TOKEN` — secret for `POST /api/poll/start`
    - `DATABASE_URL` — defaults to `sqlite:////tmp/tcams_poll.db` on Render
