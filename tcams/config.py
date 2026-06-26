@@ -10,7 +10,7 @@ CSV_PATH = DATA_DIR / "tanzania_clearing_agents.csv"
 DATABASE_URL = os.getenv("DATABASE_URL", f"sqlite:///{DB_PATH}")
 
 ADMIN_TOKEN = os.getenv("ADMIN_TOKEN", "tcams-admin-start")
-APP_VERSION = "2026.06.26-celebrate"
+APP_VERSION = "2026.06.26-celebrate-v2"
 POLL_DURATION_HOURS = 48
 
 TARGET_YES_PCT = 52.4

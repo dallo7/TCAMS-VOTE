@@ -1,6 +1,7 @@
 import dash_mantine_components as dmc
 from dash import dcc, html
 
+from tcams.config import APP_VERSION
 from tcams.dash_app import i18n_sw as sw
 from tcams.dash_app.theme import TCAMS_THEME
 
@@ -31,6 +32,7 @@ def build_layout(regions: list[str], stations: list[str]) -> dmc.MantineProvider
             dcc.Store(id="valid-regions-store", data=regions),
             dcc.Store(id="valid-stations-store", data=stations),
             dcc.Store(id="animation-trigger", data=None),
+            dcc.Store(id="celebration-trigger", data=None),
             dcc.Store(id="prev-counts-store", data={"yes": 0, "no": 0, "not_sure": 0}),
             dcc.Interval(id="refresh-interval", interval=3000, n_intervals=0),
             html.Div(
@@ -45,6 +47,11 @@ def build_layout(regions: list[str], stations: list[str]) -> dmc.MantineProvider
                                     html.H1(sw.APP_TITLE),
                                     html.P(sw.POLL_QUESTION),
                                     html.Div(className="flag-rule"),
+                                    html.Span(
+                                        f"Build {APP_VERSION}",
+                                        id="app-build-badge",
+                                        className="app-build-badge",
+                                    ),
                                 ],
                             ),
                             html.Div(
@@ -273,6 +280,7 @@ def build_layout(regions: list[str], stations: list[str]) -> dmc.MantineProvider
                         ],
                     ),
                     html.Div(id="animation-layer", className="animation-layer"),
+                    html.Div(id="celebration-layer", style={"display": "none"}),
                 ],
             ),
         ],

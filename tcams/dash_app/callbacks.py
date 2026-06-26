@@ -16,34 +16,6 @@ _ALERT_CLASS = {
 }
 
 
-def _agent_debug_log(hypothesis_id: str, location: str, message: str, data: dict) -> None:
-    # #region agent log
-    import json
-    import time
-    from pathlib import Path
-
-    payload = {
-        "sessionId": "a99dd8",
-        "hypothesisId": hypothesis_id,
-        "location": location,
-        "message": message,
-        "data": data,
-        "timestamp": int(time.time() * 1000),
-        "runId": "celebrate-fix",
-    }
-    for log_path in (
-        Path(__file__).resolve().parents[2] / "debug-a99dd8.log",
-        Path.cwd() / "debug-a99dd8.log",
-    ):
-        try:
-            with log_path.open("a", encoding="utf-8") as log_file:
-                log_file.write(json.dumps(payload) + "\n")
-            break
-        except OSError:
-            continue
-    # #endregion
-
-
 def register_callbacks(dash_app: dash.Dash) -> None:
     @dash_app.callback(
         Output("vote-feedback", "children"),
@@ -55,6 +27,7 @@ def register_callbacks(dash_app: dash.Dash) -> None:
         Output("input-station", "value"),
         Output("input-reason", "value"),
         Output("animation-trigger", "data"),
+        Output("celebration-trigger", "data"),
         Input("btn-vote-yes", "n_clicks"),
         Input("btn-vote-no", "n_clicks"),
         Input("btn-vote-not-sure", "n_clicks"),
@@ -70,7 +43,7 @@ def register_callbacks(dash_app: dash.Dash) -> None:
     def submit_vote(yes_clicks, no_clicks, ns_clicks, name, gender, region, station, reason, valid_regions, valid_stations):
         triggered = ctx.triggered_id
         if triggered is None:
-            return no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update
+            return no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update
 
         choice_map = {
             "btn-vote-yes": "yes",
@@ -79,10 +52,11 @@ def register_callbacks(dash_app: dash.Dash) -> None:
         }
         choice = choice_map.get(triggered)
         if not choice:
-            return no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update
+            return no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update
 
-        if not name or not gender or not region or not station:
-            return sw.VALIDATION_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update
+        voter_name = (name or "").strip()
+        if not voter_name or not gender or not region or not station:
+            return sw.VALIDATION_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update, no_update
 
         if valid_regions and region not in valid_regions:
             return (
@@ -94,6 +68,7 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 region,
                 station,
                 reason,
+                no_update,
                 no_update,
             )
 
@@ -108,14 +83,14 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 station,
                 reason,
                 no_update,
+                no_update,
             )
 
         db = SessionLocal()
         try:
             if not is_poll_open(db):
-                return sw.POLL_CLOSED, {"display": "block"}, _ALERT_CLASS["orange"], name, gender, region, station, reason, no_update
+                return sw.POLL_CLOSED, {"display": "block"}, _ALERT_CLASS["orange"], name, gender, region, station, reason, no_update, no_update
 
-            voter_name = name.strip()
             record_vote(
                 db,
                 choice=choice,
@@ -129,19 +104,6 @@ def register_callbacks(dash_app: dash.Dash) -> None:
             )
             vote_ts = ctx.triggered[0]["value"] if ctx.triggered else 0
             success_message = sw.vote_success_message(voter_name)
-            animation = {
-                "choice": choice,
-                "ts": vote_ts,
-                "name": voter_name,
-                "fireworks": True,
-                "source": "public",
-            }
-            _agent_debug_log(
-                "A",
-                "callbacks.py:submit_vote",
-                "vote success",
-                {"voter_name": voter_name, "message": success_message, "animation": animation},
-            )
             return (
                 success_message,
                 {"display": "block"},
@@ -151,16 +113,11 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 None,
                 None,
                 "",
-                animation,
+                {"choice": choice, "ts": vote_ts, "source": "public"},
+                {"name": voter_name, "ts": vote_ts, "fireworks": True},
             )
-        except Exception as exc:
-            _agent_debug_log(
-                "B",
-                "callbacks.py:submit_vote",
-                "vote failed",
-                {"error": type(exc).__name__, "name": name},
-            )
-            return sw.VOTE_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update
+        except Exception:
+            return sw.VOTE_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update, no_update
         finally:
             db.close()
 
@@ -290,13 +247,25 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                     }, index * 320);
                 });
             }
-            if (trigger.fireworks && trigger.name && window.tcamsCelebrateVote) {
-                fetch('http://127.0.0.1:7413/ingest/3fef14f3-8cd2-4979-b2ac-b4d59f7e43ee',{method:'POST',headers:{'Content-Type':'application/json','X-Debug-Session-Id':'a99dd8'},body:JSON.stringify({sessionId:'a99dd8',location:'callbacks.py:clientside_animation',message:'celebrate vote',data:{name:trigger.name,hasFireworks:!!window.tcamsFireworks,hasCelebrate:!!window.tcamsCelebrateVote},timestamp:Date.now(),hypothesisId:'C',runId:'celebrate-fix'})}).catch(function(){});
-                window.tcamsCelebrateVote("vote-feedback");
-            }
             return window.dash_clientside.no_update;
         }
         """,
         Output("animation-layer", "children"),
         Input("animation-trigger", "data"),
+    )
+
+    clientside_callback(
+        """
+        function(trigger) {
+            if (!trigger || !trigger.fireworks || !trigger.name) {
+                return window.dash_clientside.no_update;
+            }
+            if (window.tcamsCelebrateVote) {
+                window.tcamsCelebrateVote("vote-feedback");
+            }
+            return window.dash_clientside.no_update;
+        }
+        """,
+        Output("celebration-layer", "children"),
+        Input("celebration-trigger", "data"),
     )

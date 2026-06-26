@@ -56,6 +56,8 @@ def vote_success_message(voter_name: str) -> str:
     if not name:
         return VOTE_SUCCESS
     return f"Asante {name}! Kura yako imehesabiwa."
+
+
 VOTE_ERROR = "Imeshindikana kupokea kura. Jaribu tena."
 VALIDATION_ERROR = "Tafadhali jaza sehemu zote zinazohitajika."
 

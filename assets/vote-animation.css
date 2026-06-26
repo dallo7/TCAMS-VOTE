@@ -43,7 +43,15 @@
   background: var(--tcams-flag);
 }
 
-/* alerts */
+.app-build-badge {
+  display: inline-block;
+  margin-top: 10px;
+  font-family: var(--tcams-mono);
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
 .tcams-alert {
   border-radius: 12px;
   padding: 12px 16px;
