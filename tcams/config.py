@@ -1,4 +1,5 @@
 import os
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -10,7 +11,18 @@ CSV_PATH = DATA_DIR / "tanzania_clearing_agents.csv"
 DATABASE_URL = os.getenv("DATABASE_URL", f"sqlite:///{DB_PATH}")
 
 ADMIN_TOKEN = os.getenv("ADMIN_TOKEN", "tcams-admin-start")
-APP_VERSION = "2026.06.26-celebrate-v2"
+APP_VERSION = "2026.06.29-launch"
+
+TZ_EAT = timezone(timedelta(hours=3))
+
+
+def _eat(year: int, month: int, day: int, hour: int = 0, minute: int = 0, second: int = 0) -> datetime:
+    return datetime(year, month, day, hour, minute, second, tzinfo=TZ_EAT)
+
+
+# Uchaguzi: Jumatatu 29 Juni 2026 hadi 8 Julai 2026 (EAT)
+POLL_START_AT = _eat(2026, 6, 29)
+POLL_END_AT = _eat(2026, 7, 8, 23, 59, 59)
 POLL_DURATION_HOURS = 48
 
 TARGET_YES_PCT = 52.4

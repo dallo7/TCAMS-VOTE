@@ -84,6 +84,22 @@ def _base_layout(title: str) -> dict:
     }
 
 
+def _donut_layout() -> dict:
+    layout = _base_layout("")
+    layout["title"] = {"text": ""}
+    layout["height"] = 300
+    layout["margin"] = {"l": 8, "r": 8, "t": 4, "b": 70}
+    layout["legend"] = {
+        "orientation": "h",
+        "yanchor": "top",
+        "y": -0.15,
+        "x": 0.5,
+        "xanchor": "center",
+        "font": {"size": 11},
+    }
+    return layout
+
+
 def gender_pie_chart(male: int, female: int) -> go.Figure:
     fig = go.Figure(
         data=[
@@ -92,14 +108,16 @@ def gender_pie_chart(male: int, female: int) -> go.Figure:
                 values=[male, female],
                 marker={"colors": [NAVY, SKY]},
                 hole=0.42,
-                textinfo="label+percent",
+                textinfo="percent",
+                textposition="inside",
+                insidetextorientation="radial",
                 textfont={"size": 12},
             )
         ]
     )
-    layout = _base_layout("Usambazaji wa Jinsia")
-    layout["title"] = {"text": ""}
+    layout = _donut_layout()
     fig.update_layout(**layout)
+    fig.update_traces(domain={"x": [0, 1], "y": [0.2, 0.98]})
     return fig
 
 
@@ -111,14 +129,16 @@ def sentiment_pie_chart(yes: int, no: int, not_sure: int) -> go.Figure:
                 values=[yes, no, not_sure],
                 marker={"colors": [GREEN, NAVY, YELLOW]},
                 hole=0.42,
-                textinfo="label+percent",
+                textinfo="percent",
+                textposition="inside",
+                insidetextorientation="radial",
                 textfont={"size": 12},
             )
         ]
     )
-    layout = _base_layout("Mgawanyo wa Maoni")
-    layout["title"] = {"text": ""}
+    layout = _donut_layout()
     fig.update_layout(**layout)
+    fig.update_traces(domain={"x": [0, 1], "y": [0.2, 0.98]})
     return fig
 
 

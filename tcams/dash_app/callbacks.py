@@ -7,7 +7,13 @@ from tcams.dash_app.layout import build_rank_rows
 from tcams.dash_app.sentiment import build_sentiment_message
 from tcams.database import SessionLocal
 from tcams.services.analytics_service import get_analytics
-from tcams.services.vote_service import get_tallies, get_time_remaining, is_poll_open, record_vote
+from tcams.services.vote_service import (
+    get_synthetic_tallies,
+    get_tallies,
+    get_time_remaining,
+    is_poll_open,
+    record_vote,
+)
 
 _ALERT_CLASS = {
     "green": "tcams-alert tcams-alert--success",
@@ -28,6 +34,7 @@ def register_callbacks(dash_app: dash.Dash) -> None:
         Output("input-reason", "value"),
         Output("animation-trigger", "data"),
         Output("celebration-trigger", "data"),
+        Output("prev-counts-store", "data", allow_duplicate=True),
         Input("btn-vote-yes", "n_clicks"),
         Input("btn-vote-no", "n_clicks"),
         Input("btn-vote-not-sure", "n_clicks"),
@@ -43,7 +50,7 @@ def register_callbacks(dash_app: dash.Dash) -> None:
     def submit_vote(yes_clicks, no_clicks, ns_clicks, name, gender, region, station, reason, valid_regions, valid_stations):
         triggered = ctx.triggered_id
         if triggered is None:
-            return no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update
+            return (no_update,) * 11
 
         choice_map = {
             "btn-vote-yes": "yes",
@@ -52,11 +59,11 @@ def register_callbacks(dash_app: dash.Dash) -> None:
         }
         choice = choice_map.get(triggered)
         if not choice:
-            return no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update, no_update
+            return (no_update,) * 11
 
         voter_name = (name or "").strip()
         if not voter_name or not gender or not region or not station:
-            return sw.VALIDATION_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update, no_update
+            return sw.VALIDATION_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update, no_update, no_update
 
         if valid_regions and region not in valid_regions:
             return (
@@ -68,6 +75,7 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 region,
                 station,
                 reason,
+                no_update,
                 no_update,
                 no_update,
             )
@@ -84,12 +92,16 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 reason,
                 no_update,
                 no_update,
+                no_update,
             )
 
         db = SessionLocal()
         try:
+            time_info = get_time_remaining(db)
             if not is_poll_open(db):
-                return sw.POLL_CLOSED, {"display": "block"}, _ALERT_CLASS["orange"], name, gender, region, station, reason, no_update, no_update
+                if time_info["status"] == "pending":
+                    return sw.POLL_NOT_OPEN, {"display": "block"}, _ALERT_CLASS["orange"], name, gender, region, station, reason, no_update, no_update, no_update
+                return sw.POLL_CLOSED, {"display": "block"}, _ALERT_CLASS["orange"], name, gender, region, station, reason, no_update, no_update, no_update
 
             record_vote(
                 db,
@@ -102,6 +114,8 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 is_synthetic=False,
                 source="public",
             )
+            tallies = get_tallies(db)
+            counts = tallies["counts"]
             vote_ts = ctx.triggered[0]["value"] if ctx.triggered else 0
             success_message = sw.vote_success_message(voter_name)
             return (
@@ -115,19 +129,24 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 "",
                 {"choice": choice, "ts": vote_ts, "source": "public"},
                 {"name": voter_name, "ts": vote_ts, "fireworks": True},
+                {"yes": counts["yes"], "no": counts["no"], "not_sure": counts["not_sure"]},
             )
         except Exception:
-            return sw.VOTE_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update, no_update
+            return sw.VOTE_ERROR, {"display": "block"}, _ALERT_CLASS["red"], name, gender, region, station, reason, no_update, no_update, no_update
         finally:
             db.close()
 
     @dash_app.callback(
         Output("timer-label", "children"),
         Output("timer-label-secondary", "children"),
+        Output("timer-banner-label", "children"),
+        Output("timer-secondary-label", "children"),
         Output("poll-status-alert", "children"),
         Output("poll-status-alert", "className"),
         Output("poll-status-alert", "style"),
         Output("timer-banner", "style"),
+        Output("timer-banner", "className"),
+        Output("poll-schedule-note", "style"),
         Output("total-votes-badge", "children"),
         Output("pct-yes", "children"),
         Output("pct-no", "children"),
@@ -145,12 +164,14 @@ def register_callbacks(dash_app: dash.Dash) -> None:
         Output("rank-regions", "children"),
         Output("rank-stations", "children"),
         Output("prev-counts-store", "data"),
+        Output("prev-synthetic-counts-store", "data"),
         Output("animation-trigger", "data", allow_duplicate=True),
         Input("refresh-interval", "n_intervals"),
         State("prev-counts-store", "data"),
+        State("prev-synthetic-counts-store", "data"),
         prevent_initial_call="initial_duplicate",
     )
-    def refresh_dashboard(_n, prev_counts):
+    def refresh_dashboard(_n, prev_counts, prev_synthetic_counts):
         db = SessionLocal()
         try:
             tallies = get_tallies(db)
@@ -164,17 +185,29 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 status_msg = sw.POLL_PENDING
                 status_class = "tcams-alert tcams-alert--pending"
                 status_style = {"display": "block"}
-                banner_style = {"display": "none"}
+                banner_style = {"display": "flex"}
+                banner_class = "banner reveal banner--pending"
+                schedule_style = {"display": "block"}
+                timer_heading = f"{sw.TIMER_START_LABEL}:"
+                timer_heading_secondary = sw.TIMER_START_LABEL
             elif time_info["status"] == "closed" or time_info["seconds"] == 0:
                 status_msg = sw.POLL_CLOSED
                 status_class = "tcams-alert tcams-alert--closed"
                 status_style = {"display": "block"}
                 banner_style = {"display": "none"}
+                banner_class = "banner reveal"
+                schedule_style = {"display": "none"}
+                timer_heading = f"{sw.TIMER_LABEL}:"
+                timer_heading_secondary = sw.TIMER_LABEL
             else:
                 status_msg = ""
                 status_class = "tcams-alert tcams-alert--active"
                 status_style = {"display": "none"}
                 banner_style = {"display": "flex"}
+                banner_class = "banner reveal"
+                schedule_style = {"display": "none"}
+                timer_heading = f"{sw.TIMER_LABEL}:"
+                timer_heading_secondary = sw.TIMER_LABEL
 
             sentiment_body = build_sentiment_message(counts, pct)
             sentiment = html.Span([html.B(f"{sw.SENTIMENT}: "), sentiment_body])
@@ -191,23 +224,29 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 station_rows = build_rank_rows(analytics["top_stations"])
 
             prev = prev_counts or {"yes": 0, "no": 0, "not_sure": 0}
+            prev_synth = prev_synthetic_counts or {"yes": 0, "no": 0, "not_sure": 0}
+            synthetic_counts = get_synthetic_tallies(db)
             animation = no_update
             if _n > 0:
                 choices_to_animate: list[str] = []
                 for choice in ("yes", "no", "not_sure"):
-                    delta = counts[choice] - int(prev.get(choice, 0))
+                    delta = synthetic_counts[choice] - int(prev_synth.get(choice, 0))
                     if delta > 0:
                         choices_to_animate.extend([choice] * min(delta, 4))
                 if choices_to_animate:
-                    animation = {"choices": choices_to_animate[:8], "ts": _n, "source": "refresh"}
+                    animation = {"choices": choices_to_animate[:8], "ts": _n, "source": "steering"}
 
             return (
                 time_label,
                 time_label,
+                timer_heading,
+                timer_heading_secondary,
                 status_msg,
                 status_class,
                 status_style,
                 banner_style,
+                banner_class,
+                schedule_style,
                 f"JUMLA YA KURA: {tallies['total']}",
                 f"{pct['yes']}%",
                 f"{pct['no']}%",
@@ -225,6 +264,7 @@ def register_callbacks(dash_app: dash.Dash) -> None:
                 region_rows,
                 station_rows,
                 {"yes": counts["yes"], "no": counts["no"], "not_sure": counts["not_sure"]},
+                synthetic_counts,
                 animation,
             )
         finally:

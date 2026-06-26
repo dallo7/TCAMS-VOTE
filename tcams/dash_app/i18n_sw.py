@@ -24,6 +24,8 @@ BTN_NO = "Piga Kura HAPANA"
 BTN_NOT_SURE = "Piga Kura SIJUI"
 
 TIMER_LABEL = "Muda uliobaki"
+TIMER_START_LABEL = "Uchaguzi utaanza baada ya"
+POLL_SCHEDULE = "Uchaguzi utafanyika kuanzia Jumatatu 29 Juni hadi 8 Julai 2026."
 TOTAL_VOTES = "Jumla ya Kura"
 TALLY_YES = "NDIYO"
 TALLY_NO = "HAPANA"
@@ -46,7 +48,8 @@ SENTIMENT_THREE_WAY_TIE = (
 )
 SENTIMENT_TWO_WAY_TIE = "Maoni yanasawana kati ya {a} na {b} ({pct}% kila moja)."
 
-POLL_PENDING = "Uchaguzi haujaanza bado."
+POLL_PENDING = "Uchaguzi haujaanza bado. Tafadhali subiri hadi tarehe ya kuanza."
+POLL_NOT_OPEN = "Uchaguzi haujaanza bado. Huwezi kupiga kura sasa."
 POLL_CLOSED = "Uchaguzi umefungwa. Asante kwa kushiriki!"
 VOTE_SUCCESS = "Asante! Kura yako imehesabiwa."
 

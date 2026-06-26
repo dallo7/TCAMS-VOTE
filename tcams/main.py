@@ -12,7 +12,16 @@ from tcams.dash_app.callbacks import register_callbacks
 from tcams.models import Agent
 from tcams.seed import seed_agents
 from tcams.services.steering_engine import start_steering_scheduler, stop_steering_scheduler
-from tcams.services.vote_service import ensure_poll_session, get_tallies, get_time_remaining, is_poll_open, record_vote, start_poll
+from tcams.services.vote_service import (
+    ensure_poll_session,
+    get_tallies,
+    get_time_remaining,
+    is_poll_open,
+    record_vote,
+    reset_votes,
+    start_poll,
+    sync_poll_schedule,
+)
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -21,10 +30,9 @@ Base.metadata.create_all(bind=engine)
 _bootstrap = SessionLocal()
 try:
     agent_count = seed_agents(_bootstrap)
+    sync_poll_schedule(_bootstrap)
     poll = ensure_poll_session(_bootstrap)
-    if poll.status == "pending":
-        start_poll(_bootstrap)
-        logger.info("Poll auto-started for 48 hours")
+    logger.info("Poll schedule synced: status=%s", poll.status)
     logger.info("Agents in database: %s", agent_count)
 finally:
     _bootstrap.close()
@@ -95,6 +103,14 @@ def api_poll_start(x_admin_token: str | None = Header(default=None), db=Depends(
         "started_at": poll.started_at.isoformat() if poll.started_at else None,
         "ends_at": poll.ends_at.isoformat() if poll.ends_at else None,
     }
+
+
+@app.post("/api/poll/reset-votes")
+def api_reset_votes(x_admin_token: str | None = Header(default=None), db=Depends(get_db)):
+    if x_admin_token != ADMIN_TOKEN:
+        raise HTTPException(status_code=403, detail="Forbidden")
+    deleted = reset_votes(db)
+    return {"deleted": deleted, "tallies": get_tallies(db), "time": get_time_remaining(db)}
 
 
 @app.get("/api/regions")

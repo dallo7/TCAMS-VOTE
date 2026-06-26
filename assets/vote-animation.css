@@ -1,5 +1,16 @@
 /* TCAMS poll page layout + vote animation */
 
+/* Never show internal debug build badge (removed from layout) */
+#app-build-badge,
+.app-build-badge {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+
 .tcams-page {
   min-height: 100vh;
   background: var(--bg);
@@ -16,6 +27,13 @@
 .tcams-page .head {
   text-align: center;
   margin-bottom: 18px;
+}
+
+.tcams-logo--header {
+  display: flex;
+  justify-content: center;
+  margin: 0 0 14px;
+  --tcams-logo-h: 72px;
 }
 
 .tcams-page .head h1 {
@@ -41,15 +59,6 @@
   margin: 14px auto 0;
   border-radius: 4px;
   background: var(--tcams-flag);
-}
-
-.app-build-badge {
-  display: inline-block;
-  margin-top: 10px;
-  font-family: var(--tcams-mono);
-  font-size: 10px;
-  color: var(--muted);
-  letter-spacing: 0.02em;
 }
 
 .tcams-alert {
@@ -134,6 +143,27 @@
 .tcams-page .banner span {
   font-size: 13px;
   color: var(--muted);
+}
+
+.tcams-page .banner--pending {
+  background: var(--gold-soft);
+  border-color: #ecd98a;
+}
+
+.tcams-page .banner--pending svg {
+  color: var(--gold-deep);
+}
+
+.tcams-page .banner--pending b {
+  color: var(--gold-deep);
+}
+
+.poll-schedule-note {
+  text-align: center;
+  margin: -10px 0 18px;
+  font-size: 13px;
+  color: var(--muted);
+  font-weight: 500;
 }
 
 /* grid + cards */
@@ -460,6 +490,11 @@
   padding: 0;
   min-height: 240px;
   overflow: visible;
+}
+
+.chart-card--donut {
+  min-height: 300px;
+  padding-bottom: 4px;
 }
 
 .chart-card .js-plotly-plot,

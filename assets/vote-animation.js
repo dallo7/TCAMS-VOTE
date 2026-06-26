@@ -1,3 +1,26 @@
+(function () {
+  function removeBuildBadge() {
+    var badge = document.getElementById("app-build-badge");
+    if (badge) {
+      badge.remove();
+    }
+    document.querySelectorAll(".app-build-badge").forEach(function (node) {
+      if (/^Build\s/i.test(node.textContent || "")) {
+        node.remove();
+      }
+    });
+  }
+
+  removeBuildBadge();
+  document.addEventListener("DOMContentLoaded", removeBuildBadge);
+  if (window.MutationObserver) {
+    new MutationObserver(removeBuildBadge).observe(document.documentElement, {
+      childList: true,
+      subtree: true,
+    });
+  }
+})();
+
 window.tcamsAnimateVote = function (choice) {
   if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
     return;
