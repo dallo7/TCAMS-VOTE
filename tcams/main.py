@@ -5,7 +5,7 @@ from fastapi import Depends, FastAPI, Header, HTTPException
 from pydantic import BaseModel
 from starlette.middleware.wsgi import WSGIMiddleware
 
-from tcams.config import ADMIN_TOKEN
+from tcams.config import ADMIN_TOKEN, APP_VERSION
 from tcams.database import Base, SessionLocal, engine, get_db
 from tcams.dash_app.app import create_dash_app
 from tcams.dash_app.callbacks import register_callbacks
@@ -46,7 +46,7 @@ app = FastAPI(title="TCAMS Polling API", lifespan=lifespan)
 
 @app.get("/health")
 def health():
-    return {"status": "ok", "service": "tcams-polling"}
+    return {"status": "ok", "service": "tcams-polling", "version": APP_VERSION}
 
 
 @app.get("/api/tallies")

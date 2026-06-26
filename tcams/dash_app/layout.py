@@ -31,7 +31,6 @@ def build_layout(regions: list[str], stations: list[str]) -> dmc.MantineProvider
             dcc.Store(id="valid-regions-store", data=regions),
             dcc.Store(id="valid-stations-store", data=stations),
             dcc.Store(id="animation-trigger", data=None),
-            dcc.Store(id="celebration-trigger", data=None),
             dcc.Store(id="prev-counts-store", data={"yes": 0, "no": 0, "not_sure": 0}),
             dcc.Interval(id="refresh-interval", interval=3000, n_intervals=0),
             html.Div(
@@ -274,7 +273,6 @@ def build_layout(regions: list[str], stations: list[str]) -> dmc.MantineProvider
                         ],
                     ),
                     html.Div(id="animation-layer", className="animation-layer"),
-                    html.Div(id="celebration-layer", style={"display": "none"}),
                 ],
             ),
         ],
